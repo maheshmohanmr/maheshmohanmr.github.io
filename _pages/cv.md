@@ -11,7 +11,7 @@ redirect_from:
 Academic History
 ======
 * Ph.D. Scholar  in [Indian Institute of Technolgy Madras](https://www.iitm.ac.in/), 2014-2019 (exp)
-  * Research Area: Image Processing, Computer Vision, and Computational Photography
+  * Specialization: Image Processing, Computer Vision, and Computational Photography
   * Advisor: [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/)
   * CGPA: 9.5/10 (Core Courses: 10/10)
 * M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2011-2013
