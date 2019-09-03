@@ -29,7 +29,7 @@ Previously, I have completed Master's in [Communication Engineering and Signal P
 <script>
 function myFunction() {
   var x = new Date(document.lastModified);
-  document.getElementById("demo").innerHTML = x;
+  document.getElementById("demo").innerHTML = <font size="x"> x;
 }
 </script>
 
