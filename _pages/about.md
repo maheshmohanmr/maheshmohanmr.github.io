@@ -16,8 +16,8 @@ Previously, I have completed Master's in [Communication Engineering and Signal P
  <strong>News<strong>:
   * &#91;	2019.07 &#93; Awarded Google Travel Grant of 1900 USD to attend ICCV-19, Seoul.
   * &#91;	2019.07 &#93; Selected for ICCV-19 Doctoral Consortium.
-  * &#91;	2019.06 &#93; One paper is accepted as Oral in ICCV-19 	(4.3 &#37 acceptance rate).
-  * &#91;	2018.04 &#93; Two papers are accepted in CVPR-18 (29 &#37 acceptance rate).
+  * &#91;	2019.06 &#93; One paper is accepted as Oral in ICCV-19 	(4.3 % acceptance rate).
+  * &#91;	2018.04 &#93; Two papers are accepted in CVPR-18 (29 % acceptance rate).
 <html>
 <body>
 
