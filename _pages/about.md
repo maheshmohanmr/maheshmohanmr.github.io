@@ -15,3 +15,24 @@ Previously, I have completed Master's in [Communication Engineering and Signal P
 
  <strong>I'm Bold!</strong> and <b>I'm Bold Too!</b>
  News:
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the date and time this document was last modified.</p>
+
+<p><strong>Note:</strong> In this example, we convert the lastModified property into a Date object.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = new Date(document.lastModified);
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>
