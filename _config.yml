@@ -77,7 +77,8 @@ analytics:
   google:
     tracking_id          :
 
-
+plugins:
+  - jekyll-seo-tag
 # Site Author
 author:
   name             : 
