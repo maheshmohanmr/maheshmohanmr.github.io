@@ -30,7 +30,7 @@ Scholastic Achievements
 Professional Service
 ======
 * As Reviewer
-  * Assisted Prof. Rajagopalan A. N. in reviewing International Journal of Computer Vision (IJCV).
+  * Assisted [Prof. Rajagopalan A. N.](http://www.ee.iitm.ac.in/~raju/) in reviewing International Journal of Computer Vision (IJCV).
   * Assisted [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/) in reviewing National Conf. on Communications (NCC) 2017.
   * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
 * As Speaker (Invited)
