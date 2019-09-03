@@ -26,7 +26,7 @@ Academic History
 
 Scholastic Achievements
 ======
-* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering 2013 (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering).
+* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) 2013 (ECE).
 * Institute Award for the best academic performance in Master's (in the class of year 2013).
 
 Publications
@@ -52,7 +52,7 @@ Professional Service
 * As Reviewer
   * Assisted [Prof. Rajagopalan A. N.](http://www.ee.iitm.ac.in/~raju/) in reviewing International Journal of Computer Vision (IJCV).
   * Assisted [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/) in reviewing National Conf. on Communications (NCC) 2017.
-  * Reviewer of Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
+  * Reviewer of [Indian Conf. on Computer Vision, Graphics and Image Processing](https://cvit.iiit.ac.in/icvgip18/) (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
 * As Speaker (Invited)
   * 'Vision India', ICVGIP 2018  (which aims to motivate Indian Scholars to publish in top-tier venues).
   * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.  
