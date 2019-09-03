@@ -54,6 +54,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* As Reviewer
+  * Assisted Prof. Rajagopalan A. N. in reviewing International Journal of Computer Vision (IJCV).
+  * Assisted Prof. Kaushik Mitra in reviewing National Conf. on Communications (NCC) 2017.
+  * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
