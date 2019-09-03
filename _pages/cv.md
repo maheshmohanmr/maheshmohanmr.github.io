@@ -71,7 +71,8 @@ Conferences and Workshops Attended
 Grants
 ====== 
 * For Research
-  * [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/?from=http%3A%2F%2Fresearch.microsoft.com%2Findia) and [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) Travel Grant for ICCV-2017, Venice, Italy (1900 USD).
+  * [Google Research Travel Grant](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/#!?detail-content-tabby_activeEl=india) to attend ICCV-2019 at Seoul, South Korea (1900 USD). 
+  * [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/?from=http%3A%2F%2Fresearch.microsoft.com%2Findia) and [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) Travel Grant for ICCV-2017 at Venice, Italy (1900 USD).
   * Invited Speaker in ICVGIP 2018 and NCVPRIPG 2017 (by resp. Conf. Chairs).
   * Travel Grant for ICACC 2013 (by [TEQIP-2013](https://www.teqip.in/) via Govt. of India and World bank).
 * For Education (via Scholarships) 
