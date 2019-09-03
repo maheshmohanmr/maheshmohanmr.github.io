@@ -13,7 +13,7 @@ I am looking forward to expand my horizon to Deep Learning, with Signal Processi
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
-For more details, please see my [full resume](https://drive.google.com/file/d/1Ih11RMyYb8fiXHY-M_uOH1-Fpn6Ke5R8/view?usp=sharing).
+For more details, please refer my [full resume](https://drive.google.com/file/d/1Ih11RMyYb8fiXHY-M_uOH1-Fpn6Ke5R8/view?usp=sharing).
 
  <strong>News<strong>:
   * &#91;	2019.07 &#93; Awarded Google Travel Grant of 1900 USD to attend ICCV-19, Seoul.
