@@ -47,12 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Workshops Attended
-======
-* Summer School on Deep learning at IIIT Hyderabad (2016).
-* Workshop on [Computational Brain Research](https://ccbr.iitmadras.in/) at IIT Madras (2015).
-
-  
 Professional Service
 ======
 * As Reviewer
@@ -61,4 +55,26 @@ Professional Service
   * Reviewer of Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
 * As Speaker (Invited)
   * 'Vision India', ICVGIP 2018  (which aims to motivate Indian Scholars to publish in top-tier venues).
-  * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.
+  * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.  
+  
+Conferences and Workshops Attended
+======
+* International
+  * International Conf. on Computer Vision (ICCV) at Venice, Italy (2017)
+* National
+  * ICVGIP at ISB Hyderabad, Telengana (2018)
+  * NCVPRIPG at IIT Mandi, Himachal Pradesh (2017)
+  * Summer School on Deep learning at IIIT Hyderabad, Telengana (2016)
+  * Workshop on [Computational Brain Research](https://ccbr.iitmadras.in/) at IIT Madras, Tamil Nadu (2015)
+  * ICACC at RSET Cochin, Kerala (2013)
+
+Grants
+====== 
+* For Research
+  * [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/?from=http%3A%2F%2Fresearch.microsoft.com%2Findia) and [ACM India-IARCS](https://www.iarcs.org.in/activities/grants.php) Travel Grant for ICCV-2017, Venice, Italy (1900 USD).
+  * Invited Speaker in ICVGIP 2018 and NCVPRIPG 2017 (by resp. Conf. Chairs).
+  * Travel Grant for ICACC 2013 (by [TEQIP-2013](https://www.teqip.in/) via Govt. of India and World bank).
+* For Education (via Scholarships) 
+  * Doctoral Studies - from [Govt. of India, Ministry of Human Resource Development](https://mhrd.gov.in/).
+  * Master’s Studies - from [All India Council for Technical Education](https://www.aicte-india.org/).
+
