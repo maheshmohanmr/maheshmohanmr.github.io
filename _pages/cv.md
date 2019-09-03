@@ -8,19 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+Academic History
 ======
-* Ph.D. Scholar  in [Indian Institute of Technolgy Madras](https://www.iitm.ac.in/), 2019 (exp)
+* Ph.D. Scholar  in [Indian Institute of Technolgy Madras](https://www.iitm.ac.in/), 2014-2019 (exp)
   * Research Area: Image Processing, Computer Vision, and Computational Photography
   * Advisor: [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/)
   * CGPA: 9.5/10 (Core Courses: 10/10)
-* M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2013
+* M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2011-2013
   * Specialization: Communication Engineering and Signal Processing
   * Thesis Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
   * Thesis: Contourlet Transform based Medical Image Denosing
   * CGPA: 8.89/10 (Thesis: 10/10)
-
+* B.Tech in [MG College of Engineering (CUSAT)](http://www.mgcet.com/), 2007-2011
+  * Specialization: Electronics and Communication Engineering
+  * Project: JPEG Study and Implementation, done at [Center for Development of Imaging Technology](https://cdit.org/home-1).
+  * First Class with Distinction  
 
 Scholastic Achievements
 ======
@@ -34,7 +36,7 @@ Professional Service
   * Assisted [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/) in reviewing National Conf. on Communications (NCC) 2017.
   * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
 * As Speaker (Invited)
-  * Vision India’, ICVGIP 2018 (which aims to motivate Indian Scholars to publish in top-tier venues).
+  * 'Vision India', ICVGIP 2018 (which aims to motivate Indian Scholars to publish in top-tier venues).
   * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.
  
   
