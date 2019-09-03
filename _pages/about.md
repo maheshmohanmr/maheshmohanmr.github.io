@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year Ph.D. student in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), specializing in Signal Processing. I work in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/), advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/). Here, my research lies at the intersection of Signal Processing and Computer Vision. I am looking forward to expand my horizon to Deep Learning, aided by Signal Processing Theories and Methods (for which I am eagerly looking for a Post-doc position).
+I am a final year Ph.D. student in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), specializing in Signal Processing. I work in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/), advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/). Here, my research lies at the intersection of Signal Processing and Computer Vision. I am looking forward to expand my horizon to Deep Learning, with Signal Processing as its cornerstone (for which I am eagerly looking for a Post-doc position).
 
 
 
