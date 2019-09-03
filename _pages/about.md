@@ -14,7 +14,7 @@ I am looking forward to expand my horizon to Deep Learning, with Signal Processi
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
  <strong>News<strong>:
-  * &#91;	Summer 2015 &#93;: Research Assistant
+  * &#91;	2019.07 &#93;: Selected for CVPR 2016 Doctoral Consortium.
   * 
   *
 <html>
