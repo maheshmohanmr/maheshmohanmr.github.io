@@ -13,9 +13,7 @@ I am looking forward to expand my horizon to Deep Learning, with Signal Processi
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
- <strong>I'm Bold!</strong> and <b>I'm Bold Too!</b>
- News:
-<!DOCTYPE html>
+ <strong>News<strong>:
 <html>
 <body>
 
@@ -23,7 +21,7 @@ Previously, I have completed Master's in [Communication Engineering and Signal P
 
 <p><strong>Note:</strong> In this example, we convert the lastModified property into a Date object.</p>
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">Last Update</button>
 
 <p id="demo"></p>
 
