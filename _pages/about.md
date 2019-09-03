@@ -13,12 +13,17 @@ I am looking forward to expand my horizon to Deep Learning, with Signal Processi
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
----
-permalink: /
+ <!DOCTYPE html>
+<html>
+
+<head>
+  <title>HTML Reference</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html> 
 title: "About me2"
-excerpt: "About me2"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
