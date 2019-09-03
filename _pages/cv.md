@@ -26,7 +26,7 @@ Academic History
 
 Scholastic Achievements
 ======
-* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) 2014 (ECE).
+* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)  2014.
 * Institute Award for the best academic performance in Master's (in the class of year 2013).
 
 Publications
