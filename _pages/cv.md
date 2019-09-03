@@ -16,7 +16,7 @@ Academic History
   * CGPA: 9.5/10 (Core 10/10 and Elective 9/10)
 * M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2011-2013
   * Specialization: [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/)
-  * Thesis Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
+  * Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
   * Thesis: Contourlet Transform based Medical Image Denosing
   * CGPA: 8.89/10 (Thesis: 10/10)
 * B.Tech in [MG College of Engineering (CUSAT)](http://www.mgcet.com/), 2007-2011
