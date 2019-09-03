@@ -34,7 +34,7 @@ Professional Service
 * As Reviewer
   * Assisted [Prof. Rajagopalan A. N.](http://www.ee.iitm.ac.in/~raju/) in reviewing International Journal of Computer Vision (IJCV).
   * Assisted [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/) in reviewing National Conf. on Communications (NCC) 2017.
-  * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
+  * Reviewer of Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
 * As Speaker (Invited)
   * 'Vision India', ICVGIP 2018 (which aims to motivate Indian Scholars to publish in top-tier venues).
   * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.
