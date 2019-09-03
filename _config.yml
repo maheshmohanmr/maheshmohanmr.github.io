@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahesh Mohan M. R."
+title                    : "Mahesh Mohan M R"
 title_separator          : "-"
 name                     : &name "Mahesh Mohan M. R."
-description              : &description "P.hd. Scholar in IIT Madras"
+description              : &description "Website of Mahesh Mohan M R"
 url                      : https://maheshmohanmr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maheshmohanmr.github.io"
