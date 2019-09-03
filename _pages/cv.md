@@ -21,7 +21,7 @@ Academic History
   * CGPA: 8.89/10 (Thesis: 10/10)
 * B.Tech in [MG College of Engineering (CUSAT)](http://www.mgcet.com/), 2007-2011
   * Specialization: Electronics and Communication Engineering
-  * Project: JPEG Compression in Linux, done at [Center for Development of Imaging Technology](https://cdit.org/home-1).
+  * Project: JPEG in Linux, done at [Center for Development of Imaging Technology](https://cdit.org/home-1).
   * Grade: First Class with Distinction  
 
 Scholastic Achievements
