@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Scholar  in Indian Institute of Technolgy (IIT) Madras, 2019 (exp)
+* M.Tech in Govt. Engineering College Thrishur, 2013
+* B. Tech in M G College of Engineering, 2011
 
-Work experience
+Scholastic Achievements
+======
+* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering).
+* Institute Award for the best academic performance in Master's (in the class of year 2013).
+
+Scholastic Achievements
 ======
 * Summer 2015: Research Assistant
   * Github University
