@@ -14,7 +14,7 @@ Academic History
   * Research Areas: [Image Processing, Computer Vision, and Computational Photography](http://www.ee.iitm.ac.in/ipcvlab/)
   * Advisor: [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/)
   * CGPA: 9.5/10 (Core 10/10 and Elective 9/10)
-* M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2011-2013
+* M.Tech in [Govt. Engineering College Thrissur](http://gectcr.ac.in/), 2011-2013
   * Specialization: [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/)
   * Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
   * Thesis: Contourlet Transform based Medical Image Denosing
