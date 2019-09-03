@@ -11,36 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Scholar  in Indian Institute of Technolgy (IIT) Madras, 2019 (exp)
-* M.Tech in Govt. Engineering College Thrishur, 2013
-* B. Tech in M G College of Engineering, 2011
+* Ph.D. Scholar  in [Indian Institute of Technolgy Madras](https://www.iitm.ac.in/), 2019 (exp)
+  * Research Area: Image Processing, Computer Vision, and Computational Photography
+  * Advisor: [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/)
+  * CGPA: 9.5/10 (Core Courses: 10/10)
+* M.Tech in [Govt. Engineering College Thrishur](http://gectcr.ac.in/), 2013
+  * Specialization: Communication Engineering and Signal Processing
+  * Thesis Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
+  * Thesis: Contourlet Transform based Medical Image Denosing
+  * CGPA: 8.89/10 (Thesis: 10/10)
+
 
 Scholastic Achievements
 ======
-* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering).
+* All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering 2013 (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering).
 * Institute Award for the best academic performance in Master's (in the class of year 2013).
 
-Scholastic Achievements
+Professional Service
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* As Reviewer
+  * Assisted Prof. Rajagopalan A. N. in reviewing International Journal of Computer Vision (IJCV).
+  * Assisted [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/) in reviewing National Conf. on Communications (NCC) 2017.
+  * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
+* As Speaker (Invited)
+  * Vision India’, ICVGIP 2018 (which aims to motivate Indian Scholars to publish in top-tier venues).
+  * Special session on “Rolling shutter camera”, headed by Prof. Rajagopalan A. N., NCVPRIPG 2017.
+ 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -59,9 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Professional Service
-======
-* As Reviewer
-  * Assisted Prof. Rajagopalan A. N. in reviewing International Journal of Computer Vision (IJCV).
-  * Assisted Prof. Kaushik Mitra in reviewing National Conf. on Communications (NCC) 2017.
-  * Indian Conf. on Computer Vision, Graphics and Image Processing (ICVGIP) 2018 and National Conf. for Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) 2017.
+
