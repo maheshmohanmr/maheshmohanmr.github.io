@@ -76,6 +76,6 @@ Grants
   * Invited Speaker in ICVGIP 2018 and NCVPRIPG 2017 (by resp. Conf. Chairs).
   * Travel Grant for ICACC 2013 (by [TEQIP-2013](https://www.teqip.in/) via Govt. of India and World bank).
 * For Education (via Scholarships) 
-  * Doctoral Studies - from [Govt. of India, Ministry of Human Resource Development](https://mhrd.gov.in/).
-  * Master’s Studies - from [All India Council for Technical Education](https://www.aicte-india.org/).
+  * Doctoral Studies - funded by [Govt. of India, Ministry of Human Resource Development](https://mhrd.gov.in/).
+  * Master’s Studies - funded by [All India Council for Technical Education](https://www.aicte-india.org/).
 
