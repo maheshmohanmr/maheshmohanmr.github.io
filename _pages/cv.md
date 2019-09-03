@@ -22,7 +22,7 @@ Academic History
 * B.Tech in [MG College of Engineering (CUSAT)](http://www.mgcet.com/), 2007-2011
   * Specialization: Electronics and Communication Engineering
   * Project: JPEG Study and Implementation, done at [Center for Development of Imaging Technology](https://cdit.org/home-1).
-  * First Class with Distinction  
+  * Grade: First Class with Distinction  
 
 Scholastic Achievements
 ======
