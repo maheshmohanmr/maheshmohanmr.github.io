@@ -1,11 +1,5 @@
 # main links links
 main:
-- title: "Publications"
-url: /publications/
-
-- title: "Publications"
-url: /publications/
-
   - title: "Publications"
     url: /publications/
 
@@ -15,11 +9,15 @@ url: /publications/
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
-   
-  - title: "A LiFe FiLe"
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "CV"
+    url: /cv/
     
+  - title: "Guide"
+url: /markdown/
 
