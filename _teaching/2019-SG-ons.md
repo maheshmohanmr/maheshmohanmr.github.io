@@ -1,5 +1,5 @@
 ---
-title: "Co-mentored (with Prof. A. N. Rajagopalan) an undergrad towards Project (led to ICCV-19 Oral)"
+title: "Co-mentored (with Prof. A. N. Rajagopalan) a student towards undergrad project (led to ICCV-19 Oral)"
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2019-SG-ons
