@@ -8,8 +8,8 @@ date: 2015-06-06
 location: "India"
 ---
 <p style="text-align:left;">
-  This Lecture Series started at a time when Deep Learning was taking off, and it aims to explain the (then) emerging field  
-  Deep Learning for the (then) members of <a href="http://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision Lab</a> and  <a href="http://www.ee.iitm.ac.in/comp_photolab/">Computational Imaging Lab</a>, headed by <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan</a> and <a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra</a>, respectively. 
+  This Lecture Series started at a time when <q>Deep Learning</q> was taking off, and it aims to explain the (then) emerging field  
+  of Deep Learning for the (then) members of <a href="http://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision Lab</a> and  <a href="http://www.ee.iitm.ac.in/comp_photolab/">Computational Imaging Lab</a>, headed by <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan</a> and <a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra</a>, respectively. 
   
   <br> &nbsp;&nbsp;&nbsp;&nbsp; Here the first lecture introduces Deep Learning (L1), later, followed by a doubt-clearing session (L1.1). Lecture 2 covers Convolutional Neural Network (L2) and Lecture 3 provides a mathematical interpretation of Deep Learning. This series was concluded with Lecture 4, which attempts to explain few Deep Learning approaches for Image Processing (L4). Time for a secret: then I wandered over different domains but except Deep Learning, and now, when I look back that flight, O Lost! 
     <span style="float:right;">
