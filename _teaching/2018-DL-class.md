@@ -2,7 +2,7 @@
 title: "Lectured on <q>Traditional Image Processing</q> and <q>Deep Learning based Motion Deblurring</q>"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2019-mosaicing
+permalink: /teaching/2019-traditional
 venue: "IIT Madras, EE Dept."
 date: 2019-06-06
 location: "India"
