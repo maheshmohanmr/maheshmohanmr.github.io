@@ -1,3 +1,8 @@
+# Om Nama Sivaya
+# Let us then be up and doing,
+# With a heart for any fate,
+# Still achieving, Still pursuing,
+# Learn to labour and to wait.
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -89,6 +94,7 @@ author:
   location         : "Chennai, India"
   employer         :
   pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao"
   email            : "ee14d023@ee.iitm.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
