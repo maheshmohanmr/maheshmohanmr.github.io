@@ -31,7 +31,7 @@ This paper is about the number 1. The number 2 is left for future work.
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://drive.google.com/file/d/1TU5L6fnt4Kd49IUOU7aNxor5NIgdHuNG/view?usp=sharing">
-                <papertitle>Pushinng the Boundaries of View Extrapolation with Multiplane Images</papertitle>
+                <papertitle>Pushisg the Boundaries of View Extrapolation with Multiplane Images</papertitle>
               </a>
               <br>
               <a href="https://people.eecs.berkeley.edu/~pratul/">Pratul P. Srinivasan</a>, Richard Tucker,
