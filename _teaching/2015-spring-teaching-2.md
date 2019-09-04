@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Lectured on Image Mosaicing for the Image Signal processing Course"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2019-mosaicing
+venue: "IIT Madras, EE Dept."
+date: 2019-06-06
+location: "India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The objective of this lecture is to make students understand the fundamentals of Image Mosaicing (i.e., the task of stitching multiple images to create a panorama), and equip them to implement the same as part of the course-assignment.
