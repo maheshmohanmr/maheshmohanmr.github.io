@@ -117,14 +117,12 @@ References
 </style>
 </head>
 <body>
-
-<h2>Two Equal Columns</h2>
-
 <div class="row">
   <div class="column" style="background-color:#f8f8f8;">
-    &#128231; 
-    <h2>Prof. A. N. Rajagopalan </h2>
-    <p>Some text..</p>
+    <h2><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan, FIETE, FAvH, FNAE</a> </h2>
+    <p>Professor, Department of Electrical Engineering
+Indian <br>Institute of Technology Madras
+<br> href=mailto:<nowiki>raju@ee.iitm.ac.in?subject="HTML link">Click here to send us an email!!!</a> </p>
   </div>
   <div class="column" style="background-color:#f8f8f8;">
     <h2>Column 2</h2>
