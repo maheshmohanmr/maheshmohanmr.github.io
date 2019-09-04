@@ -1,7 +1,7 @@
 ---
 title: "Mentored two undergrads towards <i>the best</i> Deep Learning course project"
 collection: teaching
-type: "Graduate Course (EE6132) offered by <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan;</a> and <a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra;</a>"
+type: "Graduate Course (EE6132) offered by Prof. A. N. Rajagopalan and Prof. Kaushik Mitra"
 permalink: /teaching/2017-DL-undergrad
 venue: "IITM, EE Dept."
 date: 2017-07-01
