@@ -1,5 +1,5 @@
 ---
-title: "Co-mentored, with my Advisor, an undergrad (B. Tech) project, which led to ICCV-19 Oral."
+title: "Co-mentored, with my Advisor, a B. Tech project, which led to ICCV-19 Oral (4.3% acceptance rate)."
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2019-SG-ons
