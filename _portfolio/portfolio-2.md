@@ -1,6 +1,6 @@
 ---
 title: "Ludwig Van Beethoven (17 Dec. 1770 – 26 March 1827)"
-excerpt: "This too shall pass.  <br/><img src='/images/beeth_ons.png'>"
+excerpt: "From the ashes we shall rise!  <br/><img src='/images/beeth_ons.png'>"
 collection: portfolio
 ---
 
