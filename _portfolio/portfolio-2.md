@@ -17,6 +17,6 @@ His Art kept him alive, and the rest we all know.
 
 Then shall come like a beautiful hotspring seven symphonies and even at the age of [54](https://www.beethoven.ws/timeline.html), him being completely deaf, shall continue to sit in the Nature's lap for yet another of his masterpiece.
 
-For those who feel down, my friend, <q>this too shall pass and from the ashes we surely rise</q>. 
+For those who feel down, my friend, <q>This too shall pass and from the ashes we surely rise</q>. 
  
      
