@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 Vision
 ======
-Academic History
-======
 > I had a very strong desire to become a teacher. Graduate studies made me aware that great minds in history are normal people, and as history gets blurred with time, one can and one must create their own art to retain the history for the ‘future’. For this, as a researcher one needs to build something which is non-existent, and as a teacher, whatever I learn to teach, I need to (re)build them in front of students but only using the tools they possess (to instill the awareness). However, both roles look alike to me! I look forward to a postdoc to build more skill-sets needed for my achieving the above vision.
 
 Academic History
