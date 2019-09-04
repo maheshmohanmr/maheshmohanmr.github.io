@@ -119,13 +119,13 @@ References
 <body>
 <div class="row">
   <div class="column" style="background-color:#f8f8f8;">
-    <h2><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan, FIETE, FAvH, FNAE</a> </h2>
+    <h1><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan, FIETE, FAvH, FNAE</a> </h2>
     <p>Professor, Department of Electrical Engineering</p>
 <p>Indian Institute of Technology Madras</p>
 <p> &#9993; raju@ee.iitm.ac.in </p>
   </div>
   <div class="column" style="background-color:#f8f8f8;">
-    <h2><a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra </a> </h2>
+    <h1><a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra </a> </h2>
     <p>Assistant Professor, Department of Electrical Engineering</p>
 <p>Indian Institute of Technology Madras</p>
 <p> &#9993; kmitra@ee.iitm.ac.in </p>
