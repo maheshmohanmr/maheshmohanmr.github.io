@@ -16,8 +16,8 @@ Previously, I have completed Master's in [Communication Engineering and Signal P
 For more details, please find my [full resume](https://drive.google.com/file/d/1Ih11RMyYb8fiXHY-M_uOH1-Fpn6Ke5R8/view?usp=sharing).
 
  <strong>News<strong>:
-  * &#91;2019.07&#93; Awarded Google Travel Grant of 1900 USD to attend ICCV-19, Seoul.
-  * &#91;2019.07&#93; Selected for ICCV-19 Doctoral Consortium.
+  * &#91; 2019.07 &#93; Awarded Google Travel Grant of 1900 USD to attend ICCV-19, Seoul.
+  * &#91; 2019.07 &#93; Selected for ICCV-19 Doctoral Consortium.
   * &#91;	2019.06 &#93; One paper is accepted as Oral in ICCV-19 	(4.3% acceptance rate).
   * &#91;	2018.04 &#93; Two papers are accepted in CVPR-18 (29% acceptance rate).
   * &#91;	2017.07 &#93; Awarded Microsoft & ACM Travel Grants of 1900 USD to attend ICCV-17, Venice.
