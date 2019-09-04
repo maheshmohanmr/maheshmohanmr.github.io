@@ -1,5 +1,5 @@
 ---
-title: "Alexander Grothendieck (click)"
+title: "Alexander Grothendieck (28 March 1928 – 13 Nov. 2014)"
 excerpt: "The secret genius of Mathematics  <br/><img src='/images/gt_ons_w.png'>"
 collection: portfolio
 ---
