@@ -123,7 +123,7 @@ References
     <p>Professor, FIETE, FAvH, FNAE</p> 
     <p>Department of Electrical Engineering</p>
 <p>Indian Institute of Technology Madras</p>
-<p> &#9993; raju@ee.iitm.ac.in </p>
+<p> &#9993; <a href = "mailto: raju@ee.iitm.ac.in">raju@ee.iitm.ac.in </a> </p>
   </div>
   <div class="column" style="background-color:#fefefa;">
     <h2><a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra </a> </h2>
