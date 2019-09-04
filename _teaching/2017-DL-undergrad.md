@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course (EE6132) offered by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) and [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/)"
 permalink: /teaching/2017-DL-undergrad
 venue: "IITM, EE Dept."
-date: 2017
+date: 2017-07-01
 location: "India"
 ---
 <p style="text-align:left;">
