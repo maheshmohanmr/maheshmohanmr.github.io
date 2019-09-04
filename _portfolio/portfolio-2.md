@@ -1,6 +1,6 @@
 ---
 title: "Ludwig Van Beethoven"
-excerpt: "This too shall pass and from the ashes we surely rise.  <br/><img src='/images/beeth_ons.png'>"
+excerpt: "This too shall pass and from the ashes we shall rise.  <br/><img src='/images/beeth_ons.png'>"
 collection: portfolio
 ---
 
