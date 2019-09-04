@@ -120,9 +120,9 @@ References
 <div class="row">
   <div class="column" style="background-color:#f8f8f8;">
     <h2><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan, FIETE, FAvH, FNAE</a> </h2>
-    <p>Professor, Department of Electrical Engineering
-Indian <br>Institute of Technology Madras
-<br> &#9993; href=mailto:<nowiki>raju@ee.iitm.ac.in?subject="HTML link">Click here to send us an email!!!</a> </p>
+    <p>Professor, Department of Electrical Engineering</p>
+<p>Indian Institute of Technology Madras</p>
+<p> &#9993; href=mailto:<nowiki>raju@ee.iitm.ac.in?subject="HTML link">Click here to send us an email!!!</a> </p>
   </div>
   <div class="column" style="background-color:#f8f8f8;">
     <h2>Column 2</h2>
