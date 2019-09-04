@@ -123,7 +123,7 @@ References
 <div class="row">
   <div class="column" style="background-color:#f8f8f8;">
     &#128231; 
-    <h2>Column 1</h2>
+    <h2>Prof. A. N. Rajagopalan </h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:#f8f8f8;">
