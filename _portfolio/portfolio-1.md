@@ -1,5 +1,5 @@
 ---
-title: "Alexander Grothendieck"
+title: "Alexander Grothendieck &#91;click&#93;"
 excerpt: "The secret genius of Mathematics [&#169;](https://al3x.svbtle.com/alexander-grothendieck) <br/><img src='/images/gt_ons_w.png'>"
 collection: portfolio
 ---
