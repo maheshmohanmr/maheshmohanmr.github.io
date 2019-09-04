@@ -1,5 +1,5 @@
 ---
-title: "Co-mentored (with my Prof.) a B. Tech project (which led to ICCV-19 Oral)."
+title: "Co-mentored (with my Prof.) a B. Tech project, which led to <q>ICCV-19 Oral</q>."
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2019-SG-ons
