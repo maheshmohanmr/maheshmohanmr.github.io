@@ -3,17 +3,20 @@ title: "Ludwig Van Beethoven"
 excerpt: "From the ashes we rise.  <br/><img src='/images/gt_ons_w.png'>"
 collection: portfolio
 ---
-For those who feel down, my friend, <q>this too shall pass and from the ashes we surely rise</q>.     
 
-Below is some excerpts from a [letter](https://en.wikisource.org/wiki/Heiligenstadt_Testament) from Young Beethoven (age 28) to his brothers, in the backdrop of losing his <q>hearing</q>, contemplating that "he is worthless". 
+
+Excerpts from a [letter](https://en.wikisource.org/wiki/Heiligenstadt_Testament) from Young Beethoven (age 32) to his brothers, in the backdrop of him as an aspiring musician, but losing his <q>hearing</q>, contemplating that "he is worthless". 
 His Art kept him alive, and the rest we all know. 
 
-  
 
+>But, think that for six years now I have been hopelessly afflicted... I was soon compelled to withdraw myself, to live life alone... Oh I cannot do it; therefore forgive me when you see me draw back when I would have gladly mingled with you.
 
->Most mathematicians are likely to be confined within a conceptual framework, a “Universe” fixed once and for all - one they basically found as “complete” during their education. They are like the heirs of a great and beautiful fully-equipped house, with living rooms and kitchens and workshops, and cookware and tools in all corners, but in which you can still cook and tinker. How this house was gradually built over generations, and how and why such tools (but not others) were designed and crafted…), why the rooms are laid out and developed in a certain way here, but in another way there - these are all issues that the heirs would not dream to question. That’s “the universe”, the “given” in which one must live, and that’s all there is to it! It’s something that looks great (and they most likely haven’t even explored all the rooms), but familiar at the same time; but most of all it is immutable.
+> But what a humiliation for me when someone standing next to me heard a flute in the distance and I heard nothing, or someone standing next to me heard a flute in the distance and I heard nothing, or someone heard a shepherd singing and again I heard nothing. 
 
+> With joy I hasten to meed death. -- If it comes before I have had the chance to develop all my artistic capacities, it will still be coming too soon despite my harsh fate, and I should probably wish it later -- yet even so I should be happy, for would it not free me from a state of endless suffering? -- Come when thou wilt, I shall meed thee bravely. -- Farewell and do not wholly forget me when I am dead...  &#91;Heiligenstadt Testament&#93; [<i style="font-size:24px" class="fa">&#xf08e;</i>](https://www.beethoven.ws/heiligenstadt_testament.html)
+
+Then shall come like a beautiful hotspring seven symphonies and even at the age of [54](https://www.beethoven.ws/timeline.html), him being completely deaf, shall continue to sit in the Nature's lap for yet another of his masterpiece.
+
+For those who feel down, my friend, <q>this too shall pass and from the ashes we surely rise</q>. 
  
-> In my mind, I feel like I am part of a lineage of mathematicians whose spontaneous vocation and joy is constantly building new homes. Along the way, they also can’t help inventing and giving shape to tools, utensils, furniture and required instruments, not only for building the house from the foundation all the way up to the top, but also for copiously filling in future kitchens and future workshops, and furnishing the home to be able to live in it comfortably.
-
- > However, once everything to the last gutter and the last stool is set, it’s rare that the worker takes the time to linger in these places, where every stone and every rafter bears the trace of the hand that has worked on it and put it in place. His place is not in the tranquility of the ready-made universe, as welcoming and as harmonious as it is - it has been arranged by his own hands or by those of his predecessors. Other tasks in other places are already calling him, pressing urges (to satisfy needs) that he is the only one to feel; or perhaps he anticipates needs that he’s the only one to sense. His place is in the open air. He is a friend of the wind and is not afraid to be alone with his task. &#91;Crops and Seeds, Pp.38-39&#93; [<i style="font-size:24px" class="fa">&#xf08e;</i>](https://al3x.svbtle.com/alexander-grothendieck)
+     
