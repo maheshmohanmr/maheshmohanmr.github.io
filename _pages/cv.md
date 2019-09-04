@@ -130,7 +130,7 @@ References
     <p>Assistant Professor</p> 
     <p>Department of Electrical Engineering</p>
 <p>Indian Institute of Technology Madras</p>
-<p> &#9993; kmitra@ee.iitm.ac.in </p>
+<p> &#9993; <a href = "mailto: kmitra@ee.iitm.ac.in">kmitra@ee.iitm.ac.in </a>  </p>
   </div>
 </div>
 
