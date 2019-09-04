@@ -1,5 +1,5 @@
 ---
-title: "Mentored two undergrad students towards <i>the best</i> Deep Learning course-project"
+title: "Co-mentored (with Prof. A. N. ra) two undergrad students towards <i>the best</i> Deep Learning course-project"
 collection: teaching
 type: "Graduate Course (Deep Learning)"
 permalink: /teaching/2017-DL-undergrad
