@@ -118,7 +118,7 @@ References
 </head>
 <body>
 <div class="row">
-  <div class="column" style="background-color:##fefefa;">
+  <div class="column" style="background-color:#fefefa;">
     <h2><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan</a> </h2>
     <p>Professor, FIETE, FAvH, FNAE</p> 
     <p>Department of Electrical Engineering</p>
