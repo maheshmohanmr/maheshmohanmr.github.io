@@ -8,6 +8,10 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <body>
+            
 This paper is about the number 1. The number 2 is left for future work.
 <tr onmouseout="mpi_stop()" onmouseover="mpi_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -45,7 +49,8 @@ This paper is about the number 1. The number 2 is left for future work.
               <p>View extrapolation with multiplane images works better if you reason about disocclusions and disparity sampling frequencies.</p>
             </td>
 </tr>
-
+</body>
+</html>
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
