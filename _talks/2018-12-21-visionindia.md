@@ -7,4 +7,9 @@ venue: "Vision India @ ICVGIP 2018"
 date: 2018-12-21
 location: "Hyderabad, India"
 ---
-This is an invited talk of our work presented in CVPR 2018!  &nbsp; &nbsp; &nbsp; &#91; [Slides](https://drive.google.com/open?id=1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT) &#93;
+<p style="text-align:left;">
+   This is an invited talk of our work presented in CVPR 2018!  
+    <span style="float:right;">
+         <a href="https://drive.google.com/open?id=1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT">&#91; Slides &#93;</a> 
+    </span>
+</p>
