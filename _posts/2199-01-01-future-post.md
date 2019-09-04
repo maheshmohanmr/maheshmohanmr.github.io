@@ -1,11 +1,11 @@
----
-title: "Happy to provide a similar Website for your own! Steps?"
-date: 2019-09-02 
-permalink: /posts/2019-09-blog/
+--
+title: 'Future Blog Post'
+date: 2199-01-01
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
-  - category 1
-  - category 2
-  ---
+  - category1
+  - category2
+---
 
-Please wait. I shall update this soon. 
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
