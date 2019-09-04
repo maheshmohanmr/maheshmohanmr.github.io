@@ -1,5 +1,5 @@
 ---
-title: "Lectured on <q>Traditional Image Processing</q> and <q>Deep Motion Deblurring</q>"
+title: "Lectured on <q>Traditional Image Processing</q> and <q>Deep Learning based Motion Deblurring</q>"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-mosaicing
