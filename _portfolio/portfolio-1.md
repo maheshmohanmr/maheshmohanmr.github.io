@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Alexander Grothendieck"
+excerpt: "[The secret genius of Mathematics](https://al3x.svbtle.com/alexander-grothendieck) <br/><img src='/images/gt_ons_w.jpg'>"
 collection: portfolio
 ---
 
