@@ -125,7 +125,7 @@ References
 <p>Indian Institute of Technology Madras</p>
 <p> &#9993; raju@ee.iitm.ac.in </p>
   </div>
-  <div class="column" style="background-color:#f8f8f8;">
+  <div class="column" style="background-color:#fefefa;">
     <h2><a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra </a> </h2>
     <p>Assistant Professor</p> 
     <p>Department of Electrical Engineering</p>
