@@ -10,6 +10,6 @@ location: "Hyderabad, India"
 <p style="text-align:left;">
    This is an invited talk of our work presented in CVPR 2018!  
     <span style="float:right;">
-         &#91; <a href="https://drive.google.com/open?id=1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT">Slides</a>  &#93; 
+         <a href="https://drive.google.com/open?id=1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT">&#91;Slides&#93;</a>   
     </span>
 </p>
