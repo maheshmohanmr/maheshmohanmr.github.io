@@ -12,8 +12,8 @@ This paper is about the number 1. The number 2 is left for future work.
 <tr onmouseout="mpi_stop()" onmouseover="mpi_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='mpi_image'><img src='/../images/Mahesh_ons.jpg'></div>
-                <img src='/../images/Mahesh_ons.jpg'>
+                <div class="two" id='mpi_image'><img src='images/beethoven_ons.jpg'></div>
+                <img src='images/beethoven_ons.jpg'>
               </div>
               <script type="text/javascript">
                 function mpi_start() {
