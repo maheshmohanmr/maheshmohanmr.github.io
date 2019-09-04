@@ -122,11 +122,13 @@ References
     <h2><a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan, FIETE, FAvH, FNAE</a> </h2>
     <p>Professor, Department of Electrical Engineering</p>
 <p>Indian Institute of Technology Madras</p>
-<p> &#9993; href=mailto:<nowiki>raju@ee.iitm.ac.in?subject="HTML link">Click here to send us an email!!!</a> </p>
+<p> &#9993; raju@ee.iitm.ac.in </p>
   </div>
   <div class="column" style="background-color:#f8f8f8;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2><a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra </a> </h2>
+    <p>Assistant Professor, Department of Electrical Engineering</p>
+<p>Indian Institute of Technology Madras</p>
+<p> &#9993; kmitra@ee.iitm.ac.in </p>
   </div>
 </div>
 
