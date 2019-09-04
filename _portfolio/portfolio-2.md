@@ -1,6 +1,6 @@
 ---
 title: "Ludwig Van Beethoven"
-excerpt: "From the ashes we rise.  <br/><img src='/images/gt_ons_w.png'>"
+excerpt: "From the ashes we rise.  <br/><img src='/images/beeth_ons.png'>"
 collection: portfolio
 ---
 
