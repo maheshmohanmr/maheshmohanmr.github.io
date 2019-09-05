@@ -58,8 +58,8 @@ author_profile: true
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>,
-              <a href="http://www.cs.cmu.edu/~asrivats/">Sharath Girish</a>, and 
-              <a href="https://people.eecs.berkeley.edu/~klein/">A. N. Rajagopalan </a>
+              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
               <br>
