@@ -48,6 +48,7 @@ Publications
 ======
 * a
 * b
+
 Talks
 ======
   <ul>{% for post in site.talks %}
