@@ -15,7 +15,6 @@ You can find my complete1 publications on <a href="https://scholar.google.com/ci
   {% include archive-single.html %}
 {% endfor %}-->
 
-<!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!-- Hi, Jon Here. Please DELETE the two <script> tags below if you use this HTML, otherwise my analytics will track your page -->
 
