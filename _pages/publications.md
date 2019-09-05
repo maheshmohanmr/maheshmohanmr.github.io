@@ -35,7 +35,7 @@ author_profile: true
           </tr>
 </tbody></table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-           <!--position: absolute; top: 50%;left:50%; transform: translate(-40%, -50%)-->
+          <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
@@ -67,7 +67,8 @@ author_profile: true
               <p></p>
               <p>Variational auto-encoders can be used to disentangle a characters style from its content.</p>
             </td>
-          </tr>      
+          </tr>    
+           <!-- New paper ONS -->
           <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
@@ -99,6 +100,7 @@ author_profile: true
               <p>Considering the optics of dual-pixel image sensors improves monocular depth estimation techniques.</p>
             </td>
           </tr>
+          <!-- New paper ONS -->
           <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
