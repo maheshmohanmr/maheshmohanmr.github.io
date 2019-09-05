@@ -1,5 +1,5 @@
 ---
-title: "Mentored (with Prof. Rajagopalan) a project associate towards a funded project."
+title: "Mentored (with Prof. A. N. Rajagopalan) a project associate towards a funded project."
 collection: teaching
 type: "Funded Project"
 permalink: /teaching/2018-car
