@@ -130,6 +130,4 @@ You can find my complete11 publications on <a href="https://scholar.google.com/c
             </td>
 </tr>
            </tbody></table>
-      </td>
-    </tr>
-
+    
