@@ -63,6 +63,7 @@ author_profile: true
               <br>
               <em>ICCV</em>, 2019 &nbsp <font color="red"><strong>(Oral Presentation)</strong></font>
               <br>
+              <br> Paper coming soon ...
               <p></p>
               <p>Dual-lens cameras warrants a new motion blur model and an optimization protocol for depth-consistent deblurring. </p>
             </td>
