@@ -31,8 +31,8 @@ You can find my complete11 publications on <a href="https://scholar.google.com/c
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='font_image'><img src='images/font_after.png'></div>
-                <img src='images/font_before.png'>
+                <div class="two" id='font_image'><img src='../assets/beethoven_ons.jpg'></div>
+                <img src='../assets/beethoven_ons.jpg'>
               </div>
               <script type="text/javascript">
                 function font_start() {
