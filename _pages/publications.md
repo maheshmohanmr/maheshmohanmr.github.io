@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 <title>Jon Barron</title>
 You can find my complete11 publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>
