@@ -30,7 +30,7 @@ author_profile: true
               <heading>Research</heading>
               <p>
               I'm interested in image processing, computer vision, computational photography, and deep learning. Selected publications are provided below. 
-                (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
+               <br> (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
               </p>
             </td>
           </tr>
