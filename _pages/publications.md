@@ -3,8 +3,6 @@ layout: archive
 permalink: /publications/
 author_profile: false
 ---
-<title>Jon Barron</title>
-You can find my complete11 publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}-->
@@ -32,7 +30,7 @@ You can find my complete11 publications on <a href="https://scholar.google.com/c
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, depth, motion, paint, light, colors, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
+                I'm interested in image processing, computer vision, and computational photography. Selected publications are provided below. (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
               </p>
             </td>
           </tr>
