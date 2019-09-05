@@ -69,7 +69,7 @@ author_profile: true
             </td>
           </tr>      
           <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='dpzlearn_image'><img src='images/dpzlearn_after.jpg'></div>
                 <img src='images/dpzlearn_before.jpg'>
@@ -84,7 +84,7 @@ author_profile: true
                 dpzlearn_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="https://arxiv.org/abs/1904.05822">
                 <papertitle>Learning Single Camera Depth Estimation using Dual-Pixels</papertitle>
               </a>
