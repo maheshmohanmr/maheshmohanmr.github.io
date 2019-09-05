@@ -26,7 +26,7 @@ author_profile: true
 <body>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:20px;width:100%;vertical-align:middle">
+            <td style="padding:20px;border:0px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
               [Under Maintenance]  I'm interested in image processing, computer vision, and computational photography. Selected publications are provided below. (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
