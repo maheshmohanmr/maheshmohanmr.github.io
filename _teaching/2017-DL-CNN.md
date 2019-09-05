@@ -8,7 +8,7 @@ date: 2017-11-06
 location: "India"
 ---
 <p style="text-align:left;">
-   When <q>Deep Learning course</q> was first introduced in EE Dept., IITM,  by <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan</a> and Prof. Kaushik Mitra, I (along with Prof. A. N. Rajagopalan) prepared course contents and presentations for <q>Convolutional Neural Network</q>. 
+   When <q>Deep Learning course</q> was first introduced in EE Dept.,  by <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan</a> and <a href="http://www.ee.iitm.ac.in/kmitra/">Prof. Kaushik Mitra</a>, I (along with Prof. A. N. Rajagopalan) prepared course contents and presentations for <q>Convolutional Neural Network</q>. 
   <span style="float:right;">
          <a href="https://drive.google.com/open?id=1_MHsjlr4pYeDv34pcZSZAs8sDyuHbzGz">&#91;Slides&#93;</a> 
     </span>
