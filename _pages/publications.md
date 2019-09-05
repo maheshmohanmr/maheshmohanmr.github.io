@@ -65,7 +65,7 @@ author_profile: true
               <br>
               <br> Paper coming soon ...
               <p></p>
-              <p>Dual-lens cameras warrants a new motion blur model and an optimization protocol for depth-consistent deblurring. </p>
+              <p>Dual-lens cameras warrants a new motion blur model and a specific prior for depth-consistent deblurring. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
