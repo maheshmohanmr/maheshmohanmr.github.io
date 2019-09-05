@@ -29,7 +29,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              [Under Maintenance 2]  I'm interested in image processing, computer vision, and computational photography. Selected publications are provided below. (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
+              [Under Maintenance 3]  I'm interested in image processing, computer vision, and computational photography. Selected publications are provided below. (N.B. You can find my complete publications on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao">my Google Scholar profile.</a>)
               </p>
             </td>
           </tr>
@@ -37,7 +37,7 @@ author_profile: true
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!--position: absolute; top: 50%;left:50%; transform: translate(-40%, -50%)-->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='font_image'><img src='../assets/beethoven_ons.jpg'></div>
                 <img src='../assets/beethoven_ons.jpg'>
@@ -52,7 +52,7 @@ author_profile: true
                 font_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
                 <papertitle>A Deep Factorization of Style and Structure in Fonts</papertitle>
               </a>
