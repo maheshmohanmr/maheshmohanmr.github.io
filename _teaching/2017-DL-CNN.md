@@ -2,7 +2,7 @@
 title: "Prepared Course Contents for a module in Deep Learning Course </q>"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2019-traditional
+permalink: /teaching/2017-CNN
 venue: "IIT Madras, EE Dept."
 date: 2017-11-06
 location: "India"
