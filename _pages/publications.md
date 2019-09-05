@@ -27,7 +27,7 @@ You can find my complete11 publications on <a href="https://scholar.google.com/c
 </head>
 
 <body>
-         <table style="width:74%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+         <table style="width:80%;border:0px;border-spacing:0px;border-collapse:separate;position: absolute; top: 50%;left:50%; transform: translate(-40%, -50%)"><tbody>
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
