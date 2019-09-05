@@ -1,5 +1,5 @@
 ---
-title: "Lectured on  various <q>Deep learning topics</q>"
+title: "Lectured on  various topics in <q>Deep Learning</q>"
 collection: teaching
 type: "Lab Talk"
 permalink: /teaching/2015-deeplearning
