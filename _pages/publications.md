@@ -37,7 +37,7 @@ author_profile: true
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
           <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='font_image'><img src='../images/iccv_19_op_ons.png'></div>
                 <img src='../images/iccv_19_ip_ons.png'>
@@ -52,7 +52,7 @@ author_profile: true
                 font_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
                 <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
               </a>
@@ -70,7 +70,7 @@ author_profile: true
           </tr>    
            <!-- New paper ONS -->
           <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='dpzlearn_image'><img src='images/dpzlearn_after.jpg'></div>
                 <img src='images/dpzlearn_before.jpg'>
@@ -85,7 +85,7 @@ author_profile: true
                 dpzlearn_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="https://arxiv.org/abs/1904.05822">
                 <papertitle>Learning Single Camera Depth Estimation using Dual-Pixels</papertitle>
               </a>
@@ -102,7 +102,7 @@ author_profile: true
           </tr>
           <!-- New paper ONS -->
           <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='porlight_image'><img src='images/porlight_after.jpg'></div>
                 <img src='images/porlight_before.jpg'>
@@ -117,7 +117,7 @@ author_profile: true
                 porlight_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="https://arxiv.org/abs/1905.00824">
                 <papertitle>Single Image Portrait Relighting</papertitle>
               </a>
