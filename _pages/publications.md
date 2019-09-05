@@ -170,7 +170,4 @@ You can find my complete1 publications on <a href="https://scholar.google.com/ci
            </tbody></table>
       </td>
     </tr>
-  </table>
-</body>
 
-</html>
