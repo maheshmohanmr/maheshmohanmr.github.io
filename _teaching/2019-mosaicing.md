@@ -1,5 +1,5 @@
 ---
-title: "Lectured on <q>Image Mosaicing</q> for the Image Signal Processing Course"
+title: "Lectured on <q>Image Mosaicing</q> for Image Signal Processing Course"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-mosaicing
