@@ -1,16 +1,16 @@
 ---
 title: "Mentored (with Prof. Rajagopalan) a project associate towards a funded project."
 collection: teaching
-type: "Graduate Course (Deep Learning)"
-permalink: /teaching/2017-DL-undergrad
+type: "Funded Project"
+permalink: /teaching/2018-car
 venue: "IITM, EE Dept."
-date: 2017-07-01
+date: 2018-07-01
 location: "India"
 ---
 <p style="text-align:left;">
-   Here, I proposed a problem statement <q>Efficient Sketch Classification for Resource-constrained platforms</q>, and designed a research plan for the same. Undergrads <a href="https://www.linkedin.com/in/akshitkumar">Akshit Kumar</a> and <a href="https://in.linkedin.com/in/sachin-agrawal-b33837b9">Sachin Agrawal</a> joined with me and finally got recognition for <i>the best Deep Learning course-project</i>. Presently, both the students are continuing research in <i>Deep Learning</i>; the former is a Master's student at the <a href="https://umich.edu/">University of Michigan, US</a>, and the latter is a Data Scientist at  <a href="https://www.daimler.com/career/graduates/">Daimler, Germany</a>.
+  Lots of accidents are happening while getting out of vehicle from its side doors, wherein it is difficult for a traveller to ensure whether a vehicle is coming from behind and how speed it has. Project associate <a href="https://in.linkedin.com/in/madhumithra-krishnamoorthy-49981a153">Madumitra Krishnamoorthy</a> was incharge of this project. Together, we employ a side-camera and propose a deployable algorithm using traditonal image processing techniques to address this.
     <span style="float:right;">
-         <a href="https://drive.google.com/open?id=1Nq6xaKSR0Uem0Qs2V-1yC_SuMH2qeRuH">&#91;Slides&#93;</a>  
+         <a href="https://drive.google.com/open?id=1f30V7ORC2U9qUShvbsT1Qmc2t5kBT4Og">&#91;Demo&#93;</a>  
     </span>
 </p>
 
