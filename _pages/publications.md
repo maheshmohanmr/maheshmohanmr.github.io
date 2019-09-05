@@ -35,7 +35,8 @@ author_profile: false
             </td>
           </tr>
 </tbody></table>
-         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;position: absolute; top: 50%;left:50%; transform: translate(-40%, -50%)"><tbody>
+         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+           <!--position: absolute; top: 50%;left:50%; transform: translate(-40%, -50%)-->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
