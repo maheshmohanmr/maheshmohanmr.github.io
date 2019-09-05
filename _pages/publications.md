@@ -33,7 +33,7 @@ You can find my complete publications on <a href="https://scholar.google.com/cit
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://arxiv.org/abs/1905.00824">
-                <papertitle>Single Image Portrait Relighting</papertitle>
+                <papertitle>Single Image Portrait Relighting 2</papertitle>
               </a>
               <br>
               <a href="http://kevinkingo.com/">Tiancheng Sun</a>,
