@@ -54,18 +54,17 @@ author_profile: true
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>A Deep Factorization of Style and Structure in Fonts</papertitle>
+                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
               </a>
               <br>
-              <a href="http://www.cs.cmu.edu/~asrivats/">Akshay Srivatsan</a>,
-              <strong>Jonathan T. Barron</strong>,
-              <a href="https://people.eecs.berkeley.edu/~klein/">Dan Klein</a>,
-              <a href="http://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
+              <strong>Mahesh Mohan M. R.</strong>,
+              <a href="http://www.cs.cmu.edu/~asrivats/">Sharath Girish</a>, and 
+              <a href="https://people.eecs.berkeley.edu/~klein/">A. N. Rajagopalan </a>
               <br>
-              <em>EMNLP</em>, 2019
+              <em>ICCV</em>, 2019
               <br>
               <p></p>
-              <p>Variational auto-encoders can be used to disentangle a characters style from its content.</p>
+              <p>Dual-lens cameras warrants a new motion blur model and an optimization protocol for depth-consistent deblurring. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
