@@ -15,11 +15,134 @@ You can find my complete publications on <a href="https://scholar.google.com/cit
   {% include archive-single.html %}
 {% endfor %}-->
 
- <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Hi, Jon Here. Please DELETE the two <script> tags below if you use this HTML, otherwise my analytics will track your page -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-7580334-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-7580334-2');
+  </script>
+
+  <title>Jon Barron</title>
+  
+  <meta name="author" content="Jon Barron">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/seal_icon.png">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Jon Barron</name>
+              </p>
+              <p>I am a staff research scientist at <a href="https://ai.google/research">Google Research</a>, where I work on computer vision and computational photography.
+              </p>
+              <p>
+                At Google I've worked on <a href="https://ai.googleblog.com/2014/04/lens-blur-in-new-google-camera-app.html">Lens Blur</a>, <a href="https://ai.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html">HDR+</a>, <a href="https://www.google.com/get/cardboard/jump/">Jump</a>, <a href="https://ai.googleblog.com/2017/10/portrait-mode-on-pixel-2-and-pixel-2-xl.html">Portrait Mode</a>, and <a href="https://www.youtube.com/watch?v=JSnB06um5r4">Glass</a>. I did my PhD at <a href="http://www.eecs.berkeley.edu/">UC Berkeley</a>, where I was advised by <a href="http://www.cs.berkeley.edu/~malik/">Jitendra Malik</a> and funded by the <a href="http://www.nsfgrfp.org/">NSF GRFP</a>. I did my bachelors at the <a href="http://cs.toronto.edu">University of Toronto</a>.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:jonbarron@gmail.com">Email</a> &nbsp/&nbsp
+                <a href="data/JonBarron-CV.pdf">CV</a> &nbsp/&nbsp
+                <a href="data/JonBarron-bio.txt">Biography</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Google Scholar</a> &nbsp/&nbsp
+                <a href="http://www.linkedin.com/in/jonathanbarron/"> LinkedIn </a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/JonBarron.jpg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/JonBarron_circle.jpg" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, depth, motion, paint, light, colors, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='porlight_image'><img src='../assets/beethoven_ons.jpg'></div>
-                <img src='../assets/beethoven_ons.jpg'>
+                <div class="two" id='font_image'><img src='images/font_after.png'></div>
+                <img src='images/font_before.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="TODO">
+                <papertitle>A Deep Factorization of Style and Structure in Fonts</papertitle>
+              </a>
+              <br>
+              <a href="http://www.cs.cmu.edu/~asrivats/">Akshay Srivatsan</a>,
+              <strong>Jonathan T. Barron</strong>,
+              <a href="https://people.eecs.berkeley.edu/~klein/">Dan Klein</a>,
+              <a href="http://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a>
+              <br>
+              <em>EMNLP</em>, 2019
+              <br>
+              <p></p>
+              <p>Variational auto-encoders can be used to disentangle a characters style from its content.</p>
+            </td>
+          </tr>      
+          <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dpzlearn_image'><img src='images/dpzlearn_after.jpg'></div>
+                <img src='images/dpzlearn_before.jpg'>
+              </div>
+              <script type="text/javascript">
+                function dpzlearn_start() {
+                  document.getElementById('dpzlearn_image').style.opacity = "1";
+                }
+                function dpzlearn_stop() {
+                  document.getElementById('dpzlearn_image').style.opacity = "0";
+                }
+                dpzlearn_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/1904.05822">
+                <papertitle>Learning Single Camera Depth Estimation using Dual-Pixels</papertitle>
+              </a>
+              <br>
+              <a href="http://rahuldotgarg.appspot.com/">Rahul Garg</a>,
+              <a href="http://nealwadhwa.com">Neal Wadhwa</a>, Sameer Ansari,
+              <strong>Jonathan T. Barron</strong>
+              <br>
+              <em>ICCV</em>, 2019 &nbsp <font color="red"><strong>(Oral Presentation)</strong></font>
+              <br>
+              <p></p>
+              <p>Considering the optics of dual-pixel image sensors improves monocular depth estimation techniques.</p>
+            </td>
+          </tr>
+          <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='porlight_image'><img src='images/porlight_after.jpg'></div>
+                <img src='images/porlight_before.jpg'>
               </div>
               <script type="text/javascript">
                 function porlight_start() {
@@ -33,7 +156,7 @@ You can find my complete publications on <a href="https://scholar.google.com/cit
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://arxiv.org/abs/1905.00824">
-                <papertitle>Single Image Portrait Relighting 2</papertitle>
+                <papertitle>Single Image Portrait Relighting</papertitle>
               </a>
               <br>
               <a href="http://kevinkingo.com/">Tiancheng Sun</a>,
@@ -53,3 +176,10 @@ You can find my complete publications on <a href="https://scholar.google.com/cit
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
 </tr>
+           </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
