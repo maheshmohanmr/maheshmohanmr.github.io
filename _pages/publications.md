@@ -18,8 +18,8 @@ You can find my complete publications on <a href="https://scholar.google.com/cit
  <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id='porlight_image'><img src='assets/beethoven_ons.jpg'></div>
-                <img src='assets/beethoven_ons.jpg'>
+                <div class="two" id='porlight_image'><img src='../assets/beethoven_ons.jpg'></div>
+                <img src='../assets/beethoven_ons.jpg'>
               </div>
               <script type="text/javascript">
                 function porlight_start() {
