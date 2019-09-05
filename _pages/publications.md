@@ -102,7 +102,7 @@ author_profile: true
           </tr>
           <!-- New paper ONS -->
           <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='porlight_image'><img src='images/porlight_after.jpg'></div>
                 <img src='images/porlight_before.jpg'>
@@ -117,7 +117,7 @@ author_profile: true
                 porlight_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="https://arxiv.org/abs/1905.00824">
                 <papertitle>Single Image Portrait Relighting</papertitle>
               </a>
@@ -138,6 +138,6 @@ author_profile: true
               <p></p>
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
-</tr>
+            </tr>
            </tbody></table>
     
