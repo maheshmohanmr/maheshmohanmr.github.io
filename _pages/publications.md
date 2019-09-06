@@ -102,7 +102,7 @@ author_profile: true
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
               <br>
               <p></p>
-              <p>For enabling full-resolution light field deblurring, the entire task can be divided into <q>independent<\q> subtasks, wherein a single task <q>reinforces<\q> others. </p>
+              <p>For enabling full-resolution light field deblurring, the entire task can be divided into <q>independent</q> subtasks, wherein a single task <q>reinforces</q> others. </p>
             </td>
           </tr>    
             <!-- New paper ONS -->
