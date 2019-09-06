@@ -86,7 +86,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>D1ivide and Conquer for Full-resolution Light Field Deblurring</papertitle>
+                <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>
