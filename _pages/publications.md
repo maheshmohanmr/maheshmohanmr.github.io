@@ -95,9 +95,11 @@ author_profile: true
               <br>
                <em>CVPR</em>, 2018
               <br>
-              <a href="https://www.youtube.com/watch?v=yxhGWds_g4I">video</a> /
-              <a href="https://petapixel.com/2019/07/16/researchers-developed-an-ai-that-can-relight-portraits-after-the-fact/">press</a> /
-              <a href="data/SunSIGGRAPH2019.bib">bibtex</a>
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
+               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_supp.pdf">supp</a> /
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.bib">poster</a> /
+               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a>
+               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.bib">bib</a> 
               <br>
               <p></p>
               <p>For enabling full-resolution deblurring, the entire task can be divided into independent subtasks, wherein a single task reinforces others. </p>
