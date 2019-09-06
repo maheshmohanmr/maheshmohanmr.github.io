@@ -215,7 +215,7 @@ author_profile: true
             </td>
             </tr>
            <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <td style="padding:20px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <tr>
               <a name="notes">
 <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
@@ -238,5 +238,6 @@ in last names</a></b>.
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
 </a>
+ </tr>
           </tbody></table>
     
