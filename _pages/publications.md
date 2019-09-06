@@ -60,15 +60,6 @@ author_profile: true
               <strong>Mahesh Mohan M. R.</strong>,
               <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
-              <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
-              <div class="bibref">
-              @InProceedings{Das_2018_CVPR,<br>
-               author = {Das, Abhishek and Datta, Samyak and Gkioxari, Georgia and Lee, Stefan and Parikh, Devi and Batra, Dhruv},<br>
-               title = {Embodied Question Answering},<br>
-                booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
-                month = {June},<br>
-                year = {2018}<br>
-               }</div>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
               <br> Paper coming soon ...
