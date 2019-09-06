@@ -205,7 +205,7 @@ author_profile: true
                 <papertitle>Deep Decoupling of Defocus and Motion blur for Dynamic Segmentation</papertitle>
               </a>
               <br>
-              <a href="https://abhijithpunnappurath.github.io/">Abhijith Punnapurath </a>
+              <a href="https://abhijithpunnappurath.github.io/">Abhijith Punnapurath </a>,
               <a href="http://www.cs.umd.edu/~yogesh/">Yogesh Balaji </a>,
               <strong>Mahesh Mohan M. R.</strong>,
                and 
