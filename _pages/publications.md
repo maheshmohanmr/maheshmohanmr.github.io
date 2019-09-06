@@ -61,7 +61,7 @@ author_profile: true
               <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
+              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
               <br> Coming soon ...
               <p></p>
               <p>Motion deblurring for dual-lens cameras possess an ill-posedness, which calls for a specific prior for depth-consistent deblurring. </p>
