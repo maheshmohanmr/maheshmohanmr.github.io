@@ -62,7 +62,7 @@ author_profile: true
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
-              <br> Paper coming soon ...
+              <br> Coming soon ...
               <p></p>
               <p>Dual-lens cameras warrants a new motion blur model and a specific prior for depth-consistent deblurring. </p>
             </td>
