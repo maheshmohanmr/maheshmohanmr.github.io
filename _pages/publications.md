@@ -98,7 +98,7 @@ author_profile: true
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
                <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_supp.pdf">supp</a> /
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.bib">poster</a> /
-               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a>
+               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
                <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.bib">bib</a> 
               <br>
               <p></p>
