@@ -64,7 +64,7 @@ author_profile: true
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
               <br> Coming soon ...
               <p></p>
-              <p>Dual-lens cameras warrants a new motion blur model and a specific prior for depth-consistent deblurring. </p>
+              <p>Motion deblurring for dual-lens cameras possess an ill-posedness, which calls for a specific prior for depth-consistent deblurring. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
@@ -103,6 +103,45 @@ author_profile: true
               <br>
               <p></p>
               <p>For enabling full-resolution deblurring, the entire task can be divided into independent subtasks, wherein a single task reinforces others. </p>
+            </td>
+          </tr>    
+            <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='font_image'><img src='../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_image.png'></div>
+                <img src='../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_image.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Occlusion-Aware Rolling Shutter Rectification of 3D Scenes</papertitle>
+              </a>
+              <br>
+              <a href="https://subeeshvasu.github.io//">Subeesh Vasu </a>,
+              <strong>Mahesh Mohan M. R.</strong>,
+               and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+ <em>CVPR</em>, 2018
+              <br>
+              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf">paper</a> /
+               <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_supp.pdf">supplement</a> / 
+              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_poster.pdf">poster</a> /
+              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_bib.txt">bib</a> 
+              <br>
+              <p></p>
+              <p>For the scenario of a fast moving camera wherein the rolling shutter distortions results in intra-frame occlu-
+sions. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
