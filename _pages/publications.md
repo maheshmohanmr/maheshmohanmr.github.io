@@ -147,7 +147,7 @@ author_profile: true
         <tr onmouseout="RS_stop()" onmouseover="RS_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='RS_image'><img src='../images/iccv_17_op_ons_sqr'></div>
+                <div class="two" id='RS_image'><img src='../images/iccv_17_op_ons_sqr.png'></div>
                 <img src='../images/iccv_17_ip_ons_sqr.png'>
                 <!-- <div class="two" id='font_image'><img src='../images/iccv_19_op_2_ons_sqr.png'></div>
                 <img src='../images/iccv_19_ip_ons_sqr.png'> -->
