@@ -171,11 +171,11 @@ author_profile: true
               <br>
                <em>ICCV</em>, 2017
 <br>
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
-               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
+              <a href="../files/R._Going_Unconstrained_With_ICCV_2017_paper.pdf">paper</a> /
+               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_supplemental.pdf">supplement</a> /
               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
+              <a href="../files/R._Going_Unconstrained_With_ICCV_2017_poster.pdf">poster</a> /
+              <a href="../files/R._Going_Unconstrained_With_ICCV_2017_bib.txt">bib</a> 
               <br>
               <p></p>
               <p>How can we bridge today's ubiquitous <q>rolling shutter</q> cameras with the well-studied conventional cameras, pertaining to <q>motion deblurring</q>?</p>
