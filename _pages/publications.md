@@ -100,7 +100,7 @@ author_profile: true
               <a href="data/SunSIGGRAPH2019.bib">bibtex</a>
               <br>
               <p></p>
-              <p>For enabling full-resolution deblurring, the entire can be divided into independent subtasks, wherein each task reinforces each other. </p>
+              <p>For enabling full-resolution deblurring, the entire task can be divided into independent subtasks, wherein any task reinforces each other. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
