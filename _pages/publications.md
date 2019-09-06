@@ -1,4 +1,3 @@
-<!-- ONS-->
 ---
 layout: archive
 permalink: /publications/
