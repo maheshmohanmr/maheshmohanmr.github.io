@@ -238,20 +238,11 @@ in last names</a></b>.
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
                  <p>
-                I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, depth, motion, paint, light, colors, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
-                   <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
-for the details. If you are unable to download a paper listed here, that you are 
-looking for, please write to me to get a copy.<br>
-<b>Copyright notice</b>: Copies of the papers are provided here for 
+               <b>Copyright notice</b>: Copies of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
-must be adhered to by anyone using these materials.<br>
-<b>Author Naming Convention</b>: Theoretical computer science (as in 
-mathematics), as a culture, follows the convention of ordering the author names 
-in <b><a 
-href="http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">alphabetical 
-in last names</a></b>.
+must be adhered to by anyone using these materials. For other materials, feel free to use it at your convenience for useful purposes. <br>
 <br>
 <hr>
 <center>
