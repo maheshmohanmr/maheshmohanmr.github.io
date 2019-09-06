@@ -1,0 +1,9 @@
+@InProceedings{R._2017_ICCV,
+author = {Mohan, Mahesh M. R. and Rajagopalan, A. N. and Seetharaman, Gunasekaran},
+title = {Going Unconstrained With Rolling Shutter Deblurring},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {Oct},
+year = {2017}
+}
+
+
