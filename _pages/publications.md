@@ -214,6 +214,7 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
+           <br>
            <tr onmouseout="font_stop()" onmouseover="font_start()">
             <tr>
               <a name="notes">
