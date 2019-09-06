@@ -236,9 +236,9 @@ in last names</a></b>.
  </tr>-->        
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+            <td style="padding:7px;width:100%;vertical-align:middle;border:0px">
                  <p>
-               <b>Copyright notice</b>: Copies of the papers are provided here for 
+               <b>Copyright notice</b>: Copies1 of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
