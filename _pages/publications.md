@@ -236,7 +236,7 @@ in last names</a></b>.
  </tr>-->        
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:20px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:13px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
                  <p>
                <b>Copyright notice</b>: Copies of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
