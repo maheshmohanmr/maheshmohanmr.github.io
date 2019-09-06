@@ -64,7 +64,7 @@ author_profile: true
               <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
               <br> Coming soon ...
               <p></p>
-              <p>Motion deblurring for dual-lens cameras possess an ill-posedness, which calls for a specific prior for depth-consistent deblurring. </p>
+              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
@@ -102,7 +102,7 @@ author_profile: true
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
               <br>
               <p></p>
-              <p>For enabling full-resolution deblurring, the entire task can be divided into independent subtasks, wherein a single task reinforces others. </p>
+              <p>For enabling full-resolution light field deblurring, the entire task can be divided into <q>independent<\q> subtasks, wherein a single task <q>reinforces<\q> others. </p>
             </td>
           </tr>    
             <!-- New paper ONS -->
@@ -140,7 +140,7 @@ author_profile: true
               <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p>A method for the scenario of a fast moving camera wherein rolling shutter distortions results in intra-frame occlusions. </p>
+              <p>A method for the scenario of a fast moving camera wherein <q>rolling shutter<\q> distortions results in <q>intra-frame occlusions<\q>. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
