@@ -234,11 +234,10 @@ in last names</a></b>.
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
  </tr>-->        
-     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Research</heading>
-              <p>
+            <td style="padding:20px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+                 <p>
                 I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, depth, motion, paint, light, colors, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
               </p>
             </td>
