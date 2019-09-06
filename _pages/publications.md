@@ -29,8 +29,11 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              I'm interested in image processing, computer vision, computational photography, and deep learning. Selected research publications are provided below: 
+              I'm interested in image processing, computer vision, computational photography, and deep learning. Selected research publications are provided below<sup>[<a name="id394062" href="#ftn.id394062">*</a>]</sup>: 
               </p>
+              <div class="footnote"><p>
+<sup>[<a name="ftn.id394062" href="#id394062">*</a>]</sup>
+Text of footnote ...
             </td>
           </tr>
 </tbody></table>
