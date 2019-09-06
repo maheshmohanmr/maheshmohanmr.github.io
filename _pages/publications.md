@@ -31,10 +31,7 @@ author_profile: true
               <p>
               I'm interested in image processing, computer vision, computational photography, and deep learning. Selected research publications are provided below<sup>[<a name="id394062" href="#ftn.id394062">*</a>]</sup>: 
               </p>
-              <div class="footnote"><p>
-<sup>[<a name="ftn.id394062" href="#id394062">*</a>]</sup>
-Text of footnote ...
-            </td>
+                          </td>
           </tr>
 </tbody></table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
@@ -217,6 +214,9 @@ Text of footnote ...
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
+           <div class="footnote"><p>
+<sup>[<a name="ftn.id394062" href="#id394062">*</a>]</sup>
+Text of footnote ...
          <!--    <tr>
            <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
