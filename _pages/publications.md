@@ -144,6 +144,44 @@ author_profile: true
             </td>
           </tr>    
            <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='font_image'><img src='../images/op_ons.png'></div>
+                <img src='../images/ip_ons.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Going unconstrained with Rolling Shutter Deblurring</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>, 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>, and
+              <a href="https://www.linkedin.com/in/guna-seetharaman-b4886310/">Guna Seetharaman</a>              
+              <br>
+               <em>ICCV</em>, 2017
+<br>
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
+               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
+              <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
+              <br>
+              <p></p>
+              <p>How can we bridge today's ubiquitous <q>rolling shutter</q> cameras with the well-studied conventional cameras, pertaining to <q>motion deblurring</q>?</p>
+            </td>
+          </tr>    
+           <!-- New paper ONS -->
           <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
