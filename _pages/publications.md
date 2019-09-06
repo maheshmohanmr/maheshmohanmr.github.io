@@ -68,7 +68,7 @@ author_profile: true
                 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
                 month = {June},<br>
                 year = {2018}<br>
-               }
+               }</div>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
               <br> Paper coming soon ...
