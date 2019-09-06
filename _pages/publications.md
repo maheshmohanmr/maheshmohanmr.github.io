@@ -238,7 +238,7 @@ in last names</a></b>.
             <tr>
             <td style="padding:11px;width:100%;vertical-align:middle;border:0px">
                  <p>
-               <b>Copyright notice</b>: Copies1 of the papers are provided here for 
+               <b>Copyright notice</b>: Copies of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
@@ -246,7 +246,7 @@ must be adhered to by anyone using these materials. For other materials, feel fr
 <br>
 <hr>
 <center>
-<i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
+<i>Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering -- Albert Einstein</i>
 </center>
               </p>
             </td>
