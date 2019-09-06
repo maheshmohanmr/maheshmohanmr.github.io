@@ -35,6 +35,7 @@ author_profile: true
           </tr>
 </tbody></table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+           <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
