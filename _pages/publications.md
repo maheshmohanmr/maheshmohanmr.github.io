@@ -214,5 +214,18 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
+           <hr>
+<a name="notes">
+<b>Copyright notice</b>: Copies of the papers are provided here for 
+convenient dissemination of scholarly work. They can be downloaded for 
+non-commercial research and education purposes only. Copyrights of the 
+papers usually belong to the publishers of the journals or proceedings and 
+must be adhered to by anyone using these materials.<br>
+<br>
+<hr>
+<center>
+<i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
+</center>
+</a>
            </tbody></table>
     
