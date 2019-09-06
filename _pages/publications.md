@@ -29,7 +29,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              I'm interested in image processing, computer vision, computational photography, and deep learning. Selected research publications are provided below<sup>[<a name="id394062" href="#ftn.id394062">*</a>]</sup>: 
+              I'm interested in image processing, computer vision, computational photography, and deep learning. Selected research publications are provided below: 
               </p>
                           </td>
           </tr>
@@ -214,10 +214,7 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
-           <div class="footnote"><p>
-<sup>[<a name="ftn.id394062" href="#id394062">*</a>]</sup>
-Text of footnote ...
-         <!--    <tr>
+                   <!--    <tr>
            <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
 looking for, please write to me to get a copy.<br>
@@ -237,5 +234,14 @@ in last names</a></b>.
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
  </tr>-->
-          </tbody></table>
-    
+         </table>
+     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+                I'm interested in computer vision, machine learning, optimization, and image processing. Much of my research is about inferring the physical world (shape, depth, motion, paint, light, colors, etc) from images. Representative papers are <span class="highlight">highlighted</span>.
+              </p>
+            </td>
+          </tr>
+</tbody></table>
