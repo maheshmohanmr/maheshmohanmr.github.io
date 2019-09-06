@@ -64,7 +64,7 @@ author_profile: true
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
               <br> Coming soon ...
               <p></p>
-              <p>Motion deblurring for dual-lens cameras is different from monocular ones, and possess an ill-posedness which requires a specific prior to preserve depth-consistency. </p>
+              <p>Motion deblurring for dual-lens cameras possess an ill-posedness, which calls for a specific prior for depth-consistent deblurring. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
