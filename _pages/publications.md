@@ -206,7 +206,7 @@ author_profile: true
               </a>
               <br>
               <a href="https://abhijithpunnappurath.github.io/">Abhijith Punnapurath </a>
-              <a href="http://www.cs.umd.edu/~yogesh/">Yogesh Balaji </a>
+              <a href="http://www.cs.umd.edu/~yogesh/">Yogesh Balaji </a>,
               <strong>Mahesh Mohan M. R.</strong>,
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
