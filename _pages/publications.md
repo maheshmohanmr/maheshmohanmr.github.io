@@ -54,7 +54,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>1Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>,
@@ -62,10 +62,45 @@ author_profile: true
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="red"><strong>(Oral Presentation)</strong></font>
-              <br>
               <br> Paper coming soon ...
               <p></p>
               <p>Dual-lens cameras warrants a new motion blur model and a specific prior for depth-consistent deblurring. </p>
+            </td>
+          </tr>    
+           <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='font_image'><img src='../images/figures_venice_ons.png'></div>
+                <img src='../images/figures_venice_ons.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>,
+               and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+               <em>CVPR 2018</em>, 2019 
+              <br>
+              <a href="https://www.youtube.com/watch?v=yxhGWds_g4I">video</a> /
+              <a href="https://petapixel.com/2019/07/16/researchers-developed-an-ai-that-can-relight-portraits-after-the-fact/">press</a> /
+              <a href="data/SunSIGGRAPH2019.bib">bibtex</a>
+              <br>
+              <p></p>
+              <p>Full-resolution Light Field deblurring can be performed by dividing the entire problem into dependent subtasks that reinforces each other. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
