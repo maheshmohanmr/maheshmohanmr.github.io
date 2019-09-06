@@ -147,8 +147,10 @@ author_profile: true
         <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/ip_ons.png'></div>
-                <img src='../images/op_ons.png'>
+               <!-- <div class="two" id='font_image'><img src='../images/ip_ons.png'></div>
+                <img src='../images/op_ons.png'>-->
+                <div class="two" id='font_image'><img src='../images/iccv_19_op_2_ons_sqr.png'></div>
+                <img src='../images/iccv_19_ip_ons_sqr.png'>
               </div>
               <script type="text/javascript">
                 function font_start() {
