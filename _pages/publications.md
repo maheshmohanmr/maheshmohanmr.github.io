@@ -140,7 +140,7 @@ author_profile: true
               <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p>A method for the scenario of a fast moving camera wherein <q>rolling shutter<\q> distortions results in <q>intra-frame occlusions<\q>. </p>
+              <p>A method for the scenario of a fast moving camera wherein <q>rolling shutter</q> distortions results in <q>intra-frame occlusions</q>. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
