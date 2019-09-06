@@ -1,0 +1,6 @@
+@inproceedings{punnappurath_eccv2016,
+  author = {Punnappurath, Abhijith and Rajagopalan, A. N. and Balaji, Yogesh and Mohan, Mahesh M. R, and Rajagopalan, A. N.},
+  title = {Deep Decoupling of Defocus and Motion Blur for Dynamic Segmentation},
+  booktitle = {Proceeding of the European Conference on Computer Vision},
+  year = {2016}
+} 
