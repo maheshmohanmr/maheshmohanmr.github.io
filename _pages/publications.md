@@ -144,7 +144,7 @@ author_profile: true
             </td>
           </tr>    
            <!-- New paper ONS -->
-        <tr onmouseout="font_stop()" onmouseover="font_start()">
+        <tr onmouseout="RS_stop()" onmouseover="RS_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='RS_image'><img src='../images/ip_ons.png'></div>
@@ -153,13 +153,13 @@ author_profile: true
                 <img src='../images/iccv_19_ip_ons_sqr.png'> -->
               </div>
               <script type="text/javascript">
-                function font_start() {
+                function RS_start() {
                   document.getElementById('RS_image').style.opacity = "1";
                 }
-                function font_stop() {
+                function RS_stop() {
                   document.getElementById('RS_image').style.opacity = "0";
                 }
-                font_stop()
+                RS_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
