@@ -214,18 +214,29 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
-           <hr>
-<a name="notes">
+           <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:100%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a name="notes">
+<b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
+for the details. If you are unable to download a paper listed here, that you are 
+looking for, please write to me to get a copy.<br>
 <b>Copyright notice</b>: Copies of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
 must be adhered to by anyone using these materials.<br>
+
+<b>Author Naming Convention</b>: Theoretical computer science (as in 
+mathematics), as a culture, follows the convention of ordering the author names 
+in <b><a 
+href="http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">alphabetical 
+in last names</a></b>.
+
 <br>
 <hr>
 <center>
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
 </a>
-           </tbody></table>
+          </tbody></table>
     
