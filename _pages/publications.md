@@ -216,8 +216,7 @@ author_profile: true
             </tr>
            <br>
            <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <tr>
-              <a name="notes">
+            <a name="notes">
 <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
 looking for, please write to me to get a copy.<br>
