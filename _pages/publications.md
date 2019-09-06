@@ -202,23 +202,24 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
+                <papertitle>Deep Decoupling of Defocus and Motion blur for Dynamic Segmentation</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>
+              <a href="https://abhijithpunnappurath.github.io/">Abhijith Punnapurath </a>
+              <a href="http://www.cs.umd.edu/~yogesh/">Yogesh Balaji </a>
+              <strong>Mahesh Mohan M. R.</strong>,
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-               <em>CVPR</em>, 2018
+               <em>ECCV</em>, 2016
               <br>
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
- <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
-              <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
+              <a href="../files/eccv_paper.pdf">paper</a> /
+               <a href="../files/eccv_sup.pdf">supplement</a> /
+               <a href="../files/ecc_poster.pdf">poster</a> /
+              <a href="../files/eccv_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p>Full-resolution light field deblurring can be divided into <q>independent</q> subtasks, wherein a single task <q>reinforces</q> others. </p>
+              <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
