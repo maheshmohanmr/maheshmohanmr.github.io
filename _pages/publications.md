@@ -68,20 +68,20 @@ author_profile: true
             </td>
           </tr>    
            <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
+          <tr onmouseout="divide_stop()" onmouseover="divide_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/figure_r_venice_ons.png'></div>
+                <div class="two" id='divide_image'><img src='../images/figure_r_venice_ons.png'></div>
                 <img src='../images/figure_r_venice_ons.png'>
               </div>
               <script type="text/javascript">
-                function font_start() {
+                function divide_start() {
                   document.getElementById('font_image').style.opacity = "1";
                 }
-                function font_stop() {
+                function divide_stop() {
                   document.getElementById('font_image').style.opacity = "0";
                 }
-                font_stop()
+                divide_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -106,20 +106,20 @@ author_profile: true
             </td>
           </tr>    
             <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
+          <tr onmouseout="occl_stop()" onmouseover="occl_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_image.png'></div>
+                <div class="two" id='occl_image'><img src='../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_image.png'></div>
                 <img src='../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_image.png'>
               </div>
               <script type="text/javascript">
-                function font_start() {
+                function occl_start() {
                   document.getElementById('font_image').style.opacity = "1";
                 }
-                function font_stop() {
+                function occl_stop() {
                   document.getElementById('font_image').style.opacity = "0";
                 }
-                font_stop()
+                occl_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
