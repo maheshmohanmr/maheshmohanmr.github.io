@@ -224,20 +224,20 @@ author_profile: true
             </td>
           </tr>    
             <!-- New paper ONS -->
-          <tr onmouseout="dynamic_stop()" onmouseover="dynamic_start()">
+          <tr onmouseout="gec_stop()" onmouseover="gec_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='dynamic_image'><img src='../images/icccc_13_op_ons_sqr.png'></div>
                 <img src='../images/icccc_13_ip_ons_sqr.png'>
               </div>
               <script type="text/javascript">
-                function dynamic_start() {
-                  document.getElementById('dynamic_image').style.opacity = "1";
+                function gec_start() {
+                  document.getElementById('gec_image').style.opacity = "1";
                 }
-                function dynamic_stop() {
-                  document.getElementById('dynamic_image').style.opacity = "0";
+                function gec_stop() {
+                  document.getElementById('gec_image').style.opacity = "0";
                 }
-                dynamic_stop()
+                gec_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
