@@ -89,7 +89,7 @@ author_profile: true
                 <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>,
+              <strong>Mahesh Mohan M. R.</strong>
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
