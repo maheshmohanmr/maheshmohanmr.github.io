@@ -93,7 +93,7 @@ author_profile: true
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-               <em>CVPR 2018</em>, 2019 
+               <em>CVPR</em>, 2018
               <br>
               <a href="https://www.youtube.com/watch?v=yxhGWds_g4I">video</a> /
               <a href="https://petapixel.com/2019/07/16/researchers-developed-an-ai-that-can-relight-portraits-after-the-fact/">press</a> /
