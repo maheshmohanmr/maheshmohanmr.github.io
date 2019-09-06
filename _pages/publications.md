@@ -165,7 +165,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Going Unconstrained with Rol ling Shutter Deblurring</papertitle>
+                <papertitle>Going Unconstrained with Rolling Shutter Deblurring</papertitle>
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>, 
