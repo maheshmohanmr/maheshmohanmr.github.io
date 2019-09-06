@@ -214,10 +214,8 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr>
-           <br>
-           <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <a name="notes">
-<b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
+             <tr>
+           <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
 looking for, please write to me to get a copy.<br>
 <b>Copyright notice</b>: Copies of the papers are provided here for 
@@ -237,7 +235,6 @@ in last names</a></b>.
 <center>
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
-</a>
  </tr>
           </tbody></table>
     
