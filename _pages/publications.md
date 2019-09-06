@@ -134,10 +134,10 @@ author_profile: true
               <br>
  <em>CVPR</em>, 2018
               <br>
-              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf">paper</a> /
-               <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_supp.pdf">supplement</a> / 
-              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_poster.pdf">poster</a> /
-              <a href="../files/asu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_bib.txt">bib</a> 
+              <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper.pdf">paper</a> /
+               <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_supp.pdf">supplement</a> / 
+              <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_poster.pdf">poster</a> /
+              <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_bib.txt">bib</a> 
               <br>
               <p></p>
               <p>A method for the scenario of a fast moving camera wherein the rolling shutter distortions results in intra-frame occlusions. </p>
