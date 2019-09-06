@@ -226,8 +226,8 @@ author_profile: true
           <tr onmouseout="dynamic_stop()" onmouseover="dynamic_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='dynamic_image'><img src='../images/eccv_17_op_ons_sqr.png'></div>
-                <img src='../images/eccv_17_ip_ons_sqr.png'>
+                <div class="two" id='dynamic_image'><img src='../images/icccc_13_op_ons_sqr.png'></div>
+                <img src='../images/icccc_13_ip_ons_sqr.png'>
               </div>
               <script type="text/javascript">
                 function dynamic_start() {
