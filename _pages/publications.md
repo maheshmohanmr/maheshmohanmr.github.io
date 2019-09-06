@@ -357,7 +357,7 @@ in last names</a></b>.
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
-must be adhered to by anyone using these materials. For other materials, feel free to use it at your convenience for useful purposes! <br>
+must be adhered to by anyone using these materials. For other materials, feel free to use it at your convenience for good deeds :)! <br>
 <br>
 <hr>
 <center>
