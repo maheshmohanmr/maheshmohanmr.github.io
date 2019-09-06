@@ -238,7 +238,7 @@ in last names</a></b>.
             <tr>
             <td style="padding:11px;width:100%;vertical-align:middle;border:0px">
                  <p>
-               <b>Copyright notice</b>: Copies of the papers are provided here for 
+               <b>Copyright notice</b>: All published papers are available online. Copies of the papers are provided here for 
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
