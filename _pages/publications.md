@@ -222,38 +222,41 @@ author_profile: true
               <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
           </tr>    
-             <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <!-- New paper ONS -->
+          <tr onmouseout="dynamic_stop()" onmouseover="dynamic_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/iccv_19_op_2_ons_sqr.png'></div>
-                <img src='../images/iccv_19_ip_ons_sqr.png'>
+                <div class="two" id='dynamic_image'><img src='../images/eccv_17_op_ons_sqr.png'></div>
+                <img src='../images/eccv_17_ip_ons_sqr.png'>
               </div>
               <script type="text/javascript">
-                function font_start() {
-                  document.getElementById('font_image').style.opacity = "1";
+                function dynamic_start() {
+                  document.getElementById('dynamic_image').style.opacity = "1";
                 }
-                function font_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
+                function dynamic_stop() {
+                  document.getElementById('dynamic_image').style.opacity = "0";
                 }
-                font_stop()
+                dynamic_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+                <papertitle>A novel method of Medical image denoising using bilateral and NLm filtering.</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>,
-              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+               <strong>Mahesh Mohan M. R.</strong> and
+              <a href="http://gectcr.ac.in/about-us/principals-profile/">Sheeba V. S.</a>,
               <br>
-              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
-              <br> Coming soon ...
+              <em>ICACC</em>, 2013 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <br>
+              <a href="../files/ICACC_paper.pdf">paper</a> /
+               <a href="../files/ICACC_slides.pdf">slides</a> /
+              <a href="../files/ICACC_bib.txt">bib</a> 
+              <br>
               <p></p>
-              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
+              <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
-          </tr>    
+          </tr>  
            <!-- New paper ONS -->
           <!-- <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
