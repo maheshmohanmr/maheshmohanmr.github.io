@@ -183,6 +183,44 @@ author_profile: true
               <p>How can we bridge today's ubiquitous <q>rolling shutter</q> cameras with the well-studied conventional cameras, pertaining to <q>motion deblurring</q>?</p>
             </td>
           </tr>    
+             <!-- New paper ONS -->
+          <tr onmouseout="dynamic_stop()" onmouseover="dynamic_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='dynamic_image'><img src='../images/eccv_17_op_ons_sqr.png'></div>
+                <img src='../images/eccv_17_ip_ons_sqr.png'>
+              </div>
+              <script type="text/javascript">
+                function dynamic_start() {
+                  document.getElementById('dynamic_image').style.opacity = "1";
+                }
+                function dynamic_stop() {
+                  document.getElementById('dynamic_image').style.opacity = "0";
+                }
+                dynamic_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>
+               and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+               <em>CVPR</em>, 2018
+              <br>
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
+ <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
+              <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
+              <br>
+              <p></p>
+              <p>Full-resolution light field deblurring can be divided into <q>independent</q> subtasks, wherein a single task <q>reinforces</q> others. </p>
+            </td>
+          </tr>    
            <!-- New paper ONS -->
           <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
