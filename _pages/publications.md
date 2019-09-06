@@ -222,8 +222,40 @@ author_profile: true
               <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
           </tr>    
+             <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='font_image'><img src='../images/iccv_19_op_2_ons_sqr.png'></div>
+                <img src='../images/iccv_19_ip_ons_sqr.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>,
+              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <br> Coming soon ...
+              <p></p>
+              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
+            </td>
+          </tr>    
            <!-- New paper ONS -->
-          <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
+          <!-- <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='dpzlearn_image'><img src='images/dpzlearn_after.jpg'></div>
@@ -255,7 +287,7 @@ author_profile: true
             </td>
           </tr>
           <!-- New paper ONS -->
-          <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
+        <!--  <tr onmouseout="porlight_stop()" onmouseover="porlight_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='porlight_image'><img src='images/porlight_after.jpg'></div>
@@ -292,7 +324,7 @@ author_profile: true
               <p></p>
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
-            </tr>
+            </tr> -->
                    <!--    <tr>
            <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
