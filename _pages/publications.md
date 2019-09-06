@@ -76,10 +76,10 @@ author_profile: true
               </div>
               <script type="text/javascript">
                 function divide_start() {
-                  document.getElementById('font_image').style.opacity = "1";
+                  document.getElementById('divide_image').style.opacity = "1";
                 }
                 function divide_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
+                  document.getElementById('divide_image').style.opacity = "0";
                 }
                 divide_stop()
               </script>
@@ -114,10 +114,10 @@ author_profile: true
               </div>
               <script type="text/javascript">
                 function occl_start() {
-                  document.getElementById('font_image').style.opacity = "1";
+                  document.getElementById('occl_image').style.opacity = "1";
                 }
                 function occl_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
+                  document.getElementById('occl_image').style.opacity = "0";
                 }
                 occl_stop()
               </script>
