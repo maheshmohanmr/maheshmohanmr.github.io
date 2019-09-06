@@ -246,7 +246,7 @@ must be adhered to by anyone using these materials. For other materials, feel fr
 <br>
 <hr>
 <center>
-<i>Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering -- Einstein</i>
+<font color="green"><i>Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering</font> -- Einstein</i>
 </center>
               </p>
             </td>
