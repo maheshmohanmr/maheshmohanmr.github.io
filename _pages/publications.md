@@ -100,7 +100,7 @@ author_profile: true
               <a href="data/SunSIGGRAPH2019.bib">bibtex</a>
               <br>
               <p></p>
-              <p>Full-resolution Light Field deblurring can be performed by dividing the entire problem into dependent subtasks that reinforces each other. </p>
+              <p>For enabling full-resolution deblurring, the entire can be divided into independent subtasks, wherein each task reinforces each other. </p>
             </td>
           </tr>    
            <!-- New paper ONS -->
