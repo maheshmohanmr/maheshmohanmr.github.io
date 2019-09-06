@@ -173,7 +173,7 @@ author_profile: true
 <br>
               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_paper.pdf">paper</a> /
                <a href="../files/R._Going_Unconstrained_With_ICCV_2017_supplemental.pdf">supplement</a> /
-              <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
+              <a href="https://drive.google.com/file/d/1y7Eb3jBU756K3mi84gv0DDREvQYGLDs8/view">slides</a> / 
               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_poster.pdf">poster</a> /
               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_bib.txt">bib</a> 
               <br>
