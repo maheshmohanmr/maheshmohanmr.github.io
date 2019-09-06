@@ -254,7 +254,7 @@ author_profile: true
               <a href="../files/ICACC_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
+              <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. </p>
             </td>
           </tr>  
            <!-- New paper ONS -->
