@@ -3,6 +3,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+<!-- Om Nama Sivaya-->
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}-->
@@ -242,7 +243,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>A novel method of Medical image denoising using bilateral and NLm filtering.</papertitle>
+                <papertitle>A novel method of Medical image denoising using bilateral and NLM filtering.</papertitle>
               </a>
               <br>
                <strong>Mahesh Mohan M. R.</strong> and
