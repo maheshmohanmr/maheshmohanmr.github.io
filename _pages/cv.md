@@ -46,8 +46,7 @@ Scholastic Achievements
 
 Publications
 ======
-* a
-* b
+Pl. find [here](https://maheshmohanmr.github.io/publications/).
 
 Talks
 ======
