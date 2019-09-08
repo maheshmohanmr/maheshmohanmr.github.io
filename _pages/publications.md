@@ -254,7 +254,7 @@ author_profile: true
               <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">paper</a> (rest, properietary of KLA, sorry.)
               <br>
               <p></p>
-              <p> A fully-automatic denoising framework based on a <q>convex prior on SEM images</q>, which eliminates the assumption of a (possibly erroneous) noise model.  </p>
+              <p> A fully-automatic denoising based on a <q>convex prior on SEM images</q>, which eliminates the assumption of a (possibly erroneous) noise model.  </p>
             </td>
           </tr>  
             <!-- New paper ONS -->
