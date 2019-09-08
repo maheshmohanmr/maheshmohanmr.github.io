@@ -242,7 +242,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Noise-aware Detail Enhancement in SEM imagery.</papertitle>
+                <papertitle>Noise-aware Detail Enhancement in Scanning Electron Microscope imagery.</papertitle>
               </a>
               <br>
                <strong>Mahesh Mohan M. R.</strong>,
