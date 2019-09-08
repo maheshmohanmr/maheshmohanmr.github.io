@@ -249,7 +249,7 @@ author_profile: true
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a> and
               <a href="https://www.zoominfo.com/p/Raj-Kuppa/-2062444008">Raj Kuppa</a>,
               <br>
-              <em><a href="https://www.kla-tencor.com/"> KLA-Tencor</a>'s Neoteix</em>, 2018 &nbsp; <font color="green"><strong>(IIT Madras-Industry Collaboration)</strong></font>
+              <em><a href="https://www.kla-tencor.com/"> KLA-Tencor</a>'s Neoterix</em>, 2018 &nbsp; <font color="green"><strong>(IIT Madras-Industry Collaboration)</strong></font>
               <br>
               <!-- ONS -->
               <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">abstract</a> (rest, properietary of <a href="https://www.kla-tencor.com/"> KLA-T</a>; sorry.)
