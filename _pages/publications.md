@@ -224,6 +224,39 @@ author_profile: true
               <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
           </tr>    
+              <!-- New paper ONS -->
+          <tr onmouseout="kla_stop()" onmouseover="kla_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='kla_image'><img src='../images/kl_18_ip1_ons_sqr.png'></div>
+                <img src='../images/kl_18_op1_ons_sqr.png'>              </div>
+              <script type="text/javascript">
+                function kla_start() {
+                  document.getElementById('kla_image').style.opacity = "1";
+                }
+                function kla_stop() {
+                  document.getElementById('kla_image').style.opacity = "0";
+                }
+                kla_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Noise-aware Detail Enhancement in SEM imagery.</papertitle>
+              </a>
+              <br>
+               <strong>Mahesh Mohan M. R.</strong>,
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a> and
+              <a href="https://www.zoominfo.com/p/Raj-Kuppa/-2062444008">Raj Kuppa</a>,
+              <br>
+              <em><a href="https://www.kla-tencor.com/"> KLA-Tencor</a>'s Neoteix</em>, 2018 &nbsp; <font color="green"><strong>(IIT Madras-Industry Collaboration)</strong></font>
+              <br>
+              <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">paper</a> (rest, properietary of KLA, sorry.)
+              <br>
+              <p></p>
+              <p> A fully-automatic yet efficient (via least squares) denoising framework based on a novel prior on SEM images, which eliminates the assumption of a (possibly erroneous) noise model.  </p>
+            </td>
+          </tr>  
             <!-- New paper ONS -->
           <tr onmouseout="gec_stop()" onmouseover="gec_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -243,7 +276,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>A novel method of Medical image denoising using bilateral and NLM filtering.</papertitle>
+                <papertitle>A novel method of Medical Image Denoising using Bilateral and NLM filtering.</papertitle>
               </a>
               <br>
                <strong>Mahesh Mohan M. R.</strong> and
