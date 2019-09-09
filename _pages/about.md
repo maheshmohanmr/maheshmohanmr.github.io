@@ -13,6 +13,8 @@ I am looking forward to expand my horizon to Deep Learning, with Signal Processi
 
 Previously, I have completed my Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
+I grew up in Kerala, India; everyday and everywhere blessed by different hues of nature.
+
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
  <strong>News<strong>:
