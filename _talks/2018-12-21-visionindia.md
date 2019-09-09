@@ -3,7 +3,7 @@ title: "Divide and Conquer for Full-resolution Light Field Deblurring"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2018-vision_india
-venue: "Vision India @ ICVGIP 2018"
+venue: "Vision India @ [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/)"
 date: 2018-12-21
 location: "Hyderabad, India"
 ---
