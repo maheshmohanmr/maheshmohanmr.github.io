@@ -23,7 +23,7 @@ For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
   * &#91;	2018.04 &#93; Two papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
    * &#91;	2017.12 &#93; Invited speaker at [NCVPRIPG-17](http://ncvpripg.iitmandi.ac.in/), "Rolling Shutter Cameras", Hyderabad, India.
   * &#91;	2017.07 &#93; Awarded Microsoft & ACM Travel Grants of 1900 USD to attend ICCV-17, Venice, Italy.
-  * &#91;	2019.07 &#93; One paper is accepted in [ICCV-17](http://iccv2017.thecvf.com/) 	(24.61% acceptance rate).
+  * &#91;	2019.07 &#93; One paper is accepted in [ICCV-17](http://iccv2017.thecvf.com/) 	(28.9% acceptance rate).
 <html>
 <body>
 
