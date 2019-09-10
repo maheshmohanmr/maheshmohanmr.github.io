@@ -11,7 +11,7 @@ I am a final year Ph.D. student in the [Department of Electrical Engineering](ht
 
 I am looking forward to expand my horizon to Deep Learning, with Signal Processing as its linchpin (for which I am eagerly looking for a Post-doc position).
 
-Previously, I have completed my Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
+Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
 I grew up in [Kerala, India](https://www.shutterstock.com/search/kerala+scenery); a place adorned with lush hues of Nature.
 
