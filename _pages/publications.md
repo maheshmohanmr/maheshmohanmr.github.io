@@ -303,13 +303,21 @@ author_profile: true
             </td>
           </tr>  
            </table>
+    <!-- Miscellaneous --> 
+         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
+              <heading>Miscellaneous</heading>
+                </td>
+          </tr> 
+</tbody> 
+  </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
-              <heading>Miscellaneous</heading>
-              <div class="one">
+                <div class="one">
                 <div class="two" id='font_image'><img src='../images/iccv_19_op1_ons_sqr.png'></div>
                 <img src='../images/iccv_19_ip1_ons_sqr.png'>
               </div>
