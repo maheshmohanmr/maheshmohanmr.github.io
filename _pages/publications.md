@@ -279,7 +279,7 @@ problem from first principles and in developing its inverse model; taking into a
               <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">abstract</a> / (rest is proprietary of <a href="https://www.kla-tencor.com/"> KLA-T</a>; sorry.)
               <br>
               <p></p>
-              <p> A fully-automatic denoising based on a <q>convex prior on SEM images</q>, which eradicate a (difficult to infer or possibly erroneous) noise model.  </p>
+              <p> A fully-automatic denoising based on a <q>convex prior on SEM images</q>, which eliminate difficult to infer or possibly erroneous noise model(s).  </p>
             </td>
           </tr>  
             <!-- New paper ONS -->
