@@ -33,8 +33,10 @@ author_profile: true
               I'm interested in image processing, computer vision, computational photography, and deep learning. My research publications are provided below: 
               </p>
                           </td>
-          </tr>
-</tbody></table>
+          </tr> 
+</tbody>
+  <br> <b>Representative publications</b>  
+  </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
