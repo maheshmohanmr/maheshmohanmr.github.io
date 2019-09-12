@@ -34,8 +34,7 @@ author_profile: true
               </p>
                           </td>
           </tr> 
-</tbody>
-  <br> 
+</tbody> 
   </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
