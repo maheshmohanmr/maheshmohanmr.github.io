@@ -42,6 +42,7 @@ author_profile: true
                 </td>
           </tr> 
 </tbody> 
+       </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
@@ -301,6 +302,7 @@ author_profile: true
               <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. </p>
             </td>
           </tr>  
+           </tbody>
            </table>
     <!-- Miscellaneous --> 
          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
@@ -310,6 +312,7 @@ author_profile: true
                 </td>
           </tr> 
 </tbody> 
+ </table>          
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
@@ -382,6 +385,7 @@ author_profile: true
               <p>Full-resolution light field deblurring can be divided into <q>independent</q> subtasks, wherein a single task <q>reinforces</q> other tasks. </p>
             </td>
           </tr> 
+           </tbody>
            </table>
            <!-- New paper ONS -->
           <!-- <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
