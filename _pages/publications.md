@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- Om Nama Sivaya-->
+<!-- Om Nama Sivaya-->
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}-->
@@ -30,7 +31,8 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              I'm interested in image processing, computer vision, computational photography, and deep learning. My research publications are provided below: 
+              I'm interested in image processing, computer vision, computational photography, and deep learning. Much of my interest is about constructing mathematical model of a given
+problem from first principles; and developing its inverse model taking into account ill-posedness (if present) via regularization theory,  and various computational considerations (e.g., convexity property, convergence, etc.).   My research publications are provided below:
               </p>
                           </td>
           </tr> 
