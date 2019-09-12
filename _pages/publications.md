@@ -31,7 +31,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              I'm interested in image processing, computer vision, computational photography, and deep learning. Much of my interest lies in constructing mathematical model of a given
+              I'm interested in image processing, computer vision, computational photography, and deep learning. <br>Much of my interest lies in constructing mathematical model of a given
 problem from its first principles and developing respective inverse model; taking into account ill-posedness (if present) via regularization theory, and various computational considerations (e.g., convexity property, convergence, etc.).   
               </p>
                           </td>
