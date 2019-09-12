@@ -42,7 +42,6 @@ author_profile: true
                 </td>
           </tr> 
 </tbody> 
-  </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
@@ -306,12 +305,11 @@ author_profile: true
     <!-- Miscellaneous --> 
          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
+            <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
               <heading>Miscellaneous</heading>
                 </td>
           </tr> 
 </tbody> 
-  </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
           <!-- New paper ONS -->
