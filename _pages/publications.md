@@ -274,7 +274,7 @@ author_profile: true
               <em><a href="https://www.kla-tencor.com/"> KLA-Tencor</a>'s Neoterix</em>, 2018 &nbsp; <font color="green"><strong>(in use at KLA-Tencor)</strong></font> (conceptualized and developed in IIT Madras.)
               <br>
               <!-- ONS -->
-              <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">abstract</a> / (rest is proprietary of <a href="https://www.kla-tencor.com/"> KLA-T</a>; sorry.)
+              <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">abstract</a> / (rest is proprietary of <a href="https://www.kla-tencor.com/"> KLA-Tencor</a>; sorry.)
               <br>
               <p></p>
               <p> A fully-automatic denoising based on a <q>convex prior on SEM images</q>, which eliminates the assumption of a (difficult to infer or possibly erroneous) noise model.  </p>
