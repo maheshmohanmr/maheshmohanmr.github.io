@@ -296,6 +296,81 @@ author_profile: true
               <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. </p>
             </td>
           </tr>  
+           </table>
+         <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+           <!-- Om Nama Sivaya -->
+          <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <heading>Miscellaneous</heading>
+              <div class="one">
+                <div class="two" id='font_image'><img src='../images/iccv_19_op1_ons_sqr.png'></div>
+                <img src='../images/iccv_19_ip1_ons_sqr.png'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>,
+              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <br> Coming soon ...
+              <p></p>
+              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
+            </td>
+          </tr>    
+           <!-- New paper ONS -->
+          <tr onmouseout="divide_stop()" onmouseover="divide_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='divide_image'><img src='../images/cvpr_18_ip_ons_sqr.png'></div>
+                <img src='../images/cvpr_18_ip_ons_sqr.png'>
+              </div>
+              <script type="text/javascript">
+                function divide_start() {
+                  document.getElementById('divide_image').style.opacity = "1";
+                }
+                function divide_stop() {
+                  document.getElementById('divide_image').style.opacity = "0";
+                }
+                divide_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Divide and Conquer for Full-resolution Light Field Deblurring</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>
+               and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+               <em>CVPR</em>, 2018
+              <br>
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
+               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
+              <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
+              <br>
+              <p></p>
+              <p>Full-resolution light field deblurring can be divided into <q>independent</q> subtasks, wherein a single task <q>reinforces</q> other tasks. </p>
+            </td>
+          </tr> 
+           </table>
            <!-- New paper ONS -->
           <!-- <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
