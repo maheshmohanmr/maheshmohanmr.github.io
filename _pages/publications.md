@@ -32,7 +32,7 @@ author_profile: true
               <heading>Research</heading>
               <p>
               I'm interested in image processing, computer vision, computational photography, and deep learning. <br>Much of my interest lies in constructing mathematical model of a given
-problem from first principles and developing its inverse model; taking into account ill-posedness (if present) via regularization theory, and various computational considerations (e.g., convexity property, convergence, etc.).   
+problem from first principles and in developing its inverse model; taking into account ill-posedness (if present) via regularization theory, and various computational considerations (e.g., convexity property, convergence, etc.).   
               </p>
                           </td>
           </tr> 
