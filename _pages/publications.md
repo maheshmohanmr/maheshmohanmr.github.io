@@ -311,11 +311,11 @@ problem from first principles and in developing respective inverse model; taking
               <br>
               <a href="../files/ICACC_paper.pdf">paper</a> /
                <a href="../files/ICACC_slides.pdf">slides</a> /
+              <a href="../files/ONS_thesis_GECT.pdf"> Master's thesis</a> /
               <a href="../files/ICACC_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. <p></p>
-           Work done towards Master's <a href="../files/ONS_thesis_GECT.pdf"> thesis</a>.  
+              <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. <p> 
             </td>
           </tr> 
            </tbody>
