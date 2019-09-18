@@ -32,7 +32,7 @@ Academic History
 * M.Tech in [Govt. Engineering College Thrissur](http://gectcr.ac.in/), 2011-2013
   * Specialization: [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/)
   * Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
-  * Thesis: Contourlet Transform based Medical Image Denosing
+  * Thesis: Contourlet Transform based Medical Image Denoising
   * CGPA: 8.89/10 (Research Thesis: 10/10)
 * B.Tech in [M G College of Engineering (CUSAT)](http://www.mgcet.com/), 2007-2011
   * Specialization: Electronics and Communication Engineering
