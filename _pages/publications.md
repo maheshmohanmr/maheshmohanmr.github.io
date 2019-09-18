@@ -310,9 +310,9 @@ problem from first principles and in developing respective inverse model; taking
               <em>ICACC</em>, 2013 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
               <br>
               <a href="../files/ICACC_paper.pdf">paper</a> /
+               <a href="../files/ONS_thesis_GECT.pdf"> technical report</a> /
                <a href="../files/ICACC_slides.pdf">slides</a> /
-              <a href="../files/ONS_thesis_GECT.pdf"> technical report</a> /
-              <a href="../files/ICACC_bib.txt">bib</a> 
+               <a href="../files/ICACC_bib.txt">bib</a> 
               <br>
               <p></p>
               <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. </p> 
