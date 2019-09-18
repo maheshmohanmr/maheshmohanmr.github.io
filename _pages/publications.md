@@ -311,7 +311,7 @@ problem from first principles and in developing respective inverse model; taking
               <br>
               <a href="../files/ICACC_paper.pdf">paper</a> /
                <a href="../files/ICACC_slides.pdf">slides</a> /
-              <a href="../files/ONS_thesis_GECT.pdf"> Technical report</a> /
+              <a href="../files/ONS_thesis_GECT.pdf"> technical report</a> /
               <a href="../files/ICACC_bib.txt">bib</a> 
               <br>
               <p></p>
