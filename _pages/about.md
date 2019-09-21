@@ -47,9 +47,7 @@ function myFunction() {
                  <p>
 <hr>
 <center>
-<i>One cannot hope to build a better world without improving the individuals. To that end, each of us must work 
-  for our own improvement and, at the same time, share a genaral responsibility for all humanity,
-  our particular duty being to aid those to whom we think can be useful. -- Marie Curie  </i>
+<i>सदाशिव समारम्भाम् शंकराचार्य मध्यमाम् <br> अस्मद् आचार्य पर्यन्ताम् वंदे गुरु परम्पराम्  <br>  </i>
 </center>
               </p>
             </td>
