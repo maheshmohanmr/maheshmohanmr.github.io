@@ -423,7 +423,7 @@ must be adhered to by anyone using these materials. For other materials, feel fr
 <br>
 <hr>
 <center>
-<i>सदाशिव समारम्भाम् शंकराचार्य मध्यमाम् अस्मद् आचार्य पर्यन्ताम् वंदे गुरु परम्पराम् Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering -- Einstein</i>
+<i>Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering -- Einstein</i>
 </center>
               </p>
             </td>
