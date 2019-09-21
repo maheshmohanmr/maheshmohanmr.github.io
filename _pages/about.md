@@ -47,7 +47,7 @@ function myFunction() {
                  <p>
 <hr>
 <center>
-<i>सदाशिव समारम्भाम् शंकराचार्य मध्यमाम् &nbsp; &nbsp; &nbsp; Beginning with Sada Shiva through the Shankaracharya in between, <br> अस्मद् आचार्य पर्यन्ताम् वंदे गुरु परम्पराम्  &nbsp; &nbsp; &nbsp; and up to my own teachers, I bow to the whole tradition of teachers.    &nbsp; &nbsp;  (-- A Sanskrit Sloka)</i>
+<i>सदाशिव समारम्भाम् शंकराचार्य मध्यमाम् &nbsp; &nbsp; &nbsp; Beginning with Sada Shiva through the Shankaracharya in between, <br> अस्मद् आचार्य पर्यन्ताम् वंदे गुरु परम्पराम्  &nbsp; &nbsp; &nbsp; and up to my own teachers, I bow to the whole tradition of teachers.    &nbsp; &nbsp;  (-- A Sanskrit sloka)</i>
 </center>
               </p>
             </td>
