@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About merr"
+excerpt: "Ph.D. scholar, Indian Insitute of Technology Madras"
 author_profile: true
 redirect_from: 
   - /about/
