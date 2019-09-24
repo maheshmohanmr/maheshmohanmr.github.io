@@ -1,7 +1,7 @@
 ---
 title: 'Want a similar webpage for yourself?'
 date: 2019-09-2
-permalink: /posts/2019/09/blog-post-1/
+permalink: /posts/2019/09/create-website/
 tags:
   - Tech tips
 ---
