@@ -11,7 +11,7 @@ His Art kept him alive, and the rest we all know.
 
 >But, think that for six years now I have been hopelessly afflicted... I was soon compelled to withdraw myself, to live life alone... Oh I cannot do it; therefore forgive me when you see me draw back when I would have gladly mingled with you.
 
-> But what a humiliation for me when someone standing next to me heard a flute in the distance and I heard nothing, or someone standing next to me heard a flute in the distance and I heard nothing, or someone heard a shepherd singing and again I heard nothing. 
+> But what a humiliation for me when someone standing next to me heard a flute in the distance and I heard nothing, or someone heard a shepherd singing and again I heard nothing. 
 
 > With joy I hasten to meed death. -- If it comes before I have had the chance to develop all my artistic capacities, it will still be coming too soon despite my harsh fate, and I should probably wish it later -- yet even so I should be happy, for would it not free me from a state of endless suffering? -- Come when thou wilt, I shall meed thee bravely. -- Farewell and do not wholly forget me when I am dead...  &#91;Heiligenstadt Testament&#93; [(Credit)](https://www.beethoven.ws/heiligenstadt_testament.html)
 
