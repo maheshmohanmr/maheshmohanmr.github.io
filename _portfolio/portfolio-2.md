@@ -15,6 +15,6 @@ His Art kept him alive, and the rest we all know.
 
 > With joy I hasten to meed death. -- If it comes before I have had the chance to develop all my artistic capacities, it will still be coming too soon despite my harsh fate, and I should probably wish it later -- yet even so I should be happy, for would it not free me from a state of endless suffering? -- Come when thou wilt, I shall meed thee bravely. -- Farewell and do not wholly forget me when I am dead...   [&#91;Heiligenstadt Testament&#93;](https://www.beethoven.ws/heiligenstadt_testament.html)
 
-Remember, he wrote this at his 34; then shall come like a beautiful hotspring seven symphonies and even at the age of [54](https://www.beethoven.ws/timeline.html), him being completely deaf, shall continue to sit in the Nature's lap for yet another of his masterpiece. For those who are disadvantaged, my friend, <q>This too shall pass and from the ashes we surely rise</q>. 
+Remember, he wrote this at his 32; then shall come like a beautiful hotspring seven symphonies and even at the age of [54](https://www.beethoven.ws/timeline.html), him being completely deaf, shall continue to sit in the Nature's lap for yet another of his masterpiece. For those who are disadvantaged, my friend, <q>This too shall pass and from the ashes we surely rise</q>. 
  
      
