@@ -4,7 +4,7 @@ excerpt: "Starting from scratch is always an option!  <br/><img src='/images/gt_
 collection: portfolio
 ---
 
-A mathematical superstar appeared, with a chaotic youth and sparse education [&#91;1&#93;](https://arxiv.org/pdf/1605.08112.pdf).
+A mathematical superstar appeared, with a chaotic youth and sparse education [&#91;1&#93;](https://arxiv.org/pdf/1605.08112.pdf). About him, in his words:
 >Without having ever been told, without having ever met someone who shared my thirst for my knowledge, I think I still knew in my gut that I was a mathematician: someone who was working on math in the truest sense of the term - “making” math like “making” love. 
 
 >Most mathematicians are likely to be confined within a conceptual framework, a “Universe” fixed once and for all - one they basically found as “complete” during their education. They are like the heirs of a great and beautiful fully-equipped house, with living rooms and kitchens and workshops, and cookware and tools in all corners, but in which you can still cook and tinker. How this house was gradually built over generations, and how and why such tools (but not others) were designed and crafted…), why the rooms are laid out and developed in a certain way here, but in another way there - these are all issues that the heirs would not dream to question. That’s “the universe”, the “given” in which one must live, and that’s all there is to it! It’s something that looks great (and they most likely haven’t even explored all the rooms), but familiar at the same time; but most of all it is immutable.
