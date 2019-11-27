@@ -1,0 +1,7 @@
+@InProceedings{Mohan_2019_ICCV,
+author = {Mohan, M. R. Mahesh and Girish, Sharath and Rajagopalan, A. N.},
+title = {Unconstrained Motion Deblurring for Dual-Lens Cameras},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+} 
