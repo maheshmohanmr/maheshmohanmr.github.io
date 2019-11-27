@@ -74,11 +74,11 @@ problem from first principles and in developing respective inverse model; taking
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
-              <br> <a href="../files/R._Going_Unconstrained_With_ICCV_2017_paper.pdf">paper</a> /
-               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_supplemental.pdf">supplement</a> /
-              <a href="https://drive.google.com/file/d/1y7Eb3jBU756K3mi84gv0DDREvQYGLDs8/view">slides</a> / 
-              <a href="../files/R._Going_Unconstrained_With_ICCV_2017_poster.pdf">poster</a> /
-              <a href="../files/R._Going_Unconstrained_With_ICCV_2017_bib.txt">bib</a> 
+              <br> <a href="../files/Mohan_Unconstrained_Motion_Deblurring_for_Dual-Lens_Cameras_ICCV_2019_paper.pdf">paper</a> /
+               <a href="../files/Mohan_Unconstrained_Motion_Deblurring_ICCV_2019_supplemental.pdf">supplement</a> /
+              <a href="../files/Mohan_Unconstrained_ICCV_2019_talk.pdf">slides</a> / 
+              <a href="../files/Mahesh_Unconstrained_ICCV2019_poster.pdf">poster</a> /
+              <a href="../files/Mohan_Unconstrained_ICCV_2019.txt">bib</a> 
               <br>
               <p></p>
               <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
