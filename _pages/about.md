@@ -18,7 +18,7 @@ I grew up in [Kerala, India](https://www.youtube.com/watch?v=ftrFhWrvcLo), a pla
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
  <strong>News<strong>:
-    * &#91; 2019.11 &#93; &nbsp; I have been invited as a peer reviewer for the International journal "Computer Vision and Image Understanding (CVIU)".
+  
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium).
 <!-- * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.-->
   * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19 	(4.3% acceptance rate).
