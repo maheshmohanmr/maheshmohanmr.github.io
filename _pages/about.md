@@ -19,12 +19,12 @@ For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
  <strong>News<strong>:
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium).
-  * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant of 1900 USD to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.
+  * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.
   * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19 	(4.3% acceptance rate).
   * &#91;	2018.12 &#93; &nbsp; Invited speaker at [ICVGIP-18](https://cvit.iiit.ac.in/icvgip18/), "Light Field Deblurring", Hyderabad, India.
   * &#91;	2018.04 &#93; &nbsp; <q>Two</q> papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
    * &#91;	2017.12 &#93; &nbsp; Invited speaker at [NCVPRIPG-17](http://ncvpripg.iitmandi.ac.in/), "RS Cameras", Himachal Pradesh, India.
-  * &#91;	2017.07 &#93; &nbsp; Awarded Microsoft & ACM  grants of 1900 USD to attend ICCV-17, Venice, Italy.
+  * &#91;	2017.07 &#93; &nbsp; Awarded Microsoft & ACM  grants  to attend ICCV-17, Venice, Italy.
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
 <html>
 <body>
