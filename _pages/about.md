@@ -20,7 +20,7 @@ For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
  <strong>News<strong>:
   
   * &#91; 2019.11 &#93; &nbsp; Invited reviewer for the Int'l journal [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding).
-  * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium).
+  * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium), Seoul, S. Korea.
   * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19 	(4.3% acceptance rate).
   * &#91;	2018.12 &#93; &nbsp; Invited speaker at [ICVGIP-18](https://cvit.iiit.ac.in/icvgip18/), "Light Field Deblurring", Hyderabad, India.
   * &#91;	2018.04 &#93; &nbsp; <q>Two</q> papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
