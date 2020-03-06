@@ -70,6 +70,7 @@ Professional Service
 Conferences and Workshops Attended
 ======
 * International
+  * [International Conf. on Computer Vision](http://iccv2019.thecvf.com/) (ICCV) at Seoul, S. Korea (2019)
   * [International Conf. on Computer Vision](http://iccv2017.thecvf.com/) (ICCV) at Venice, Italy (2017)
 * National
   * [ICVGIP](https://cvit.iiit.ac.in/icvgip18/) at ISB Hyderabad, Telengana (2018)
