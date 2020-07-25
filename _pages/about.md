@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year Ph.D. student in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), specializing in Signal Processing. I am advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/), and I work in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). Here, my research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision.
+Hello there! I am a final year Ph.D. student in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), specializing in Signal Processing. I am advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/), and I work in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). Here, my research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision.
 
 I am looking forward to expand my horizon to broader Computer Vision areas, with Signal Processing as its linchpin (for which I am eagerly looking for a Post-doc position).
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). Rarely, I scribble [poems](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
