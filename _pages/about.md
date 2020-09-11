@@ -13,7 +13,7 @@ I am looking forward to expand my horizon to broader Computer Vision areas, with
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). Apart from my academics, I am an avid reader of biographies and Philosophy, nature lover, and seldom, a [poet](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). Apart from my academics, I am an avid reader of biographies and Philosophy, nature and art lover, and seldom, a [poet](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
