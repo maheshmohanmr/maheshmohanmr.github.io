@@ -41,7 +41,7 @@ Academic History
 
 Scholastic Achievements
 ======
-* Selected for ICCV-2019 Doctoral Consortium  (Seoul, 2019)
+* Selected for [ICCV-2019](https://iccv2019.thecvf.com/) Doctoral Consortium  (Seoul, 2019)
 * All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)  2014.
 * Institute Award for the best academic performance or topper in Master's (in the class of year 2013).
 
