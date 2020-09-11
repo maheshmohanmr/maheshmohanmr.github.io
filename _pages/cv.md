@@ -28,7 +28,7 @@ Academic History
 * Ph.D. Scholar  in [Indian Institute of Technolgy Madras](https://www.iitm.ac.in/), 2014-2019 (exp)
   * Research Areas: [Image Processing, Computer Vision, and Computational Photography](http://www.ee.iitm.ac.in/ipcvlab/)
   * Advisor: [Prof. A. N. Rajagopalan FIETE, FAvH, FNAE](http://www.ee.iitm.ac.in/~raju/).
-  * CGPA: 9.5/10 (Core Subjects: 10/10)
+  * CGPA: 9/10 (Core Subjects: 10/10)
 * M.Tech in [Govt. Engineering College Thrissur](http://gectcr.ac.in/), 2011-2013
   * Specialization: [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/)
   * Advisor: [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/)
@@ -41,6 +41,7 @@ Academic History
 
 Scholastic Achievements
 ======
+* Selected for ICCV-2019 Doctoral Consortium  (Seoul, 2019)
 * All India Rank 500 out of 2,16,367 in [Graduate Aptitude Test in Engineering (ECE)](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)  2014.
 * Institute Award for the best academic performance or topper in Master's (in the class of year 2013).
 
