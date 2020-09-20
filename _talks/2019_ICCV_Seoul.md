@@ -2,7 +2,7 @@
 title: "Unconstrained Motion Deblurring for Dual-lens Cameras" 
 collection: talks
 type: "Oral Presentation"
-permalink: /talks/2019_ICCV_ons
+permalink: /talks/2019-08-29-ICCV-ons
 venue: "ICCV 2019"
 date: 2019-08-29
 location: "Seoul, S. Korea"
