@@ -13,12 +13,12 @@ I am looking forward to expand my horizon to broader Computer Vision areas, with
 
 Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I rarely scribble [poems](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). 
 
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
  <strong>News<strong>:
-  
+  * &#91; 2020.8 &#93; &nbsp; I played a part for the Mixed Reality project for IIT-M Convocation ([Snapshot](https://www.youtube.com/watch?v=xe79RbOzKnw), [Media](https://www.newindianexpress.com/cities/chennai/2020/oct/26/iit-madras-convocation-held-technology-gives-event-a-touch-of-reality-2215003.html), [Appraisal](https://www.youtube.com/watch?v=kPBeXzUG_MA&feature=youtu.be&t=4064)).
   * &#91; 2019.11 &#93; &nbsp; Invited reviewer for the Int'l journal [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding).
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium), Seoul, S. Korea.
   * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19 	(4.3% acceptance rate).
