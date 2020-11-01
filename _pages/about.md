@@ -11,7 +11,7 @@ Welcome all! I am a final year Ph.D. scholar in the [Department of Electrical En
 
 I am looking forward to expand my horizon to broader Computer Vision areas, with Signal Processing as its linchpin (for which I am eagerly looking for a Post-doc position).
 
-Previously, I have completed Master's in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
+Previously, I have completed Masters (M-Tech) in [Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
 
 I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). 
 
