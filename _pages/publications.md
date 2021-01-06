@@ -40,7 +40,7 @@ problem from first principles and in developing respective inverse model; taking
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Representative publications</heading> (For codes, please send a mail to ee14do23@ee.iitm.ac.in, mentioning the particular paper.)
+              <heading>Representative publications</heading> (For codes, please send a mail to ee14do23@ee.iitm.ac.in, mentioning the  paper.)
                 </td>
           </tr> 
 </tbody> 
