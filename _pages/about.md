@@ -17,7 +17,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
 For more details, please find my [CV](https://maheshmohanmr.github.io/cv/). I am an art- and nature-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
  <strong>News<strong>:
-   * &#91; 2021.04 &#93; &nbsp; One paper is accepted in IEEE Transactions on Image Processing.
+   * &#91; 2021.04 &#93; &nbsp; One paper is accepted in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
   * &#91; 2020.07 &#93; &nbsp; I worked in Virtual Reality for IIT-M Convocation ([Snapshot](https://www.youtube.com/watch?v=xe79RbOzKnw), [Media](https://www.newindianexpress.com/cities/chennai/2020/oct/26/iit-madras-convocation-held-technology-gives-event-a-touch-of-reality-2215003.html), [Appraisal](https://www.youtube.com/watch?v=kPBeXzUG_MA&feature=youtu.be&t=4064)).
   * &#91; 2019.11 &#93; &nbsp; Invited reviewer for the Int'l journal [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding).
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium), Seoul, S. Korea.
