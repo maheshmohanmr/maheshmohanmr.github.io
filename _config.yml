@@ -90,7 +90,7 @@ analytics:
 author:
   name             : 
   avatar           : "MAHESH_ons.jpg"
-  bio              : "Postdoctoral researcher at Coordinated Science Laboratory, <br> University of Illinois Urbana-Champaign."
+  bio              : "Postdoctoral researcher at Coordinated Science Laboratory,  University of Illinois Urbana-Champaign."
   location         : "Illinois, U.S."
   employer         :
   pubmed           : 
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Champaign/Illinois # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
