@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Mahesh Mohan M R"
 title_separator          : "-"
 name                     : &name "Mahesh Mohan M R"
-description              : &description "Mahesh Mohan M R, Postdoctoral fellow at CSL Lab, UIUC"
+description              : &description "Mahesh Mohan M R, Postdoctoral researcher at CSL Lab, UIUC"
 url                      : https://maheshmohanmr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maheshmohanmr.github.io"
@@ -90,8 +90,8 @@ analytics:
 author:
   name             : 
   avatar           : "MAHESH_ons.jpg"
-  bio              : "Postdoctoral fellow at Coordinated Science Laboratory, University of Illinois."
-  location         : "Champaign, Illinois, U.S."
+  bio              : "Postdoctoral researcher at Coordinated Science Laboratory, <br> University of Illinois Urbana-Champaign."
+  location         : "Illinois, U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en&oi=ao"
