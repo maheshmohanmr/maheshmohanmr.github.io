@@ -1,20 +1,18 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Ph.D. scholar, Indian Insitute of Technology Madras"
+excerpt: "Postdoctoral Researcher, University of Illinois Urbana-Champaign"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome all! I am a postdoctoral researcher in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I am advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja) and I specialize in Signal Processing. Previously, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/). Here, I was  fortunate to be advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision.
+Welcome all! I am a postdoctoral researcher in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I am advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja) and specialize in Signal Processing. Previously, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), where I was  fortunate to be advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision.
 
 
-Prior to that, I have completed Masters (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours.
+Prior to that, I have completed Masters (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. For more details, please find my [CV](https://maheshmohanmr.github.io/cv/).
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). 
-
-For more details, please find my [CV](https://maheshmohanmr.github.io/cv/). I am an art- and nature-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am an art- and nature-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
  <strong>News<strong>:
    * &#91; 2021.04 &#93; &nbsp; One paper is accepted in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
