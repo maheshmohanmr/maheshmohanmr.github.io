@@ -70,7 +70,7 @@ problem from first principles and in developing respective inverse model; taking
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>,
-              G K Nithin</a>, and 
+              G K Nithin, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>IEEE Transactions on Image Processing </em>, 2021 
