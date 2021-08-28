@@ -108,6 +108,7 @@ problem from first principles and in developing respective inverse model; taking
               <br>
               <em>Ph.D. Thesis in IIT Madras</em>
               <br> <a href="../files/phd_thesis_ons.pdf">Thesis</a> /
+              <a href="../files/Phd_defence_np4india_ons.pdf">slides</a> /
               <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
               <p></p>
