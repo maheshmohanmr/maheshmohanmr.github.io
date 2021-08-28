@@ -51,8 +51,8 @@ problem from first principles and in developing respective inverse model; taking
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/iccv_19_op1_ons_sqr.png'></div>
-                <img src='../images/iccv_19_ip1_ons_sqr.png'>
+                <div class="two" id='font_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
+                <img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'>
               </div>
               <script type="text/javascript">
                 function font_start() {
@@ -66,14 +66,13 @@ problem from first principles and in developing respective inverse model; taking
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+                <papertitle>Motion Deblurring Methodolgies: Going Beyond Conventional Cameras</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>,
-              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <strong>Mahesh Mohan M. R.</strong>. Advisor 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>, IIT Madras 
               <br>
-              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <em>Ph.D. Thesis</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
               <br> <a href="../files/Mohan_Unconstrained_Motion_Deblurring_for_Dual-Lens_Cameras_ICCV_2019_paper.pdf">paper</a> /
                <a href="../files/Mohan_Unconstrained_Motion_Deblurring_ICCV_2019_supplemental.pdf">supplement</a> /
               <a href="../files/Mohan_Unconstrained_ICCV_2019_talk.pdf">slides</a> / 
