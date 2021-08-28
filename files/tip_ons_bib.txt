@@ -1,0 +1,9 @@
+@phdthesis{phdthesis,
+  author       = {Mahesh Mohan M R}, 
+  title        = {Motion Deblurring Methodolgies: Going Beyond Conventional Cameras},
+  school       = {Indian Institute of Technology Madras},
+  year         = 2021,
+  address      = {IIT Madras},
+  month        = 1,
+  note         = {Ph.D. Awarded}
+}
