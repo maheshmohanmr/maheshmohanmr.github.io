@@ -66,22 +66,19 @@ problem from first principles and in developing respective inverse model; taking
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Unconstrained Motion Deblurring for Dual-lens Cameras</papertitle>
+                <papertitle>Deep Dynamic Scene Dlurring for Unconstrained Dual-lens Cameras</papertitle>
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>,
-              <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
+              G K Nithin</a>, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
-              <br> <a href="../files/Mohan_Unconstrained_Motion_Deblurring_for_Dual-Lens_Cameras_ICCV_2019_paper.pdf">paper</a> /
-               <a href="../files/Mohan_Unconstrained_Motion_Deblurring_ICCV_2019_supplemental.pdf">supplement</a> /
-              <a href="../files/Mohan_Unconstrained_ICCV_2019_talk.pdf">slides</a> / 
-              <a href="../files/Mahesh_Unconstrained_ICCV2019_poster.pdf">poster</a> /
-              <a href="../files/Mohan_Unconstrained_ICCV_2019.txt">bib</a> 
+              <em>IEEE Transactions on Image Processing </em>, 2021 
+              <br> <a href="../files/tip_ons.pdf">paper</a> /
+              <a href="../files/tip_ons_bib.pdf">bib</a> 
               <br>
               <p></p>
-              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
+              <p>A Deep Learning approach for Motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
             </td>
           </tr>
             <!-- New paper ONS -->
