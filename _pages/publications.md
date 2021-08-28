@@ -77,7 +77,7 @@ problem from first principles and in developing respective inverse model; taking
               <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
               <p></p>
-              <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
+              <p>Motion deblurring for Rolling shutter cameras, Light field cameras, and Unconstrained Dual-lens cameras. </p>
             </td>
           </tr>
            <!-- New paper ONS -->
