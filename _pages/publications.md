@@ -69,15 +69,12 @@ problem from first principles and in developing respective inverse model; taking
                 <papertitle>Motion Deblurring Methodolgies: Going Beyond Conventional Cameras</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>. Advisor 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>, IIT Madras 
+              <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>Ph.D. Thesis</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
-              <br> <a href="../files/Mohan_Unconstrained_Motion_Deblurring_for_Dual-Lens_Cameras_ICCV_2019_paper.pdf">paper</a> /
-               <a href="../files/Mohan_Unconstrained_Motion_Deblurring_ICCV_2019_supplemental.pdf">supplement</a> /
-              <a href="../files/Mohan_Unconstrained_ICCV_2019_talk.pdf">slides</a> / 
-              <a href="../files/Mahesh_Unconstrained_ICCV2019_poster.pdf">poster</a> /
-              <a href="../files/Mohan_Unconstrained_ICCV_2019.txt">bib</a> 
+              <em>Ph.D. Thesis in IIT Madras</em>
+              <br> <a href="../files/phd_thesis_ons.pdf">Thesis</a> /
+              <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
               <p></p>
               <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
