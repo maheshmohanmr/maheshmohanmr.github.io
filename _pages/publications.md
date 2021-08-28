@@ -47,7 +47,6 @@ problem from first principles and in developing respective inverse model; taking
        </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
-         
            <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -121,8 +120,7 @@ problem from first principles and in developing respective inverse model; taking
               <p></p>
               <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
             </td>
-          </tr>    
-           
+          </tr>      
              <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
