@@ -78,7 +78,7 @@ problem from first principles and in developing respective inverse model; taking
               <a href="../files/tip_ons_bib.pdf">bib</a> 
               <br>
               <p></p>
-              <p>A Deep Learning approach for Motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
+              <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
             </td>
           </tr>
             <!-- New paper ONS -->
