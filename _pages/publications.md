@@ -69,7 +69,7 @@ problem from first principles and in developing respective inverse model; taking
                 <papertitle>Motion Deblurring Methodolgies: Going Beyond Conventional Cameras</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor 
+              <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor: 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
               <em>Ph.D. Thesis in IIT Madras</em>
