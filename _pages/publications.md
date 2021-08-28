@@ -47,39 +47,7 @@ problem from first principles and in developing respective inverse model; taking
        </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
-           <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
-              <div class="one">
-                <div class="two" id='font_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
-                <img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'>
-              </div>
-              <script type="text/javascript">
-                function font_start() {
-                  document.getElementById('font_image').style.opacity = "1";
-                }
-                function font_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
-                }
-                font_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
-              <a href="TODO">
-                <papertitle>Motion Deblurring Methodolgies: Going Beyond Conventional Cameras</papertitle>
-              </a>
-              <br>
-              <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor: 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
-              <br>
-              <em>Ph.D. Thesis in IIT Madras</em>
-              <br> <a href="../files/phd_thesis_ons.pdf">Thesis</a> /
-              <a href="../files/tip_ons_bib.txt">bib</a> 
-              <br>
-              <p></p>
-              <p>Motion deblurring for Rolling shutter cameras, Light field cameras, and Unconstrained Dual-lens cameras. </p>
-            </td>
-          </tr>
+         
            <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -154,6 +122,40 @@ problem from first principles and in developing respective inverse model; taking
               <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
             </td>
           </tr>    
+           
+             <!-- New paper ONS -->
+          <tr onmouseout="font_stop()" onmouseover="font_start()">
+            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='font_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
+                <img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'>
+              </div>
+              <script type="text/javascript">
+                function font_start() {
+                  document.getElementById('font_image').style.opacity = "1";
+                }
+                function font_stop() {
+                  document.getElementById('font_image').style.opacity = "0";
+                }
+                font_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Motion Deblurring Methodolgies: Going Beyond Conventional Cameras</papertitle>
+              </a>
+              <br>
+              <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor: 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+              <em>Ph.D. Thesis in IIT Madras</em>
+              <br> <a href="../files/phd_thesis_ons.pdf">Thesis</a> /
+              <a href="../files/tip_ons_bib.txt">bib</a> 
+              <br>
+              <p></p>
+              <p>Motion deblurring for Rolling shutter cameras, Light field cameras, and Unconstrained Dual-lens cameras. </p>
+            </td>
+          </tr>
            <!-- New paper ONS -->
           <tr onmouseout="divide_stop()" onmouseover="divide_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
