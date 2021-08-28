@@ -49,7 +49,7 @@ problem from first principles and in developing respective inverse model; taking
            <!-- Om Nama Sivaya -->
            <!-- New paper ONS -->
           <tr onmouseout="font_stop()" onmouseover="font_start()">
-            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='font_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
                 <img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'>
