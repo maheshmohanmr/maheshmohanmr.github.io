@@ -11,7 +11,7 @@ Welcome all! I am a postdoctoral researcher in the [Coordinated Science Laborato
 Previously, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), where I was  fortunate to be advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision.
 
 
-Prior to that, I have completed Masters (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. For more details, please find our [research](https://maheshmohanmr.github.io/publications/) and [CV](https://maheshmohanmr.github.io/cv/).
+Prior to that, I have completed Masters (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. For more details, please find [research page](https://maheshmohanmr.github.io/publications/) and [CV](https://maheshmohanmr.github.io/cv/).
 
 I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am an art- and nature-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
