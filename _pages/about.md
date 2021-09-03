@@ -13,7 +13,7 @@ Previously, I completed my Ph.D. in the [Department of Electrical Engineering](h
 
 Prior to that, I have completed Masters (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. For more details, please find [research page](https://maheshmohanmr.github.io/publications/) and [CV](https://maheshmohanmr.github.io/cv/).
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am an art- and nature-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble poems [here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/).
 
  <strong>News<strong>:
   * &#91; 2021.08 &#93; &nbsp; Invited reviewer for the [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
