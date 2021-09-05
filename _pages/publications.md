@@ -104,7 +104,7 @@ problem from first principles and in developing respective inverse model; taking
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>. Ph.D. Advisor: 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <a href="http://www.ee.iitm.ac.in/~raju/">Prof. A. N. Rajagopalan </a>
               <br>
               <em>Ph.D. thesis in IIT Madras</em>
               <br> <a href="../files/phd_thesis_ons.pdf">dissertation</a> /
