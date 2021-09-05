@@ -180,8 +180,7 @@ problem from first principles and in developing respective inverse model; taking
               <br>
                <em>CVPR</em>, 2018
               <br>
-              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper.pdf">paper</a> /
-               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_suppl.pdf">supplement</a> /
+              <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper_merged_ons.pdf">paper</a>/
               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_poster.pdf">poster</a> /
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018.txt">bib</a> 
