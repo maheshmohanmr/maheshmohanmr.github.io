@@ -1,5 +1,5 @@
 ---
-title: "Motion Deblurring Methodologies" 
+title: "Motion Deblurring Methodologies: Going Beyond Conventional Cameras" 
 collection: talks
 type: "Ph.D. Defence presentation"
 permalink: /talks/2021-01-phD_defence_ons-ons
