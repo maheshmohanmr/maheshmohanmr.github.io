@@ -3,7 +3,7 @@ title: "Motion Deblurring Methodologies: Going Beyond Conventional Cameras"
 collection: talks
 type: "Ph.D. defence presentation"
 permalink: /talks/2021-01-phD_defence_ons-ons
-venue: "IIT Madras"
+venue: "EE Dept."
 date: 2021-01-17
 location: "IIT Madras, India"
 ---
