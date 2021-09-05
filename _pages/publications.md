@@ -48,20 +48,20 @@ problem from first principles and in developing respective inverse model; taking
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
            <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
+          <tr onmouseout="tip_stop()" onmouseover="tip_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/tip_ons.PNG'></div>
+                <div class="two" id='tip_image'><img src='../images/tip_ons.PNG'></div>
                 <img src='../images/tip_ons.PNG'>
               </div>
               <script type="text/javascript">
-                function font_start() {
+                function tip_start() {
                   document.getElementById('font_image').style.opacity = "1";
                 }
-                function font_stop() {
+                function tip_stop() {
                   document.getElementById('font_image').style.opacity = "0";
                 }
-                font_stop()
+                tip_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -82,20 +82,20 @@ problem from first principles and in developing respective inverse model; taking
             </td>
           </tr>
             <!-- New paper ONS -->
-          <tr onmouseout="font_stop()" onmouseover="font_start()">
+          <tr onmouseout="dyuthi_stop()" onmouseover="dyuthi_start()">
             <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='font_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
+                <div class="two" id='dyuthi_image'><img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'></div>
                 <img src='../images/remember_vikramjeet_ushouldnotbeit_ons.PNG'>
               </div>
               <script type="text/javascript">
-                function font_start() {
-                  document.getElementById('font_image').style.opacity = "1";
+                function dyuthi_start() {
+                  document.getElementById('dyuthi_image').style.opacity = "1";
                 }
-                function font_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
+                function dyuthi_stop() {
+                  document.getElementById('dyuthi_image').style.opacity = "0";
                 }
-                font_stop()
+                dyuthi_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
