@@ -56,10 +56,10 @@ problem from first principles and in developing respective inverse model; taking
               </div>
               <script type="text/javascript">
                 function tip_start() {
-                  document.getElementById('font_image').style.opacity = "1";
+                  document.getElementById('tip_image').style.opacity = "1";
                 }
                 function tip_stop() {
-                  document.getElementById('font_image').style.opacity = "0";
+                  document.getElementById('tip_image').style.opacity = "0";
                 }
                 tip_stop()
               </script>
