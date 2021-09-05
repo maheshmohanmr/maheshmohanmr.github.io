@@ -3,7 +3,7 @@ title: "Mentored (with Prof. ANR) a B. Tech project, which led to an <q>IEEE Tra
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2020-NGK-ons
-venue: "IITM, EE Dept."
+venue: "IIT Madras, EE Dept."
 date: 2020-07-01
 location: "India"
 ---
