@@ -297,8 +297,7 @@ problem from first principles and in developing respective inverse model; taking
               <br>
                <em>ECCV</em>, 2016
               <br>
-              <a href="../files/eccv_paper.pdf">paper</a> /
-               <a href="../files/eccv_sup.pdf">supplement</a> /
+              <a href="../files/eccv_paper_merged_ons.pdf">paper</a> /
                <a href="../files/ecc_poster.pdf">poster</a> /
               <a href="../files/eccv_bib.txt">bib</a> 
               <br>
