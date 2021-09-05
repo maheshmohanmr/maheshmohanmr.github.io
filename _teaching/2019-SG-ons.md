@@ -3,7 +3,7 @@ title: "Mentored (with Prof. A. N. Rajagolalan) a B. Tech project, which led to 
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2019-SG-ons
-venue: "IITM, EE Dept."
+venue: "IIT Madras, EE Dept."
 date: 2019-07-01
 location: "India"
 ---
