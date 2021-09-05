@@ -1,5 +1,5 @@
 ---
-title: "Mentored (with Prof. ANR) a B. Tech project, which led to an <q>IEEE Transactions on Image Processing<q>"
+title: "Mentored (with Prof. ANR) a B. Tech project, which led to an <q>IEEE Transactions on Image Processing</q>"
 collection: teaching
 type: "Undergrad Thesis"
 permalink: /teaching/2020-NGK-ons
