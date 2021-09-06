@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 Welcome all! I am a postdoctoral researcher in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I am advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja) and specialize in Signal Processing. 
+
+
 Previously, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [I.I.T. Madras](https://www.iitm.ac.in/), where I was  fortunate to be advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision (please find my [dissertation](https://maheshmohanmr.github.io/files/phd_thesis_ons.pdf)).
 
 
