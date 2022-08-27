@@ -15,7 +15,7 @@ Prior to that, I have completed Master's (M-Tech) in [Communication Engineering 
 I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble poems ([here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/)).
 
  <strong>News<strong>:
-  * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference (AI for agriculture).
+  * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
   * &#91; 2022.05 &#93; &nbsp; Two journal papers got accepted ([Signal processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) and [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)).
   * &#91; 2021.08 &#93; &nbsp; Invited reviewer for the [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
    * &#91; 2021.04 &#93; &nbsp; One paper is accepted in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
