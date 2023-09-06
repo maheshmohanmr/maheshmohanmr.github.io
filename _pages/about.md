@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome all! I am an Assistant Professor in the [Centre of Excellence in Artificial Intelligence (CAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/).  Here, we form a group named &#8220;Signal Processing and Artificial Intelligence&#8221;. Our group specializes in the intersection of Signal Processing with Deep Learning and Computer Vision.  
+Welcome all! I am an Assistant Professor in the [Centre of Excellence in Artificial Intelligence (CAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/).  Here, I am building a group named &#8220;Signal Processing and Artificial Intelligence&#8221;. Our group specializes in the intersection of Signal Processing with Deep Learning and Computer Vision.  
 
 Previously, I was a  Postdoctoral Researcher in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Computer Vision applications.
 
