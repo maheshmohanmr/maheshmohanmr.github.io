@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Postdoctoral Researcher, University of Illinois Urbana-Champaign"
+excerpt: "Assistant Professor, Centre of Excellence in Artificial Intelligence, IIT Kharagpur"
 author_profile: true
 redirect_from: 
   - /about/
