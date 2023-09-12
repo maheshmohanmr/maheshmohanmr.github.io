@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Mahesh Mohan M R"
 title_separator          : "-"
 name                     : &name "Mahesh Mohan M R"
-description              : &description "Mahesh Mohan M R, Assistant Professor in IIT Kharagpur"
+description              : &description "Mahesh Mohan M R, Assistant Professor at IIT Kharagpur"
 url                      : https://maheshmohanmr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maheshmohanmr.github.io"
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : 
   avatar           : "MAHESH_ons.jpg"
-  bio              : "Assistant Professor at Centre of Excellence in Artificial Intelligence, IIT Kharagpur"
+  bio              : "Assistant Professor at the Centre of Excellence in Artificial Intelligence, IIT Kharagpur"
   location         : "Kharagpur, India"
   employer         :
   pubmed           : 
