@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). In the CAI, I am building a &#8220;Signal Processing and Artificial Intelligence&#8221; group. Our group performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). I am also a [Coordinated Science Laboratory (CSL)](https://csl.illinois.edu/) affiliate-researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
-Previously, I was a  Postdoctoral Researcher in the [CSL](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications.
+Previously, I was a  Postdoctoral Researcher in the [CSL](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with [AIFARMS](https://aifarms.illinois.edu/)).
 
 
 
