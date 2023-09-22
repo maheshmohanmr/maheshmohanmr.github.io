@@ -11,7 +11,7 @@ Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artific
  In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our SPAI group performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). 
 
 
-Previously, I was a  Postdoctoral Researcher in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with [AIFARMS](https://aifarms.illinois.edu/)).
+Previously, I was a  Postdoctoral Researcher for 2.3 years in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with [AIFARMS](https://aifarms.illinois.edu/)).
 
 
 
