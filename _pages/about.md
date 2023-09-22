@@ -59,7 +59,7 @@ img {
 </head>
 <body>
 <div class="container">
-  <img src="./../" alt="Cinque Terre" width="1000" height="300">
+  <img src="../images/lab_icon_ons.png" alt="Cinque Terre" width="1000" height="300">
   <div class="topleft">Top Left</div>
 </div>
 
