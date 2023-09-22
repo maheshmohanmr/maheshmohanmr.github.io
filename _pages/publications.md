@@ -31,8 +31,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-              I'm interested in image processing, computer vision, computational photography, and deep learning. Much of my interest lies in constructing mathematical model of a given
-problem from first principles and in developing respective inverse model; taking into account ill-posedness (if present) via regularization theory, and other computational considerations such as convex optimization, computational cost, and convergence.   
+             My current interest is in the intersection of Signal Processing with Deep learning Computer vision. 
               </p>
                           </td>
           </tr> 
