@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoEAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). In the CoEAI, I am building a &#8220;Signal Processing and Artificial Intelligence&#8221; group. Our group performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). Currently, I am also an Affiliate-Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 
-Vacancies: Ambitious and keen students are welcome to join our SP&#38;AI group for long-term projects. 
+
 
 Previously, I was a  Postdoctoral Researcher in the [Coordinated Science Lab](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with [AIFARMS](https://aifarms.illinois.edu/)).
 
@@ -18,6 +18,8 @@ Previously, I was a  Postdoctoral Researcher in the [Coordinated Science Lab](ht
 Prior to that, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [IIT Madras](https://www.iitm.ac.in/), where I was  advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computational Photography, and Computer Vision (for details, please find my [dissertation](https://maheshmohanmr.github.io/files/phd_thesis_ons.pdf)). Prior to my Ph.D., I have completed Master's (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. For more details, please find my [research page](https://maheshmohanmr.github.io/publications/) and [CV](https://maheshmohanmr.github.io/cv/).
 
 I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble poems ([here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/)).
+
+<strong>Vacancies<strong>: Ambitious and keen students are welcome to join our SP&#38;AI group for long-term projects. 
 
  <strong>News<strong>:
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
