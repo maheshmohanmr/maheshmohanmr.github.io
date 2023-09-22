@@ -37,33 +37,8 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   <!-- * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.-->
 <html>
-<head>
-<style>
-.container {
-  position: relative;
-}
-
-.topleft {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-  font-size: 18px;
-}
-
-img { 
-  width: 100%;
-  height: auto;
-  opacity: 0.3;
-}
-</style>
-</head>
+<div><img src="../images/lab_icon_ons.png" width="100" alt="My Image" /></div>
 <body>
-<div class="container">
-  <img src="../images/lab_icon_ons.png" alt="Cinque Terre" width="80" height="30">
-  <div class="topright">Top Right</div>
-</div>
-
-
 <button onclick="myFunction()">Last Update</button>
 
 <p id="demo"></p>
