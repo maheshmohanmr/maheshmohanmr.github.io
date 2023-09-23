@@ -35,14 +35,18 @@ author_profile: true
              My current interest is in the intersection of Signal Processing with Deep learning and Computer vision. 
               </p>
                           </td>
-               <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Group</heading>
-              <p>
-             My current interest is in the intersection of Signal Processing with Deep learning and Computer vision. 
-              </p>
-                          </td>
           </tr> 
-</tbody> 
+</tbody>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
+              <heading>Students</heading> 
+              <p>
+             1. Amara Datta (Mathematics and Computing | IIT Kharagpur): Works on Mathematical Foundations of Complex-valued AI.    
+              </p>
+                </td>
+          </tr> 
+</tbody>
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
