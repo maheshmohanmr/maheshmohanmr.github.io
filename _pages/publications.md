@@ -42,7 +42,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading> 
               <p>
-             1. Amara Datta (Mathematics and Computing Dept, IIT Kharagpur): Works on Mathematical Foundations of Complex-valued AI.    
+             1. Amara Datta (Mathematics and Computing Dept, IIT Kharagpur): Works on Mathematical Foundations of Complex-valued AI (applied towards Image Restoration Problems).    
               </p>
                 </td>
           </tr> 
