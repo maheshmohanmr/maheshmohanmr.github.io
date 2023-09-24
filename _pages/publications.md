@@ -45,7 +45,7 @@ author_profile: true
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Image Restoration Problems).    
               </p>
               <p>
-              <strong>Vacancies</strong>: Ambitious and keen students who are strongly interested in our research area are welcome to join our SPAI group for long-term projects.  
+              <strong>Vacancies</strong>: Ambitious and keen students who love mathematics are welcome to join our SPAI group for long-term projects.  
               </p>    
             </td>
           </tr> 
@@ -60,7 +60,38 @@ author_profile: true
        </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
-             <!-- SPL 2022 ONS -->
+           <!-- Computer and Agriculture 2022 ONS -->
+          <tr onmouseout="CA2022_stop()" onmouseover="CA2022_start()">
+            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='CA2022_image'><img src='../images/CompAgr22_op_ons.PNG'></div>
+                <img src='../images/CompAgr22_ip_ons.PNG'>
+              </div>
+              <script type="text/javascript">
+                function CA2022_start() {
+                  document.getElementById('CA2022_image').style.opacity = "1";
+                }
+                function CA2022_stop() {
+                  document.getElementById('CA2022_image').style.opacity = "0";
+                }
+                CA2022_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Barriers to Computer Vision Applications in Pig Production Facilities</papertitle>
+              </a>
+              <br>
+              Jiangong Li, Angela R Green-Miller, Xiaodan Hu, Ana Lucic, <strong>Mahesh Mohan M. R.</strong>, Ryan N Dilger, Isabella CFS Condotta, Brian Aldridge, John                M Hart, Narendra Ahuja 
+              <br>
+              <em>Computers and Electronics in Agriculture, 2022</em>
+              <br> <a href="../files/CA22_full_ons.pdf">paper</a> 
+              <br>
+              <p></p>
+              <p>A systematic analysis of computer vision applications specific to commercial pig management. </p>
+            </td>
+          </tr>  
+           <!-- SPL 2022 ONS -->
           <tr onmouseout="SPL2022_stop()" onmouseover="SPL2022_start()">
             <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
@@ -74,7 +105,7 @@ author_profile: true
                 function SPL2022_stop() {
                   document.getElementById('SPL2022_image').style.opacity = "0";
                 }
-                dyuthi_stop()
+                SPL2022_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -86,7 +117,7 @@ author_profile: true
               and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>IEEE Signal Processing Letters</em>
+              <em>IEEE Signal Processing Letters, 2022</em>
               <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
               <br>
               <p></p>
