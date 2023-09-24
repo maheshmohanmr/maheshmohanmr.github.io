@@ -50,7 +50,7 @@ author_profile: true
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Representative publications</heading> (For codes, please send us a mail.)
+              <heading>Representative publications</heading> (For codes, please send us a mail mentioning the portion.)
                 </td>
           </tr> 
 </tbody> 
