@@ -62,10 +62,10 @@ author_profile: true
            <!-- Om Nama Sivaya -->
            <!-- Computer and Agriculture 2022 ONS -->
           <tr onmouseout="CA2022_stop()" onmouseover="CA2022_start()">
-            <td style="padding:20px;width:19%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='CA2022_image'><img src='../images/CompAgr22_op_ons.PNG'></div>
-                <img src='../images/CompAgr22_ip_ons.PNG'>
+                <div class="two" id='CA2022_image'><img src='../images/CompAgr22_ipn_ons.PNG'></div>
+                <img src='../images/CompAgr22_ipn_ons.PNG'>
               </div>
               <script type="text/javascript">
                 function CA2022_start() {
