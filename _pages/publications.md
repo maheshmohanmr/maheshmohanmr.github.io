@@ -79,7 +79,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Barriers to Computer Vision Applications in Pig Production Facilities.</papertitle>
+                <papertitle>Barriers to Computer Vision Applications in Pig Production Facilities</papertitle>
               </a>
               <br>
               Jiangong Li, Angela R Green-Miller, Xiaodan Hu, Ana Lucic, <strong>Mahesh Mohan M. R.</strong>, Ryan N Dilger, Isabella CFS Condotta, Brian Aldridge, John                M Hart, Narendra Ahuja 
