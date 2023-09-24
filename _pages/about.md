@@ -19,7 +19,7 @@ Prior to that, I completed my Ph.D. in the [Department of Electrical Engineering
 
 I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble poems ([here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/)).
 
-<strong>Vacancies</strong>: Ambitious and keen students are welcome to join our SPAI group for long-term projects.    
+  
 
  <strong>News<strong>:
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
