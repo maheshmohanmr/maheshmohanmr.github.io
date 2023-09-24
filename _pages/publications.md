@@ -58,18 +58,18 @@ author_profile: true
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
              <!-- SPL 2022 ONS -->
-          <tr onmouseout="dyuthi_stop()" onmouseover="dyuthi_start()">
+          <tr onmouseout="SPL2022_stop()" onmouseover="SPL2022_start()">
             <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='dyuthi_image'><img src='../images/SPL_2022_op_ons.PNG'></div>
+                <div class="two" id='SPL2022_image'><img src='../images/SPL_2022_op_ons.PNG'></div>
                 <img src='../images/SPL_2022_ip_ons.PNG'>
               </div>
               <script type="text/javascript">
-                function dyuthi_start() {
-                  document.getElementById('dyuthi_image').style.opacity = "1";
+                function SPL2022_start() {
+                  document.getElementById('SPL2022_image').style.opacity = "1";
                 }
-                function dyuthi_stop() {
-                  document.getElementById('dyuthi_image').style.opacity = "0";
+                function SPL2022_stop() {
+                  document.getElementById('SPL2022_image').style.opacity = "0";
                 }
                 dyuthi_stop()
               </script>
@@ -83,7 +83,7 @@ author_profile: true
               and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>Ph.D. thesis in IIT Madras</em>
+              <em>IEEE Signal Processing Letters</em>
               <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
               <br>
               <p></p>
