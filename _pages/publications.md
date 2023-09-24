@@ -57,6 +57,39 @@ author_profile: true
        </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
+             <!-- SPL 2022 ONS -->
+          <tr onmouseout="dyuthi_stop()" onmouseover="dyuthi_start()">
+            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='dyuthi_image'><img src='../images/SPL_2022_op_ons.PNG'></div>
+                <img src='../images/SPL_2022_ip_ons.PNG'>
+              </div>
+              <script type="text/javascript">
+                function dyuthi_start() {
+                  document.getElementById('dyuthi_image').style.opacity = "1";
+                }
+                function dyuthi_stop() {
+                  document.getElementById('dyuthi_image').style.opacity = "0";
+                }
+                dyuthi_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Fast Motion Deblurring of IR Images</papertitle>
+              </a>
+              <br>
+              Nisha Varghese, <strong>Mahesh Mohan M. R.</strong>,
+              and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+              <em>Ph.D. thesis in IIT Madras</em>
+              <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
+              <br>
+              <p></p>
+              <p>Motion deblurring for IR cameras mounted on a higher steering-rate gimbal system (processed in real time). </p>
+            </td>
+          </tr>
            <!-- New paper ONS -->
           <tr onmouseout="tip_stop()" onmouseover="tip_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
