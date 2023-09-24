@@ -87,7 +87,7 @@ author_profile: true
               <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
               <br>
               <p></p>
-              <p>Motion deblurring for IR cameras mounted on a higher steering-rate gimbal system (processed in real time). </p>
+              <p>Motion deblurring for IR cameras mounted on a high steering-rate gimbal system (processed in real time). </p>
             </td>
           </tr>
            <!-- New paper ONS -->
