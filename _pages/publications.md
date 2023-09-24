@@ -44,7 +44,10 @@ author_profile: true
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Image Restoration Problems).    
               </p>
-                </td>
+              <p>
+              <strong>Vacancies</strong>: Ambitious and keen students are welcome to join our SPAI group for long-term projects.  
+              </p>    
+            </td>
           </tr> 
 </tbody>
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
