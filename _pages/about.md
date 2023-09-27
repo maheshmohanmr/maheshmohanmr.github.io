@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
+Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). Currently, I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
  In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). 
 
 
