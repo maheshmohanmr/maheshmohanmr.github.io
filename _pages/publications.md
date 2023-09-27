@@ -45,7 +45,7 @@ author_profile: true
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Image Restoration Problems).    
               </p>
               <p>
-              <strong>Vacancies</strong>: <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group for long-term projects. If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your interested departments/centres and listing me as a potential supervisor. (We closely follow this <a href="../files/SPAI_philosophy_ons.pdf">philosophy</a>).  
+              <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group for long-term projects. If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your interested departments/centres and listing me as a potential supervisor. (We closely follow this <a href="../files/SPAI_philosophy_ons.pdf">philosophy</a>).  
               </p>    
             </td>
           </tr> 
