@@ -34,10 +34,6 @@ generations of scientists.
   <li>Develop a phenomenological description that ties different experimental results together.</li>
   <li>Explore alternative physical pictures and mathematical descriptions without
 becoming wedded to any particular one.</li>
-  <li>Focus first on the experimental results through reading and personal contact.</li>
-  <li>Develop a phenomenological description that ties different experimental results together.</li>
-  <li>Explore alternative physical pictures and mathematical descriptions without
-becoming wedded to any particular one.</li>
   <li>Macroscopic arguments have precedence over microscopic calculations.</li>
   <li>Focus on physical understanding, not mathematical elegance, and use the simplest
 possible mathematical description of system behavior.</li>
