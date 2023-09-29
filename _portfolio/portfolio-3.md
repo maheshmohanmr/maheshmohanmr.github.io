@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-Excerpts from a [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits and art of doing research. 
+Excerpts from a [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits and his art of doing research. 
 
 
 > None of us had worked on semiconductors during the war, so we were eager to learn about the developments that had taken place. With new
