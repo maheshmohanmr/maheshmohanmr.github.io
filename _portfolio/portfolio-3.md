@@ -1,6 +1,6 @@
 ---
 title: "John Bardeen - two-time Nobel Laureate (May 23, 1908 – Jan 30, 1991)"
-excerpt: "Art of doing Research!  <br/><img src='/images/beeth_ons.png'>"
+excerpt: "Art of doing Research!  <br/><img src='/images/bardeen_waytonp_ons.PNG'>"
 collection: portfolio
 ---
 
