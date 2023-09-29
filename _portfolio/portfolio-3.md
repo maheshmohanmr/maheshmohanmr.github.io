@@ -27,7 +27,7 @@ spans of their US counterparts.
 > Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future
 generations of scientists.
 
-<h2>Ninefold way of John Bardeen's Art of Research</h2>
+> <h2>Ninefold way of John Bardeen's Art of Research</h2>
 
 <ol>
   <li>Focus first on the experimental results through reading and personal contact.</li>
