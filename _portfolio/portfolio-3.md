@@ -25,4 +25,12 @@ with Bob Schrieffer in 1961), and including his study of the application of BCS 
 spans of their US counterparts.
 
 > Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future
-generations of scientists. His ninefold way may be summarized as follows:
+generations of scientists.
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>   His ninefold way may be summarized as follows:
