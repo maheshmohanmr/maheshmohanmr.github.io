@@ -38,3 +38,6 @@ possible mathematical description of system behavior.</li>
   <li>Choose the right collaborators.</li>
   <li>DON’T GIVE UP: Stay with the problem until it is solved.</li>
 </ol>   
+
+
+John Bardeen showed us how to live a fruitful research life until death do apart from his beloved field!
