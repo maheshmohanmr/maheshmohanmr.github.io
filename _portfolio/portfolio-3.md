@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-Excerpts from the [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits and his art of doing research. 
+Excerpts from the [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits of doing research. 
 
 
 > With new things to study and new concepts to help understanding, it was a very exciting time to be involved in this research area. We followed the
