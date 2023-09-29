@@ -15,3 +15,5 @@ A mathematical superstar appeared, with a chaotic youth and sparse education [&#
  > However, once everything to the last gutter and the last stool is set, it’s rare that the worker takes the time to linger in these places, where every stone and every rafter bears the trace of the hand that has worked on it and put it in place. His place is not in the tranquility of the ready-made universe, as welcoming and as harmonious as it is - it has been arranged by his own hands or by those of his predecessors. Other tasks in other places are already calling him, pressing urges (to satisfy needs) that he is the only one to feel; or perhaps he anticipates needs that he’s the only one to sense. 
  
  >His place is in the open air. He is a friend of the wind and is not afraid to be alone with his task.  [&#91;Crops and Seeds, Pp.38-39&#93;](https://al3x.svbtle.com/alexander-grothendieck)
+
+Grothendieck research life teaches us "starting from scratch is always an option".
