@@ -28,7 +28,6 @@ spans of their US counterparts.
 generations of scientists.
 
 > <h2>Ninefold way of John Bardeen's Art of Research</h2>
-
 <ol>
   <li>Focus first on the experimental results through reading and personal contact.</li>
   <li>Develop a phenomenological description that ties different experimental results together.</li>
