@@ -1,6 +1,6 @@
 ---
 title: "John Bardeen - Two-time Nobel Laureate (May 23, 1908 – Jan 30, 1991)"
-excerpt: "Always right there in the trenches until death do apart!  <br/><img src='/images/bardeen_waytonp_ons.PNG'>"
+excerpt: "Always right there in the trenches until death do us part!  <br/><img src='/images/bardeen_waytonp_ons.PNG'>"
 collection: portfolio
 ---
 
@@ -40,4 +40,4 @@ possible mathematical description of system behavior.</li>
 </ol>   
 
 
-John Bardeen showed us how to live a fruitful research life, always right there in the trenches until death do apart!
+John Bardeen showed us how to live a fruitful research life, always right there in the trenches until death do us part!
