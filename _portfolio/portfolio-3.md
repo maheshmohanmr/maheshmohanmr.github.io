@@ -14,11 +14,15 @@ Bell Labs tradition of forming study groups to learn about what had been accompl
 > In addition to advising industry and government, Bardeen was generous with his time in giving talks to a remarkably broad spectrum of audiences eager to hear his views; these audiences ran the gamut from elementary-school children to meetings of medical societies. But throughout the two decades following BCS his central interest remained in physics, beginning with an authoritative review of BCS and its applications (written
 with Bob Schrieffer in 1961), and including his study of the application of BCS theory to a number of superconducting phenomena.
 
+
 > In working on these and other problems with students, postdocs, or colleagues, John did not take an Olympian stance. He was right there in the trenches, carrying out detailed calculations, checking factors, and being intimately involved in writing up the results for publication. Instead of basking in the glory brought his way by a continuing output of remarkable and seminal contributions, he preferred always to work on the next scientific challenge.
 
 > There was almost no area in his broad specialization — from basic ones to more complex ones — about which he had not thought deeply, and because of his willingness to take on new challenges he was much sought after for advice and counsel when a new puzzle turned up in a paper or in the laboratory.
+He especially admired the long-term view that leading Japanese corporations had adopted, as evidenced by their willingness to make substantive commitments to projects that might not pay off for a decade.
 
->  He especially admired the long-term view that leading Japanese corporations had adopted, as evidenced by their willingness to make substantive commitments to projects that might not pay off for a decade.
+> After retirement, however, when John was in Urbana, his routine was essentially unchanged from his pre-retirement days. He would
+come to the office early and leave late. His office door was always open, to signal his availability for a scientific discussion. His interest in physics, and in creating new physics, never flagged. John wrote about it in what turned out to be his last scientific article, a “popular” account of superconductivity and other macroscopic quantum phenomena, which appeared in the December 1990 issue of Physics Today just
+a month before his death.
 
 > Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future generations of scientists.
 
