@@ -1,6 +1,6 @@
 ---
 title: "John Bardeen - Two-time Nobel Laureate (May 23, 1908 – Jan 30, 1991)"
-excerpt: "Must be right there in the trenches always!  <br/><img src='/images/bardeen_waytonp_ons.PNG'>"
+excerpt: "Right there in the trenches until death do apart!  <br/><img src='/images/bardeen_waytonp_ons.PNG'>"
 collection: portfolio
 ---
 
