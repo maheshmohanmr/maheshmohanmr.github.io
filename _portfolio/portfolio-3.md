@@ -21,8 +21,7 @@ with Bob Schrieffer in 1961), and including his study of the application of BCS 
 He especially admired the long-term view that leading Japanese corporations had adopted, as evidenced by their willingness to make substantive commitments to projects that might not pay off for a decade.
 
 > After retirement, however, when John was in Urbana, his routine was essentially unchanged from his pre-retirement days. He would
-come to the office early and leave late. His office door was always open, to signal his availability for a scientific discussion. His interest in physics, and in creating new physics, never flagged. John wrote about it in what turned out to be his last scientific article, a “popular” account of superconductivity and other macroscopic quantum phenomena, which appeared in the December 1990 issue of Physics Today just
-a month before his death.
+come to the office early and leave late. His office door was always open, to signal his availability for a scientific discussion. His interest in research never flagged. John wrote about at age 82, what turned out to be his last scientific article, a “popular” account of superconductivity and other macroscopic quantum phenomena, which appeared in the December 1990 issue of Physics Today just a month before his death.
 
 > Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future generations of scientists.
 
