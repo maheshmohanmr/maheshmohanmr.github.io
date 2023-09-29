@@ -27,10 +27,22 @@ spans of their US counterparts.
 > Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future
 generations of scientists.
 
-<h2>An ordered HTML list</h2>
+<h2>Ninefold way of John Bardeen's Art of Research</h2>
 
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>   His ninefold way may be summarized as follows:
+  <li>Focus first on the experimental results through reading and personal contact.</li>
+  <li>Develop a phenomenological description that ties different experimental results together.</li>
+  <li>Explore alternative physical pictures and mathematical descriptions without
+becoming wedded to any particular one.</li>
+  <li>Focus first on the experimental results through reading and personal contact.</li>
+  <li>Develop a phenomenological description that ties different experimental results together.</li>
+  <li>Explore alternative physical pictures and mathematical descriptions without
+becoming wedded to any particular one.</li>
+  <li>Macroscopic arguments have precedence over microscopic calculations.</li>
+  <li>Focus on physical understanding, not mathematical elegance, and use the simplest
+possible mathematical description of system behavior.</li>
+  <li>Keep up with new theoretical techniques—for one of them may prove useful.</li>
+  <li>Decide on a specific model as the penultimate, not the first, step toward a solution.</li>
+  <li>Choose the right collaborators.</li>
+  <li>DON’T GIVE UP: Stay with the problem until it is solved.</li>
+</ol>   
