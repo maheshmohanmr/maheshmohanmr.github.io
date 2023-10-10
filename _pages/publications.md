@@ -49,7 +49,10 @@ author_profile: true
               </p>   
               <p>
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing research). For the same reason, sorry that I may not be able to entertain first/second year UG students. 
-              </p>   
+              </p>  
+                <p>
+                <i>What to expect</i>:  I believe the best research insights are a result of long hours of thinking. They do not respect office hours. They arrive rarely and disappear if one is not alert. If I get some but a student is not approachable, I will not be able to wait politely for office hours before I tell you what I have thought of. If you do not like this way of working.
+              </p> 
             </td>
           </tr> 
 </tbody>
