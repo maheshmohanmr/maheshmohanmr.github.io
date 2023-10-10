@@ -46,9 +46,10 @@ author_profile: true
               </p>
               <p>
               <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
-
+              </p>   
+              <p>
                 Regarding internships, I see it as an integration of classroom knowledge and theory with practical application and skills. For the same reason, sorry that I may not be able to accommodate first/second year UGs who are 
-              </p>    
+              </p>   
             </td>
           </tr> 
 </tbody>
