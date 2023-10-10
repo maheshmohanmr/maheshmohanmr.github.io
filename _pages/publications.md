@@ -53,7 +53,6 @@ author_profile: true
               <p>
               LoR policy: Truth be told, my letter of reccommendation does not have much value; so let you yourself has to be committed to exalt the depth and breadth of your research much above the height of LoR, that you may have a fair chance.
                 </p>
-
                <!--  <p>
                 <i>What to expect</i>:  I believe that the best research insights come out of long hours of persistent thinking about a problem. This may require a researcher to work in the office hours and beyond. Those insights arrive rarely and disappear very fast. I usually think of only one problem over an extended period of time. If I get some insights on a problem but a student is not approachable, I will not be able to wait politely for the student to appear to tell them what I have thought of; instead I start thinking of another problem. If you do not like this way of working, then you have to be highly independent or work with someone else.
               </p> -->
