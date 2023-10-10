@@ -51,7 +51,7 @@ author_profile: true
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
               </p>
               <p>
-              LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition.
+              LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
                <!--  <p>
                 <i>What to expect</i>:  I believe that the best research insights come out of long hours of persistent thinking about a problem. This may require a researcher to work in the office hours and beyond. Those insights arrive rarely and disappear very fast. I usually think of only one problem over an extended period of time. If I get some insights on a problem but a student is not approachable, I will not be able to wait politely for the student to appear to tell them what I have thought of; instead I start thinking of another problem. If you do not like this way of working, then you have to be highly independent or work with someone else.
