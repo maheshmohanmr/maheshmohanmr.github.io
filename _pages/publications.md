@@ -48,8 +48,12 @@ author_profile: true
               <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
               </p>   
               <p>
-                Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students. Truth be told, my letter of references does not have much value, in case if that is the sole intention. 
-              </p>  
+                Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
+              </p>
+              <p>
+              LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition.
+                </p>
+
                <!--  <p>
                 <i>What to expect</i>:  I believe that the best research insights come out of long hours of persistent thinking about a problem. This may require a researcher to work in the office hours and beyond. Those insights arrive rarely and disappear very fast. I usually think of only one problem over an extended period of time. If I get some insights on a problem but a student is not approachable, I will not be able to wait politely for the student to appear to tell them what I have thought of; instead I start thinking of another problem. If you do not like this way of working, then you have to be highly independent or work with someone else.
               </p> -->
