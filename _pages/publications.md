@@ -51,7 +51,7 @@ author_profile: true
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing research). For the same reason, sorry that I may not be able to entertain first/second year UG students. 
               </p>  
                 <p>
-                <i>What to expect</i>:  I believe the best research insights come out of long hours of persistent thinking about a problem. That may require working in the office hours and beyond. They arrive rarely and disappear if one is not alert. If I get some thoughts but a student is not approachable, I will not be able to wait politely for a student to appear before I tell you what I have thought of. If you do not like this way of working, then you have to be highly independent, or work with someone else..
+                <i>What to expect</i>:  I believe the best research insights come out of long hours of persistent thinking about a problem. That may require working in the office hours and far beyond. They arrive rarely and disappear if one is not alert. If I get some thoughts but a student is not approachable, I will not be able to wait politely for a student to appear before I tell you what I have thought of. If you do not like this way of working, then you have to be highly independent, or work with someone else..
               </p> 
             </td>
           </tr> 
