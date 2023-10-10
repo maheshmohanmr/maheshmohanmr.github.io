@@ -51,7 +51,7 @@ author_profile: true
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
               </p>
               <p>
-              LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition.
+              LoR policy: Truth be told, my letter of reccommendation does not have much value; so let you yourself has to be committed to exalt the depth and breadth of your research much above the height of LoR, that you may have a fair chance.
                 </p>
 
                <!--  <p>
