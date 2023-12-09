@@ -43,7 +43,7 @@ author_profile: true
               <heading>Students</heading> 
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Image Restoration Problems).    
-                <br> <a href="../files/NH_amara_midsemthesis_ons.pdf">Mid-Sem Report</a> /
+                <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
               </p>
               <p>
