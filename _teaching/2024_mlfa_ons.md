@@ -1,12 +1,14 @@
 ---
-title: "Mentored (with Prof. ANR) a B. Tech project, which led to an <q>IEEE Transactions on Image Processing</q>"
+title: "MLFA IIT Kharagpur <q>AI42001</q>"
 collection: teaching
-type: "Undergrad Thesis"
-permalink: /teaching/2020-NGK-ons
-venue: "IIT Madras, EE Dept."
-date: 2020-07-01
+type: "Teaching"
+permalink: /teaching/2024-MLFA-ons
+venue: "IIT Kharagpur, Centre of Excellence in AI"
+date: 2024-01-04
 location: "India"
 ---
-   Here, we identified a problem statement <q>Deep Learning based models for Dual-lens Camera</q>, and designed a research plan for the same. Undergrad <a href="https://www.linkedin.com/in/nithin-gk-218174137/">Nithin G K</a> joined with me for implementation, which finally led to a TIP paper.  Later, Nithin G. K. joined for Ph.D. under <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/">Prof. Vishal Patel, John Hopkins University, US</a>.
+  Course Logistics: <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/">Prof. Vishal Patel, John Hopkins University, US</a>
+  
+  Here, we identified a problem statement <q>Deep Learning based models for Dual-lens Camera</q>, and designed a research plan for the same. Undergrad <a href="https://www.linkedin.com/in/nithin-gk-218174137/">Nithin G K</a> joined with me for implementation, which finally led to a TIP paper.  Later, Nithin G. K. joined for Ph.D. under <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/">Prof. Vishal Patel, John Hopkins University, US</a>.
    
 
