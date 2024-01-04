@@ -9,7 +9,7 @@ location: "India"
 ---
   Course Logistics: <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/">Prof. Vishal Patel, John Hopkins University, US</a>
 
-  Lab Materials: <a href="https://drive.google.com/drive/folders/1H1dfuvs7YYrXtKPxcfkd5Oprr9CBxogR?usp=sharing">Folder</a>
+  Lab Materials: <a href="https://drive.google.com/drive/folders/1H1dfuvs7YYrXtKPxcfkd5Oprr9CBxogR?usp=sharing">Folder</a> 
   
   
    
