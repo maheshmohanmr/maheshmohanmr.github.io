@@ -7,7 +7,7 @@ venue: "IIT Kharagpur, Centre of Excellence in AI"
 date: 2024-01-04
 location: "India"
 ---
-   Materials: <a href="https://drive.google.com/drive/folders/1H1dfuvs7YYrXtKPxcfkd5Oprr9CBxogR?usp=sharing">Folder</a> 
+   Materials: <a href="https://drive.google.com/drive/folders/1H1dfuvs7YYrXtKPxcfkd5Oprr9CBxogR?usp=sharing">Google Drive Folder</a> 
   
   
    
