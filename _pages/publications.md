@@ -42,10 +42,10 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading> 
                <p>
-             2. <a href="https://www.linkedin.com/in/johaan-george/?originalSubdomain=in">Johaan George</a> (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision in Agriculture).
+             2. Johaan George (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision in Agriculture).
                </p>
               <p>
-             1. <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a> (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
+             1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
               </p>
