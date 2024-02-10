@@ -42,10 +42,13 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading> 
               <p>
-             1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Image Restoration Problems).    
+             1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
               </p>
+               <p>
+             2. Johaan George (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision).
+               </p>
               <p>
               <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
               </p>   
