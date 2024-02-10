@@ -41,9 +41,6 @@ author_profile: true
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading> 
-               <p>
-             2. Johaan George (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision in Agriculture). h
-               </p>
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
