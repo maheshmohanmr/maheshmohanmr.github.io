@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # gem "github-pages", group: :jekyll_plugins
-gem "github-pages", "=228", group: :jekyll_plugins #mmr_ons
+gem "github-pages", "=228" #mmr_ons
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
