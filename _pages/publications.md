@@ -41,14 +41,14 @@ author_profile: true
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading> 
+               <p>
+             1. <a href="https://www.linkedin.com/in/johaan-george/?originalSubdomain=in">Johaan George</a> (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision in Agriculture).
+               </p>
               <p>
-             1. <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a> (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
+             2. <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a> (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
               </p>
-               <p>
-             2. <a href="https://www.linkedin.com/in/johaan-george/?originalSubdomain=in">Johaan George</a> (Department of Ocean Engg and Naval Architecture, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision in Agriculture).
-               </p>
               <p>
               <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
               </p>   
