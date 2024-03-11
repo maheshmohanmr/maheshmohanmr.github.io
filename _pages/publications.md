@@ -40,7 +40,8 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Students</heading> 
+              <heading>Students</heading>
+               <p>The Group's Vision: <q>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone. </q> -- John Bardeen, Nobel Prize in both 1956 and 1972</p> 
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
@@ -50,7 +51,7 @@ author_profile: true
              2. Johaan George (Naval Engineering, IIT-KGP): Works on Applications of Complex-valued AI (for Computer Vision).    
               </p>
               <p>
-              <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_ons.jpeg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
+              <strong>Vacancies</strong>:  I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_ons.jpeg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students who love mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
               </p>   
               <p>
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
