@@ -58,7 +58,6 @@ author_profile: true
               <p>
                 The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group and to make an optimal decision based on bilateral matching. 
               </p>
-              
               <p>
               LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
