@@ -41,7 +41,7 @@ author_profile: true
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading>
-               <p>The Group's Vision: <q>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone. </q> -- John Bardeen, Nobel Prize in both 1956 and 1972</p> 
+               <p>Our Vision: <q>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
