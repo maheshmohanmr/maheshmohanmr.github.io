@@ -41,7 +41,7 @@ author_profile: true
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading>
-               <p>SPAI Group's Vision: <q><As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</q> -- A P J Abdul Kalam, People's President <b>AND</b> <q>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
+               <p>SPAI Group's Vision: <q>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</q> -- A P J Abdul Kalam, People's President <b>AND</b> <q>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
               <p>
              1. Amara Datta (Mathematics and Computing, IIT-KGP): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
