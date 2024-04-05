@@ -589,6 +589,7 @@ must be adhered to by anyone using these materials. For other materials, feel fr
 <script>
 function validatePass(){
     if(document.getElementById('password').value == 'complexpassword'){
+        alert('good password!!');
         return true;
     }else{
         alert('wrong password!!');
