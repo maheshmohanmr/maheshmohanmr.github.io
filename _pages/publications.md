@@ -58,7 +58,7 @@ author_profile: true
                 Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
               </p>
               <p>
-                The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group, our working style, and to make an optimal decision based on bilateral matching. In case you have any questions, please send an email to: mahesh.mohan @ cai . iitkgp . ac . in 
+                The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group, our working style, and to make an optimal decision based on bilateral matching. 
               </p>
               <p>
               LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition!
