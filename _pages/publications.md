@@ -43,13 +43,13 @@ author_profile: true
               <heading>Students</heading>
                <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
               <p>
-             1. Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023): Works on Mathematical Foundations of Complex-valued AI (for Computer Vision).    
+             1. Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
                 <br> [Chanakya Fellowship Award 2024] [Incoming Senior Data Scientist @MakeMyTrip]
               </p>
                <p>
-             2. Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024): Works on Applications of Complex-valued AI (for Computer Vision).    
+             2. Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
               </p>
               <heading>Vacancies</heading>
               <p>
