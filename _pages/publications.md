@@ -55,6 +55,17 @@ author_profile: true
               </p></li>
               </ol>
   <h2>Interns</h2>
+                 <ol reversed>
+                <li> <p>
+            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
+              </p></li>
+                  <li> <p>
+             Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
+                <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
+              <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
+               [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
+              </p></li>
+              </ol>
               <heading>Vacancies</heading>
               <p>
                I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing, image processing, computer vision, and applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
