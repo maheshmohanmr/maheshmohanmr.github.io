@@ -46,7 +46,7 @@ author_profile: true
              1. Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
-                <br> [Chanakya Fellowship Award 2024] [Incoming Senior Data Scientist @MakeMyTrip]
+                <br> [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
               </p>
                <p>
              2. Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
