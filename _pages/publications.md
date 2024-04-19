@@ -42,7 +42,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading>
                <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
-<h4>Masters 4</h4>
+<h4>Masters</h4>
                <ol reversed>
                 <li> <p>
             Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
@@ -53,7 +53,8 @@ author_profile: true
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
                [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
               </p></li>
-              </ol> 
+              </ol>
+  <h4>Interns</h4>
               <heading>Vacancies</heading>
               <p>
                I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing, image processing, computer vision, and applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
