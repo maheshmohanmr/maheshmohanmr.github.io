@@ -42,7 +42,7 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Students</heading>
                <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
-
+<h4>Masters 4</h4>
                <ol reversed>
                 <li> <p>
             Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
