@@ -44,24 +44,16 @@ author_profile: true
                <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
 
                <ol reversed>
+                <li> <p>
+            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
+              </p></li>
                   <li> <p>
              Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
                 <br> [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
               </p></li>
-                  <li>Tea</li>
-                  <li>Milk</li>
               </ol> 
-              <p>
-             1. Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
-                <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
-              <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
-                <br> [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
-              </p>
-               <p>
-             2. Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
-              </p>
               <heading>Vacancies</heading>
               <p>
                I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing, image processing, computer vision, and applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
