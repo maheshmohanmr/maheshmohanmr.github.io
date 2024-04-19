@@ -56,15 +56,18 @@ author_profile: true
               </ol>
   <h3>Interns</h3>
                  <ol reversed>
+                   <li> <p>
+            Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
+              </p></li>
+                   <li> <p>
+            Swaralipi Datta (IIT Kharagpur, Joined - Feb 2024)
+              </p></li>
                 <li> <p>
-            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
+            Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
               </p></li>
                   <li> <p>
-             Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
-                <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
-              <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
-               [Chanakya Fellowship Award 2024], [Incoming Senior Data Scientist @MakeMyTrip]
-              </p></li>
+             Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
+                  </p></li>
               </ol>
               <heading>Vacancies</heading>
               <p>
