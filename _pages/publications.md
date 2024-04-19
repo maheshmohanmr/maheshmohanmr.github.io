@@ -51,7 +51,7 @@ author_profile: true
              Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
-               [Chanakya Fellowship Award 2024] Incoming Senior Data Scientist, MakeMyTrip.
+               [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
               </p></li>
               </ol>
   <h3>Interns</h3>
