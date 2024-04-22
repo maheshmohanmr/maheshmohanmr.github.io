@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "People"
+  - title: "SPAI Group"
     url: /people/
     
-  - title: "Research"
+  - title: "SPAI Research"
     url: /publications/
 
   - title: "Talks"
