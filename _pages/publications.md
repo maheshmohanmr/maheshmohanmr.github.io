@@ -37,57 +37,6 @@ author_profile: true
                           </td>
           </tr> 
 </tbody>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Students</heading>
-               <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
-<h3>Masters</h3>
-               <ol reversed>
-                <li> <p>
-            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
-              </p></li>
-                  <li> <p>
-             Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
-                <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
-              <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
-               [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
-              </p></li>
-              </ol>
-  <h3>Interns</h3>
-                 <ol reversed>
-                   <li> <p>
-            Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                   <li> <p>
-            Swaralipi Datta (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                <li> <p>
-            Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                  <li> <p>
-             Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
-                  </p></li>
-              </ol>
-              <heading>Vacancies</heading>
-              <p>
-               I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing, image processing, computer vision, and applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
-              </p>   
-              <p>
-                Regarding internships, I see it as an integration of classroom knowledge and theory (studied in the first few years in UG) with practical application and skills (gained doing intership). For the same reason, sorry that I may not be able to entertain first/second year UG students.  
-              </p>
-              <p>
-                The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group, our working style, and to make an optimal decision based on bilateral matching. 
-              </p>
-              <p>
-              LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition!
-                </p>
-               <!--  <p>
-                <i>What to expect</i>:  I believe that the best research insights come out of long hours of persistent thinking about a problem. This may require a researcher to work in the office hours and beyond. Those insights arrive rarely and disappear very fast. I usually think of only one problem over an extended period of time. If I get some insights on a problem but a student is not approachable, I will not be able to wait politely for the student to appear to tell them what I have thought of; instead I start thinking of another problem. If you do not like this way of working, then you have to be highly independent or work with someone else.
-              </p> -->
-            </td>
-          </tr> 
-</tbody>
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
