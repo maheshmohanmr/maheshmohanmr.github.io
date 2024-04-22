@@ -26,8 +26,8 @@ author_profile: true
   <link rel="icon" type="image/png" href="images/seal_icon.png">
 
 <body>
- <h1>SPAI Group's Vision</h1>
-               <p><q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.ons</p> 
+ <h3>SPAI Group's Quotes</h3>
+               <p><q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972 <b>AND</b> Always bear in mind that your own resolution to succeed is more important than any other. -- Abraham Lincoln</p> 
 <h3>Masters</h3>
                <ol reversed>
                 <li> <p>
