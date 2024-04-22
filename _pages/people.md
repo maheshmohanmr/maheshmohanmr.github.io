@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /people/
 author_profile: true
 ---
 <!-- Om Nama Sivaya-->
