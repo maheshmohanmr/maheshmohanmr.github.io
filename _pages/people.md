@@ -26,21 +26,7 @@ author_profile: true
   <link rel="icon" type="image/png" href="images/seal_icon.png">
 
 <body>
-  <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
-  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Research</heading>
-              <p>
-             My current interest is in the intersection of Signal Processing with Deep learning and Computer vision.  
-              </p>
-                          </td>
-          </tr> 
-</tbody>
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Students</heading>
+ <heading>Students</heading>
                <p>SPAI Group's Vision: <q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President <b>AND</b> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972.</p> 
 <h3>Masters</h3>
                <ol reversed>
