@@ -32,7 +32,7 @@ author_profile: true
 <h3>Current Members</h3>
 <h4>Convenor</h4> 
 <p>
-Dr. Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) is the head of SPAI Group at IIT Kharagpur. He works as an Assistant professor in the Center of AI at Indian Institute of Technology Kharagpur, WB, India. Before this position, he worked as an Postdoctoral Researcher at University of Illinois Urbana-Champaign, US. Prior to that, he completed his PhD in IIT Madras. He has publications in top tier venues including CVPR, ICCV, ECCV, and TIP, and serve as a reviewer in various top-tier journals.</p>
+Dr. Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) is the head of SPAI Group at IIT Kharagpur. He works as an Assistant Professor in the Center of AI at Indian Institute of Technology Kharagpur, WB, India. Before this position, he worked as an Postdoctoral Researcher at University of Illinois Urbana-Champaign, US. Prior to that, he completed his PhD in IIT Madras. He has publications in top tier venues including CVPR, ICCV, ECCV, and TIP, and serve as a reviewer in various top-tier journals.</p>
   <h4>PhD</h4>
   Join us for the journey!
   <h4>PG and UG</h4>
