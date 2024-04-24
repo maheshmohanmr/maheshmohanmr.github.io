@@ -29,7 +29,10 @@ author_profile: true
   <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
  <h3>SPAI Group's Quotes</h3>
                <p><q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President </p>  <p><q><i>Always bear in mind that your own resolution to succeed is more important than any other thing.</i></q> -- Abraham Lincoln, Wartime leader </p> <p> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972 </p>
-<h3>Current Students</h3>
+<h3>Current Members</h3>
+Dr. Mahesh Mohan M R (<a href="../files/NH_amara_midsemslides_ons.pdf">Link</a>
+<p>
+Dr. Mahesh Mohan M R is the head of SPAI Group at IIT Kharagpur. He works as an Assistant professor in the Center of AI at Indian Institute of Technology Kharagpore, WB, India. Before this position, he worked as an Postdoctoral Researcher in the Coordinated Science Laboratory at University of Illinois Urbana-Champaign, US. Prior to that, he completed his PhD in IIT Madras. He has publications in top tier venues, including CVPR, ICCV, ECCV, and TIP.</p>
   <h4>PhD</h4>
   Join us for the journey!
   <h4>PG and UG</h4>
