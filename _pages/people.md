@@ -78,6 +78,6 @@ Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received h
 
   <hr><p>
 <center>
-<i>The strength of the team is each individual member. The strength of each member is the team. -- Phil Jackson, one of the greatest NBA coaches of all time</i>
+<i>The strength of the team is each individual member. The strength of each member is the team. -- Phil Jackson, one of the greatest coaches of all time</i>
 </center>      </p>
          
