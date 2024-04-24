@@ -19,11 +19,11 @@ author_profile: true
   <!-- Hi, Jon Here. Please DELETE the two <script> tags below if you use this HTML, otherwise my analytics will track your page -->
 
   
-  <!-- <meta name="author" content="Mahesh Mohan M R">
+  <meta name="author" content="Mahesh Mohan M R">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <link rel="icon" type="image/png" href="images/seal_icon.png"> -->
+  <link rel="icon" type="image/png" href="images/seal_icon.png"> 
 
 <body>
   <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
