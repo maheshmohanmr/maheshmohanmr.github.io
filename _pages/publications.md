@@ -32,7 +32,12 @@ author_profile: true
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-             Our current interest lies in the intersection of Signal Processing with Deep learning and Computer vision.    
+            <ul id="menu">
+  <li>Computer Vision</li>
+  <li>Image Processing</li>
+  <li>Computational Photography</li>
+  <li>Deep Learning</li>
+</ul>   
               </p>
                           </td>
           </tr> 
