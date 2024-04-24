@@ -32,7 +32,7 @@ author_profile: true
 <h3>Current Members</h3>
 <h4>Faculty</h4> 
 <p>
-Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received his Ph.D degree from the Dept. of Electrical Engineering, Indian Institute of Technology, Madras. Thereafter, he  joined the Coordinated Science Lab, University of Illinois Urbana-Champaign, US in April 2021 and was a postdoctoral researcher till July 2023. He joined the Centre of Excellence in AI (CoeAI), IIT Kharagpur as Assistant Professor in August 2023. He heads the Signal processing and AI (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. </p>
+Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received his Ph.D degree from the Dept. of Electrical Engineering, Indian Institute of Technology, Madras. Thereafter, he  joined the Coordinated Science Lab, University of Illinois Urbana-Champaign, US in April 2021 and was a postdoctoral researcher till July 2023. He joined the Centre of Excellence in AI, IIT Kharagpur as Assistant Professor in August 2023. He heads the Signal processing and AI (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. </p>
   <h4>PhD</h4>
   Join us for the journey!
   <h4>PG and UG</h4>
