@@ -35,7 +35,7 @@ author_profile: true
             <ul id="menu">
   <li>Computer Vision</li>
   <li>Image Processing</li>
-  <li>Computational Photography</li>
+  <li>Signal Processing</li>
   <li>Deep Learning</li>
 </ul>   
               </p>
