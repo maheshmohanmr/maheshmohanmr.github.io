@@ -30,9 +30,9 @@ author_profile: true
  <h3>SPAI Group's Quotes</h3>
                <p><q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President </p>  <p><q><i>Always bear in mind that your own resolution to succeed is more important than any other thing.</i></q> -- Abraham Lincoln, Wartime leader </p> <p> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972 </p>
 <h3>Current Members</h3>
-<h4>Convenor</h4> 
+<h4>Faculty</h4> 
 <p>
-Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received his Ph.D degree from the Dept. of Electrical Engineering, Indian Institute of Technology, Madras. Thereafter, he held postdoctoral position at the University of Illinois Urbana-Champaign, US. He is currently an Assistant Professor at the Centre of Excellence in AI (CoeAI), IIT Kharagpur. He is the convenor of the Signal processing and AI (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. </p>
+Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received his Ph.D degree from the Dept. of Electrical Engineering, Indian Institute of Technology, Madras. Thereafter, he held postdoctoral position at the University of Illinois Urbana-Champaign, US. He is currently an Assistant Professor at the Centre of Excellence in AI (CoeAI), IIT Kharagpur. He is the head of the Signal processing and AI (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. </p>
   <h4>PhD</h4>
   Join us for the journey!
   <h4>PG and UG</h4>
