@@ -76,3 +76,8 @@ Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received h
               LoR policy: Truth be told, my letter of reccommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
 
+  <hr><p>
+<center>
+<i>Pure mathematics is in its way the poetry of logical ideas. When the solution is simpler, God is answering -- Einstein</i>
+</center>      </p>
+         
