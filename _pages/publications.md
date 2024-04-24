@@ -38,6 +38,14 @@ author_profile: true
   <li>Signal Processing</li>
   <li>Deep Learning</li>
 </ul>   
+              <ul class="list-horizontal">
+    <li>Inline list item #1</li>
+    <li>Inline list item #2</li>
+    <li>Inline list item #3</li>
+    <li>Inline list item #4</li>
+    <li>Inline list item #5</li>
+</ul>
+
               </p>
                           </td>
           </tr> 
