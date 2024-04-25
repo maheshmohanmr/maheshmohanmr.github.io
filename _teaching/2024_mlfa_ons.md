@@ -11,8 +11,9 @@ location: "India"
    
    Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
 
-Heading 1
+Summary
 ======
+Basic Machine Learning Concepts for Btech students (from 2nd year onwards). Class strength: 137.
   
   
    
