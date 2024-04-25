@@ -7,7 +7,7 @@ venue: "IIT Kharagpur, Centre of Excellence in AI"
 date: 2024-01-04
 location: "India"
 ---
-   Taught till Mid-semester (followed up with Prof. Somdyuti Paul and Prof. Sudheshna Sarkar) 
+   Taught till Mid-semester, i.e., Support Vector Machine (followed up with Prof. Somdyuti Paul and Prof. Sudheshna Sarkar) 
    
    Course Overview: <a href="https://drive.google.com/drive/folders/1H1dfuvs7YYrXtKPxcfkd5Oprr9CBxogR?usp=sharing">Google Drive Folder</a> 
 
