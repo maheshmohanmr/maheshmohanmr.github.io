@@ -9,6 +9,6 @@ location: "India"
 ---
    Taught after Mid-semester, Convolutional Neural Network  (preceeded by Prof. Somdyuti Paul, followed up with Prof. Jiaul Haque Paik) 
    
-   Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
+   Course Overview: <a href="../files/Teaching_DLFA_2024S_ons.pdf">Moodle Snapshot</a>
 
 
