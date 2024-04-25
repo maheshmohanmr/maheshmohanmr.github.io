@@ -7,7 +7,7 @@ venue: "IIT Kharagpur, Centre of Excellence in AI"
 date: 2024-02-04
 location: "India"
 ---
-   Taught after Mid-semester, i.e., till Support Vector Machine (followed up with Prof. Somdyuti Paul and Prof. Sudheshna Sarkar) 
+   Taught after Mid-semester, Convolutional Neural Network  (preceeded by Prof. Somdyuti Paul, followed up with Prof. Jiaul Haque Paik) 
    
    Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
 
