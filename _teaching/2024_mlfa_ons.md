@@ -9,7 +9,7 @@ location: "India"
 ---
    Taught till Mid-semester, i.e., Support Vector Machine (followed up with Prof. Somdyuti Paul and Prof. Sudheshna Sarkar) 
    
-   Course Overview: <a href="../files/SPL2022_full_ons.pdf">paper</a>
+   Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
 
 Heading 1
 ======
