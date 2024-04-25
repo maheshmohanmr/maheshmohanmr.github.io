@@ -1,5 +1,5 @@
 ---
-title: "MLFA IIT Kharagpur <q>AI42001</q>, 2024 Spring"
+title: "Machine Learning Foundations and Applications <q>AI42001</q>, 2024 Spring, IIT Kharagpur"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2024-MLFA-ons
