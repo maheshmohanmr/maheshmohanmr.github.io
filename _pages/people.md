@@ -36,19 +36,19 @@ Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received h
   <h4>PhD</h4>
   Join us for the journey!
   <h4>PG and UG</h4>
-               <ol reversed>
-                <li> <p>
-            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
-              </p></li>
-                  <li> <p>
+               <ol>
+                 <li> <p>
              Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 <br> <a href="../files/NH_amara_midsemthesisV2_ons.pdf">Mid-Sem Report</a> /
               <a href="../files/NH_amara_midsemslides_ons.pdf">Mid-Sem Slides</a>
                [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
               </p></li>
+                <li> <p>
+            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
+              </p></li>
               </ol>
   <h4>Interns</h4>
-                 <ol reversed>
+                 <ol>
                    <li> <p>
             Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
               </p></li>
