@@ -44,7 +44,7 @@ Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received h
                [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
               </p></li>
                 <li> <p>
-            Johaan George (B-Tech, Naval Engineering, Joined - Jan 2024)
+            Johaan George (Dual: B-Tech and M-Tech, Naval Engineering, Joined - Jan 2024)
               </p></li>
               </ol>
   <h4>Interns</h4>
