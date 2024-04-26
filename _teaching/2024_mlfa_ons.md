@@ -17,7 +17,11 @@ Logistics: In-person Mode, Weekly 3 hrs lecture + 3 hrs Lab; Credits: 5
 <p>
 Students: 108 (UG/PG students from all departments based on CGPA cut-off)
 </p>
-
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
    
    
 Summary
