@@ -35,7 +35,7 @@ author_profile: true
 Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received his Ph.D degree from the  Indian Institute of Technology, Madras. Thereafter, he  joined the University of Illinois Urbana-Champaign, US in April 2021 and was a postdoctoral researcher till July 2023. He joined the Centre of Excellence in AI, IIT Kharagpur as Assistant Professor in August 2023. He heads the Signal Processing and Artificial Intelligence (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals, and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. His teaching subjects at IIT Kharagpur include Machine Learning Foundations and Applications (AI42002) and Deep Learning Foundations and Applications (AI61002).</p>
   <h4>PhD</h4>
   Join us for the journey!
-  <h4>PG and UG</h4>
+  <h4>B-Tech and M-Tech/Msc</h4>
                <ol>
                  <li> <p>
              Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
