@@ -9,10 +9,11 @@ location: "India"
 ---
 Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
 
-Logistics: Credits: 5; Weekly 3 hrs lecture + 3 hrs Lab
+Logistics: In-person Mode, Weekly 3 hrs lecture + 3 hrs Lab; Credits: 5 
 
-Students: 108 (UG/PG students from all departments based on CGPA)
-Teaching Distribution:   Taught till Mid-semester, i.e., till Support Vector Machine (followed up with <a href="https://www.linkedin.com/in/somdyuti-paul-884723a0/?originalSubdomain=in">Prof. Somdyuti Paul</a> and <a href="https://cse.iitkgp.ac.in/~sudeshna/">Prof. Sudheshna Sarkar</a>). 
+Students: 108 (UG/PG students from all departments based on CGPA cut-off)
+
+Teaching Distribution:  Taught till Mid-semester, i.e., till Support Vector Machine (followed up with <a href="https://www.linkedin.com/in/somdyuti-paul-884723a0/?originalSubdomain=in">Prof. Somdyuti Paul</a> and <a href="https://cse.iitkgp.ac.in/~sudeshna/">Prof. Sudheshna Sarkar</a>). 
    
    
 Summary
