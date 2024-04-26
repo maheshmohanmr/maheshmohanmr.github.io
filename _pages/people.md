@@ -49,18 +49,18 @@ Mahesh Mohan M R (<a href="https://maheshmohanmr.github.io">Link</a>) received h
               </ol>
   <h4>Interns</h4>
                  <ol>
-                   <li> <p>
+                   <li> 
             Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                   <li> <p>
+             </li>
+                   <li>
             Swaralipi Datta (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                <li> <p>
+              </li>
+                <li> 
             Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
-              </p></li>
-                  <li> <p>
+              </li>
+                  <li> 
              Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
-                  </p></li>
+                  </li>
               </ol>
               <heading>Vacancies</heading>
               <p>
