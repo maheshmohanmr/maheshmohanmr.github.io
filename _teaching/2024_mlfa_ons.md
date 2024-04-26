@@ -18,7 +18,7 @@ Teaching Distribution:  Taught till Mid-semester, i.e., till Support Vector Mach
    
 Summary
 ======
-Basic Machine Learning Concepts for Btech students (from 2nd year onwards). Class strength: 137.
+Basic Machine Learning Concepts for Btech students (from 2nd year onwards). Class strength: 108.
   
   
    
