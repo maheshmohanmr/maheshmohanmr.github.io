@@ -39,7 +39,7 @@ author_profile: true
                <ol>
                  <li> <p>
              Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
-                <br> [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
+                [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
               </p></li>
                 <li> <p>
             Johaan George (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
