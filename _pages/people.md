@@ -37,11 +37,7 @@ author_profile: true
   <ol>
   <p><li><big><a href="https://www.linkedin.com/in/dsffgs/"> <img width=120 src="./images/bio-photo-2.jpg" alt="This could be you."></a>  Join us for the journey!   </p>	
 <!--  <p><li><big><a href="https://www.linkedin.com/in/harsh-rangwani/"> <img width=120 src="./Harsh.jpg" alt="Harsh">  Harsh Rangwani</a> (Joined - Aug. 2019) [PMRF Fellow] <a href="https://scholar.google.co.in/citations?hl=en&user=OQK0WREAAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>	
- <p> <li><big><a href="https://www.linkedin.com/in/abhipsa-basu-526ba0152/"> <img width=120 src="./Abhipsa1.jpg" alt="Abhipsa"> Abhipsa Basu</a> (Joined - Jan. 2021) [PMRF Fellow] <a href="https://scholar.google.co.in/citations?hl=en&user=tmn0akEAAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"> </a></big></li></p>	
-  <p><li><big><a href="https://www.linkedin.com/in/rishubh-parihar/"> <img width=120 src="./Rishubh.jpg" alt="Rishubh"> Rishubh Parihar</a> (Joined - Aug. 2021) [PMRF Fellow] <a href="https://scholar.google.co.in/citations?hl=en&user=RaRoJFYAAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>	
-  <p><li><big><a href="https://www.linkedin.com/in/ankit-dhiman-46109a174/"> <img width=120 src="./Ankit.jpg" alt="Ankit"> Ankit Dhiman</a> (Joined - Aug. 2021) [ERP - Samsung] <a href="https://scholar.google.co.in/citations?hl=en&user=vPKjfz0AAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>
-<p><li><big><a href="https://badrinaths.github.io/"> <img width=120 src="./BadriNath.jpg" alt="Badri"> Badrinath Singhal</a> (Joined - Aug. 2023) <a href="https://dblp.org/pid/228/3063.html"><img src="DBLP_logo.png" alt="DBLP" style="width:48px;height:24px;"></a></big></li></p>	
- <p><li><big><a href="https://www.linkedin.com/in/priyam-dey33/?originalSubdomain=in"> <img width=120 src="./PriyamDey.JPG" alt="PriyamDey"> Priyam Dey</a> (Joined - Jan. 2024) [Jointly with Prof. S. P. Arun, CNS] <a href="https://scholar.google.com/citations?user=YMu3SJ8AAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>	-->
+<p><li><big><a href="https://badrinaths.github.io/"> <img width=120 src="./BadriNath.jpg" alt="Badri"> Badrinath Singhal</a> (Joined - Aug. 2023) <a href="https://dblp.org/pid/228/3063.html"><img src="DBLP_logo.png" alt="DBLP" style="width:48px;height:24px;"></a></big></li></p>	-->
 </ol>
 
 
