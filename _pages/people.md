@@ -37,13 +37,11 @@ author_profile: true
   Join us for the journey!
   <h4>B-Tech and M-Tech/MSc</h4>
                <ol>
-                 <li> <p>
-             Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
+                 <li> Amara Datta (MSc, Mathematics and Computing, Joined - Aug 2023)
                 [Chanakya Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
-              </p></li>
-                <li> <p>
-            Johaan George (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
-              </p></li>
+             </li>
+                <li> Johaan George (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
+             </li>
               </ol>
   <h4>Interns</h4>
                  <ol>
