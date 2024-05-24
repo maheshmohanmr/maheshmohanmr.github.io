@@ -1,7 +1,7 @@
 ---
 title: "Complex-Valued AI in Chemistry" 
 collection: talks
-type: "SPAI presentation"
+type: "SPAI Talks"
 permalink: /talks/2024-01-Veer_Chem_ons-ons
 venue: "CoEAI"
 date: 2024-05-22
