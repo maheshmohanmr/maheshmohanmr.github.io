@@ -8,9 +8,9 @@ date: 2024-05-22
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This is the presentation of Gajarlawar Veer Vilas, under the guidance of Prof. Anjali Devi J S and Mahesh Mohan M R. Veer is a third-year undergraduate student of the Department of Chemistry at <a href = "https://www.iitm.ac.in/">IIT Kharaggpur</a>, currently doing his internship in SPAI group.   
+   This is the presentation of Gajarlawar Veer Vilas, under the guidance of Prof. Anjali Devi J S and Mahesh Mohan M R. Veer is a third-year undergraduate student of the Department of Chemistry at <a href = "https://www.iitm.ac.in/">IIT Kharagpur</a>, currently doing his internship in SPAI group.   
     <span style="float:right;">
-          <a href="https://maheshmohanmr.github.io/files/Phd_defence_np4india_ons.pdf">&#91;Slides&#93;</a>  
+          <a href="https://maheshmohanmr.github.io/files/Phd_defence_np4india_ons.pdf">&#91;Slides&#93;</a>
     </span>
 </p>
 
