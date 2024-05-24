@@ -39,9 +39,9 @@ tr:nth-child(even) {
     <th>Slides</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Applications of artificial intelligence in chemistry</td>
+    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td><a href="https://maheshmohanmr.github.io/files/Phd_defence_np4india_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
