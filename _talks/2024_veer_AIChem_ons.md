@@ -41,7 +41,7 @@ tr:nth-child(even) {
   <tr>
     <td>Applications of Artificial Intelligence in Chemistry</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="https://maheshmohanmr.github.io/files/Phd_defence_np4india_ons.pdf">&#91;Slides&#93;</a></td>
+    <td><a href="https://maheshmohanmr.github.io/files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
     <td>--</td>
