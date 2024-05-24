@@ -1,5 +1,5 @@
 ---
-title: "AI in Chemistry" 
+title: "Complex-Valued AI in Chemistry" 
 collection: talks
 type: "SPAI presentation"
 permalink: /talks/2024-01-Veer_Chem_ons-ons
