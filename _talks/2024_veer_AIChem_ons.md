@@ -34,9 +34,9 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Title</th>
+    <th>Speaker</th>
+    <th>Slides</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
