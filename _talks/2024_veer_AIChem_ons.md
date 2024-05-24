@@ -7,6 +7,9 @@ venue: "CoEAI"
 date: 2024-05-22
 location: "IIT Kharagpur, India"
 ---
+<p style="text-align:left;">
+   This section contains a series of talks focussing on Complex-valued AI in Chemistry, under the guidance of  Profs. Anjali Devi J S and Mahesh Mohan M R. 
+</p>
 <html>
 <head>
 <style>
