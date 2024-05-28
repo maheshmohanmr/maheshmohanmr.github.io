@@ -2,7 +2,7 @@
 title: "Complex-Valued AI in Chemistry" 
 collection: talks
 type: "SPAI Talks"
-permalink: /talks/2024-05_Chem_ons
+permalink: /talks/2024-05_CVAIChem_ons
 venue: "CoEAI"
 date: 2024-05-22
 location: "IIT Kharagpur, India"
