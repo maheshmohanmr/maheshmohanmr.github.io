@@ -40,7 +40,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Explainable AI in Finance</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td>Gajarlawar Veer Vilas, IIT KGP (Intern)</td>
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
