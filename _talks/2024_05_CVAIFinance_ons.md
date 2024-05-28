@@ -39,8 +39,16 @@ tr:nth-child(even) {
     <th>Slides</th>
   </tr>
   <tr>
-    <td>Explainable AI in Finance</td>
+     <td rowspan="3">Explainable AI in Finance</td>
     <td>Chirayu Chaurasia, IIT KGP (Intern)</td>
+    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
+    <td>Pranit Chaudhary, IIT KGP (Intern)</td>
+    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
+    <td>Aishwarya Maan Srivastava, IIT KGP (Intern)</td>
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
