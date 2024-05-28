@@ -41,7 +41,7 @@ tr:nth-child(even) {
   <tr>
      <td rowspan="3">Explainable AI in Finance</td>
     <td>Chirayu Chaurasia, IIT KGP (Intern)</td>
-    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1zVJ3K7PbfSRR0Tzf9PTthgt-zhGc1JzS/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>Pranit Chaudhary, IIT KGP (Intern)</td>
