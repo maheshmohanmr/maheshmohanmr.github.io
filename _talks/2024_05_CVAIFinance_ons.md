@@ -45,7 +45,7 @@ tr:nth-child(even) {
   </tr>
    <tr>
     <td>Pranit Chaudhary, IIT KGP (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1Nmlag5zuQolWupDU-jxSpBszieUFL9tG/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://docs.google.com/presentation/d/12uf1I1na088KRvaWnqIiEoEz4CbDB-ap/edit?usp=sharing&ouid=111466358300667459961&rtpof=true&sd=true">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>Aishwarya Maan Srivastava, IIT KGP (Intern)</td>
