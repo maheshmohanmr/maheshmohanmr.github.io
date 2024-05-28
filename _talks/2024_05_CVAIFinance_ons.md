@@ -45,11 +45,11 @@ tr:nth-child(even) {
   </tr>
    <tr>
     <td>Pranit Chaudhary, IIT KGP (Intern)</td>
-    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1vkSBiOYzHOvm77ImmL9EGR_UUek8FUcy/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>Aishwarya Maan Srivastava, IIT KGP (Intern)</td>
-    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1qJqUAg30p3O0KQOdGc7K4f_S8-uhDHXt/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
     <td>--</td>
