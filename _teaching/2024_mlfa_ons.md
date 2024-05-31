@@ -18,7 +18,7 @@ Logistics: In-person Mode, Weekly 3 hrs lecture + 3 hrs Lab; Credits: 5
 Students: 108 (UG/PG students from all departments based on CGPA cut-off)
 </p>
 <p>
-Student Feedback: <a href="../files/MLFA_S2024_FB_ons.JPG">ERP Snapshot</a>
+Student Feedback: <a href="../files/MLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
 </p>
    
    
