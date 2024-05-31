@@ -17,6 +17,9 @@ Logistics: In-person Mode, Weekly 3 hrs lecture + 1 hr  Tutorial; Credits: 4
 <p>
 Students: 137 (Senior UG/PG students from all departments  based on CGPA cut-off)
 </p>
+<p>
+Student Feedback: <a href="../files/DLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
+</p>
 
   
 
