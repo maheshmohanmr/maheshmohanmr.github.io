@@ -15,7 +15,7 @@ Teaching Distribution:  Taught till Mid-semester, i.e., till Support Vector Mach
 Logistics: In-person Mode, Weekly 3 hrs lecture + 3 hrs Lab; Credits: 5 
 </p>
 <p>
-Students: 108 (UG/PG students from all departments based on CGPA cut-off)
+Students: 108 (UG/PG students from all departments, selected based on top CGPAs)
 </p>
 <p>
 Student Feedback: <a href="../files/MLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
