@@ -31,7 +31,6 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-
 <table>
   <tr>
     <th>Title</th>
@@ -39,17 +38,9 @@ tr:nth-child(even) {
     <th>Slides</th>
   </tr>
   <tr>
-     <td rowspan="3">Explainable AI in Finance</td>
-    <td>Chirayu Chaurasia, IIT KGP (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1zVJ3K7PbfSRR0Tzf9PTthgt-zhGc1JzS/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>
-   <tr>
-    <td>Pranit Chaudhary, IIT KGP (Intern)</td>
-    <td><a href="https://docs.google.com/presentation/d/12uf1I1na088KRvaWnqIiEoEz4CbDB-ap/edit?usp=sharing&ouid=111466358300667459961&rtpof=true&sd=true">&#91;Slides&#93;</a></td>
-  </tr>
-   <tr>
-    <td>Aishwarya Maan Srivastava, IIT KGP (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1qJqUAg30p3O0KQOdGc7K4f_S8-uhDHXt/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td>On Optimizing Complex-valued Neural Network</td>
+    <td>Amara Datta Dola (MSc Thesis)</td>
+    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
     <td>--</td>
@@ -57,7 +48,6 @@ tr:nth-child(even) {
     <td>--</td>
   </tr>
 </table>
-
 </body>
 </html>
 
