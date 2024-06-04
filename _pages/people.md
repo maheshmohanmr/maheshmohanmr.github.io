@@ -87,7 +87,7 @@ author_profile: true
 </details>
 <details>
   <summary>
-    <h3>B-Tech and M-Tech/MSc</h3>
+    B-Tech and M-Tech/MSc
     <span class="icon">👇</span>
   </summary>
   <p>
