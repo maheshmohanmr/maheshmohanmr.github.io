@@ -141,7 +141,10 @@ details {
      <b>Ph.D</b>
   </summary>
   <p>
-    --
+    <ol>
+             <li> --
+             </li>
+     </ol>
   </p>
 </details>
 <details>
