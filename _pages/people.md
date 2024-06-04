@@ -74,37 +74,57 @@ author_profile: true
               <p>
               LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
-  
-<div class="component--collapsibles" data-component="collapsibles">
-	<div>
-		<h3 data-heading="collapsibles">AI KR (Artificial Intelligence Knowledge Representation) <span>Community group</span></h3>
-		<div>
-			<p>The overall goal/mission of this community group is to explore the requirements, best practices and implementation options for the conceptualization and specification of domain knowledge in AI.</p>
-			<a href="path/to/page">Visit the AI KR Community Group</a>
-		</div>
-	</div>
-	<div>
-		<h3 data-heading="collapsibles">Web Payment Security <span>Interest group</span></h3>
-		<div>
-			<p>A brief description of what this group does.</p>
-			<a href="path/to/page">Visit the Web Payment Security Interest Group</a>
-		</div>
-	</div>
-	<div>
-		<h3 data-heading="collapsibles">Publishing <span>Business group</span></h3>
-		<div>
-			<p>The Publishing Business Group fosters ongoing participation by members of the publishing industry and overall publishing ecosystem in the development of the Web for publishing, and serves as a conduit for feedback between the publishing ecosystem and W3C.</p>
-			<a href="path/to/page">Visit the Publishing Business Group</a>
-		</div>
-	</div>
-	<div>
-		<h3 data-heading="collapsibles">Accessibility Education and Outreach Working Group (EOWG) <span>Working group</span></h3>
-		<div>
-			<p>The mission of the Accessibility Education and Outreach Working Group is to develop strategies and resources to promote awareness, understanding, implementation, and conformance testing for W3C accessibility standards; and to support the accessibility work of other W3C Groups.</p>
-			<a href="path/to/page">Visit the Accessibility Education and Outreach Working Group</a>
-		</div>
-	</div>
-</div>
+  <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+
+<div data-role="page" id="pageone">
+  <div data-role="header">
+    <h1>Collapsible Lists</h1>
+  </div>
+
+  <div data-role="main" class="ui-content">
+    <h2>My Phonebook</h2>
+    <div data-role="collapsible">
+    <h4>A</h4>
+    <ul data-role="listview">
+      <li><a href="#">Adele</a></li>
+      <li><a href="#">Agnes</a></li>
+    </ul>
+    </div>
+
+    <div data-role="collapsible">
+    <h4>B</h4>
+    <ul data-role="listview">
+       <li><a href="#">Billy</a></li>
+       <li><a href="#">Bob</a></li>
+    </ul>
+    </div>
+
+    <div data-role="collapsible">
+    <h4>C</h4>
+    <ul data-role="listview">
+      <li><a href="#">Calvin</a></li>
+      <li><a href="#">Cameron</a></li>
+      <li><a href="#">Chloe</a></li>
+      <li><a href="#">Christina</a></li>
+    </ul>
+    </div>
+  </div>
+
+  <div data-role="footer">
+    <h1>Insert Footer Text Here</h1>
+  </div>
+</div> 
+
+</body>
+</html>
+
 
   <hr><p>
 <center>
