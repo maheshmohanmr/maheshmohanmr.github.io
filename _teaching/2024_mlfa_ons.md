@@ -20,11 +20,7 @@ Students: 108 (UG/PG students from all departments based on CGPA cut-off)
 <p>
 Student Feedback: <a href="../files/MLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
 </p>
-   
-   
-Summary
-======
-Basic Machine Learning Concepts for Btech students (from 2nd year onwards). Class strength: 108.
+
   
   
    
