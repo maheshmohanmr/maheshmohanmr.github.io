@@ -41,6 +41,9 @@ details[open] article {
    opacity: 1;
  }
 } 
+summary.hand  {
+  cursor: pointer;
+}
 
 summary {
   list-style: none;
