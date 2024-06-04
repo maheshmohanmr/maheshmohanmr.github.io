@@ -75,43 +75,21 @@ author_profile: true
               LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
 
-<p>
-  <button id="toggle-all" class="btn btn-primary" type="button">
-    Collapse all
-  </button>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample">
-    Collapse first
-  </button>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample">
-    Collapse second
-  </button>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample">
-    Collapse third
-  </button>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample">
-    Collapse fourth
-  </button>
-</p>
-<div class="collapse" id="collapseExample1">
-  <div class="card card-body">
-    hi first
-  </div>
-</div>
-<div class="collapse" id="collapseExample2">
-  <div class="card card-body">
-    hi second
-  </div>
-</div>
-<div class="collapse" id="collapseExample3">
-  <div class="card card-body">
-    hi third
-  </div>
-</div>
-<div class="collapse" id="collapseExample4">
-  <div class="card card-body">
-    hi fourth
-  </div>
-</div>
+  <ul class="collapsible">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+  </ul>
+        
 
   <hr><p>
 <center>
