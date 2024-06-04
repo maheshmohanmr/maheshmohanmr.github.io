@@ -27,7 +27,7 @@ author_profile: true
 <style>
 details > summary {
   padding: 4px;
-  width: 200px;
+  width: 350px;
   background-color: #eeeeee;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
