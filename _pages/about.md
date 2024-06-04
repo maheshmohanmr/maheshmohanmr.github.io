@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
- In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision (with a focus on Agriculture applications). 
+ In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision. 
 
 
 Previously, I was a  Postdoctoral Researcher  in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with The Artificial Intelligence for Future Agricultural Resilience, Management, and Sustainability [(AIFARMS)](https://aifarms.illinois.edu/) Institute).
@@ -17,7 +17,7 @@ Previously, I was a  Postdoctoral Researcher  in the [Coordinated Science Labora
 
 Prior to that, I completed my Ph.D. in the [Department of Electrical Engineering](http://www.ee.iitm.ac.in/), [IIT Madras](https://www.iitm.ac.in/), where I was  advised by [Prof. A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) in [Image Processing and Computer Vision Lab](http://www.ee.iitm.ac.in/ipcvlab/). My Ph.D. research lies at the intersection of Image Signal Processing, Computer Vision and Deep Learning (for details, please find my [dissertation](https://maheshmohanmr.github.io/files/phd_thesis_ons.pdf)). Prior to my Ph.D., I have completed Master's (M-Tech) in [Communication Engineering and Signal Processing](http://gectcr.ac.in/electronics-department/m-tech-ec/), advised by [Prof. Sheeba V. S.](http://gectcr.ac.in/about-us/principals-profile/), and Bachelor's in Electronics and Communication Engineering, both with honours. 
 
-I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble inspirations ([here](https://maheshmohanmr.github.io/portfolio/)) and poems ([here](https://maheshmohanmr.github.io/posts/2019/09/blog-post-2/)).
+I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://www.youtube.com/watch?v=ftrFhWrvcLo). I am a nature- and art-lover, and I rarely scribble inspirations ([here](https://maheshmohanmr.github.io/portfolio/)).
 
   
 
