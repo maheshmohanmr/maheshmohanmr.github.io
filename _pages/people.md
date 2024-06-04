@@ -95,9 +95,7 @@ author_profile: true
   </p>
 </details>
 <details>
-  <summary>
-    <h3>Interns</h3>
-    <span class="icon">👇</span>
+  <summary><h3>Interns</h3>
   </summary>
   <p>
     42
