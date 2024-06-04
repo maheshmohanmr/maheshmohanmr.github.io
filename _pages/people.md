@@ -78,7 +78,7 @@ summary {
 details[open] summary {border-radius: 5px 5px 0 0;}
 
 details {
-  background: #eeebdc;
+  background: ##FFF8DC;
   border-radius: 5px;
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
