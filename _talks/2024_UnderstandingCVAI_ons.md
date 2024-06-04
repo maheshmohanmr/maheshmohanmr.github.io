@@ -40,7 +40,7 @@ tr:nth-child(even) {
   <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
     <td>Amara Datta Dola (MSc Thesis)</td>
-    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=drive_link">&#91;Slides&#93;</a></td>
   </tr>
   <tr>
     <td>--</td>
