@@ -77,8 +77,8 @@ author_profile: true
 
   <h2>Alumni</h2>
 <details>
-  <summary>
-    <h3>PhD</h3>
+   <summary>
+     <b>Ph.D</b> 
     <span class="icon">👇</span>
   </summary>
   <p>
@@ -87,7 +87,7 @@ author_profile: true
 </details>
 <details>
   <summary>
-    B-Tech and M-Tech/MSc
+     <b>B-Tech and M-Tech/MSc</b> 
     <span class="icon">👇</span>
   </summary>
   <p>
@@ -95,7 +95,10 @@ author_profile: true
   </p>
 </details>
 <details>
-  <summary class="center"><h3>Interns</h3></summary>
+   <summary>
+     <b>Interns/MSc</b> 
+    <span class="icon">👇</span>
+  </summary>
   <p>
     42
   </p>
