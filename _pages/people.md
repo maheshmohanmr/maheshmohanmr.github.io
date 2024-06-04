@@ -85,6 +85,24 @@ author_profile: true
     42
   </p>
 </details>
+<details>
+  <summary>
+    <h3>B-Tech and M-Tech/MSc</h3>
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
+<details>
+  <summary>
+    <h3>Interns</h3>
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
 
   <hr><p>
 <center>
