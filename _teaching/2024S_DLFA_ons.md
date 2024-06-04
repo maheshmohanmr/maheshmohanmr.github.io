@@ -15,7 +15,7 @@ Teaching Distribution:  Taught after Mid-semester, Convolutional Neural Network 
 Logistics: In-person Mode, Weekly 3 hrs lecture + 1 hr  Tutorial; Credits: 4 
 </p>
 <p>
-Students: 137 (Senior UG/PG students from all departments, selected based on top CGPAs)
+Students: 137 (Senior UG/PG students from all departments, selected based on CGPAs)
 </p>
 <p>
 Student Feedback: <a href="../files/DLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
