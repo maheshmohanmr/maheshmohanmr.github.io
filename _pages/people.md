@@ -151,8 +151,7 @@ details code {font-size: 1.1em;}
   
 <details>
    <summary>
-     <b>Ph.D</b> 
-     <span class="icon">👇</span>
+     <b>Ph.D</b>
   </summary>
   <p>
     --
@@ -161,7 +160,6 @@ details code {font-size: 1.1em;}
 <details>
   <summary>
      <b>B-Tech and M-Tech/MSc</b> 
-    <span class="icon">👇</span>
   </summary>
   <p>
      <ol>
@@ -176,7 +174,6 @@ details code {font-size: 1.1em;}
 <details>
    <summary>
      <b>Interns</b> 
-    <span class="icon">👇</span>
   </summary>
   <p>
     --
