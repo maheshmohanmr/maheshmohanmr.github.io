@@ -1,10 +1,10 @@
 ---
-title: "Complex-Valued AI in Finance" 
+title: "Understanding Complex-Valued AI" 
 collection: talks
 type: "SPAI Talks"
-permalink: /talks/2024-05_CVAIFinance_ons
+permalink: /talks/2024UnderstandCVAI_ons
 venue: "CoEAI"
-date: 2024-05-28
+date: 2024-06-05
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
