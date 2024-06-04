@@ -82,7 +82,7 @@ author_profile: true
     <span class="icon">👇</span>
   </summary>
   <p>
-    42
+    --
   </p>
 </details>
 <details>
@@ -91,7 +91,13 @@ author_profile: true
     <span class="icon">👇</span>
   </summary>
   <p>
-    42
+     <ol>
+                 <li> <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a>  (MSc, Mathematics and Computing, Joined - Aug 2023)
+                [Chanakya Research Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
+             </li>
+                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
+             </li>
+              </ol>
   </p>
 </details>
 <details>
@@ -100,7 +106,7 @@ author_profile: true
     <span class="icon">👇</span>
   </summary>
   <p>
-    42
+    --
   </p>
 </details>
 
