@@ -57,7 +57,7 @@ summary::after {
   height: 0; 
   border-top: 10px solid #15171b;
   border-inline: 7px solid transparent;
-  transition: 0.2s;
+  transition: 0.4s;
 }
 
 details[open] > summary {border-bottom: 2px solid #fff9f1;}
