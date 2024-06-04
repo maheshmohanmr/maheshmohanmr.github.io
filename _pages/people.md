@@ -25,34 +25,6 @@ author_profile: true
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link rel="icon" type="image/png" href="images/seal_icon.png">
 
-  details {
-  font:
-    16px "Open Sans",
-    Calibri,
-    sans-serif;
-  width: 620px;
-}
-
-details > summary {
-  padding: 2px 6px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
-  box-shadow: 3px 3px 4px black;
-  cursor: pointer;
-}
-
-details > p {
-  border-radius: 0 0 10px 10px;
-  background-color: #ddd;
-  padding: 2px 6px;
-  margin: 0;
-  box-shadow: 3px 3px 4px black;
-}
-
-details[open] > summary {
-  background-color: #ccf;
-}
 
 <body>
   <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
