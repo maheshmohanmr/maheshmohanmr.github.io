@@ -95,7 +95,7 @@ author_profile: true
   </p>
 </details>
 <details>
-  <summary><h3>Interns</h3></summary>
+  <summary class="center"><h3>Interns</h3></summary>
   <p>
     42
   </p>
