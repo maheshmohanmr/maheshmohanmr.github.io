@@ -83,6 +83,7 @@ author_profile: true
 <details>
    <summary>
      <b>Ph.D</b> 
+     <span class="icon">👇</span>
   </summary>
   <p>
     --
