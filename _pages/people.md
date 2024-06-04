@@ -106,7 +106,7 @@ author_profile: true
 </details>
 <details>
    <summary>
-     <b>Interns/MSc</b> 
+     <b>Interns</b> 
     <span class="icon">👇</span>
   </summary>
   <p>
