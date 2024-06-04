@@ -74,7 +74,15 @@ author_profile: true
               <p>
               LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research should reflect your ambition!
                 </p>
-
+<details>
+  <summary>
+    What is the meaning of life?
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
 
   <hr><p>
 <center>
