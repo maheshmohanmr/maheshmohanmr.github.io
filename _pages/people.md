@@ -109,7 +109,6 @@ details[open] > summary {
 <details>
    <summary>
      <b>Ph.D</b> 
-    <span class="icon">👇</span>
   </summary>
   <p>
     --
