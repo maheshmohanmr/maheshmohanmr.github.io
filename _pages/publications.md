@@ -30,7 +30,7 @@ author_profile: true
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>SPAI Group's Research</heading>
+              <heading>Research Interests</heading>
               <p>
             <ul id="menu">
   <li>Computer Vision</li>
