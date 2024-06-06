@@ -58,8 +58,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
 </style>
 
 <div id="content">
-    <img src="../files/IIT_KGP_ons.png" class="ribbon" alt="" />
-    <div>some text...</div>
+  <img src="../files/IIT_KGP_ons.png" width="10" alt="My Image" />
 </div>
 
 <body>
