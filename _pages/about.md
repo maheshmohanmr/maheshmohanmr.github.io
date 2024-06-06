@@ -70,7 +70,6 @@ function myFunction() {
               </p>
             </td>
           </tr>
-     </body>
-</html>
+
 </tbody></table>
 
