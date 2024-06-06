@@ -10,7 +10,7 @@ redirect_from:
 ---
 <html>
 <body>
-<div><img src="../images/lab_icon_waytonp_ons.svg" width="1000" alt="My Image" /></div>
+<div><img src="../images/waytonp_logo_ons.PNG" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
 </body></html>
 
