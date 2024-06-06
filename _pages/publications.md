@@ -26,7 +26,7 @@ author_profile: true
   <link rel="icon" type="image/png" href="images/seal_icon.png"> 
 
 <body>
-  <div><img src="../images/waytonp_logo_ons.PNG" width="800" alt="My Image" /></div>
+  <div><img src="../images/waytonp_logo_ons.PNG" width="1000" alt="My Image" /></div>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
