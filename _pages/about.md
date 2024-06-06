@@ -15,8 +15,8 @@ redirect_from:
     }
     #content img {
         position: absolute;
-        top: 0px;
-        right: 0px;
+        top: -20px;
+        right: -20px;
     }
 </style>
   <div id="content">
