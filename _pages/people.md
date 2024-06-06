@@ -172,9 +172,20 @@ details {
      </ol>
   </p>
 </details>
-
-  <hr><p>
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+                 <p>
+<hr>
 <center>
-<i>The strength of the team is each individual member. The strength of each member is the team. -- Phil Jackson, one of the greatest coaches of all time</i>
-</center>      </p>
+<i>The strength of the team is each individual member. The strength of each member is the team. -- Phil Jackson, one of the greatest coaches of all time </i>
+
+</center>
+              </p>
+            </td>
+          </tr>
+
+</tbody></table>
+
+
          
