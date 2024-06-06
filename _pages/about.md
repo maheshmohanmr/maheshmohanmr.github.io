@@ -9,8 +9,10 @@ redirect_from:
   - /about.html
 ---
 <html>
+<body>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
+</body></html>
 
 
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](https://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
@@ -63,6 +65,7 @@ function myFunction() {
 <hr>
 <center>
 <i>सदाशिव समारम्भाम् शंकराचार्य मध्यमाम् &nbsp; &nbsp; &nbsp; Beginning with Sada Shiva, through the Shankaracharya in between, <br> अस्मद् आचार्य पर्यन्ताम् वंदे गुरु परम्पराम्  &nbsp; &nbsp; &nbsp;  and up to my own teachers, I bow to the whole tradition of teachers.&nbsp; &nbsp;  </i>
+
 </center>
               </p>
             </td>
