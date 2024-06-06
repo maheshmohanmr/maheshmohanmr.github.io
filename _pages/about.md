@@ -9,7 +9,20 @@ redirect_from:
   - /about.html
 ---
 <html>
+  <style>
+    #content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+</style>
 <body>
+<div id="content">
+  <img src="../files/IIT_KGP_ons.png" width="100" alt="My Image" />
+</div>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
 </body></html>
@@ -46,22 +59,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   <!-- * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.-->
 <html>
-  <style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 0px;
-        right: 0px;
-    }
-</style>
-
-<div id="content">
-  <img src="../files/IIT_KGP_ons.png" width="10" alt="My Image" />
-</div>
-
-<body>
+  <body>
 <button onclick="myFunction()">Last Update</button>
 
 <p id="demo"></p>
