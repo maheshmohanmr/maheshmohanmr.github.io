@@ -38,20 +38,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   <!-- * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.-->
 <html>
-  <style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 0px;
-        left: 0px;
-    }
-</style>
 <div><img src="../images/lab_icon_ons.png" width="100" alt="My Image" /></div>
-  <div id="content">
-    <img src="../images/IIT_KGP_ons.png"  width="100" alt="My Image2" />
-</div>
 <body>
 <button onclick="myFunction()">Last Update</button>
 
