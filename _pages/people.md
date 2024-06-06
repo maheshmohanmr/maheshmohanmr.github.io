@@ -86,7 +86,7 @@ details {
 </style>
 
 <body>
-  <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
+  <div><img src="../images/waytonp_logo_ons.PNG" width="1000" alt="My Image" /></div>
  <h2>SPAI Group's Quotes</h2>
                <p><q><i>As a young citizen of India, armed with technology, knowledge and love for my nation, I realize, small aim is a crime.</i></q> -- A P J Abdul Kalam, People's President </p>  <p><q><i>Always bear in mind that your own resolution to succeed is more important than any other thing.</i></q> -- Abraham Lincoln, Wartime leader </p> <p> <q><i>Science is a collaborative effort. The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.</i></q> -- John Bardeen, Nobel Prize in both 1956 and 1972 </p>
 <h2>Current Members</h2>
