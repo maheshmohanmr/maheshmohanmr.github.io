@@ -15,12 +15,12 @@ redirect_from:
     }
     #content img {
         position: absolute;
-        top: -74px;
+        top: -62px;
         right: 0px;
     }
 </style>
   <div id="content">
-  <img src="../files/IIT_KGP_ons.png" width="100" alt="My Image" />
+  <img src="../files/IIT_KGP_ons.png" width="92" alt="My Image" />
 </div>
 <body>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
