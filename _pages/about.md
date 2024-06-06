@@ -10,19 +10,20 @@ redirect_from:
 ---
 <html>
   <style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: -62px;
-        right: 0px;
-    }
-</style>
-  <div id="content">
-  <img src="../files/IIT_KGP_ons.png" width="92" alt="My Image" />
-</div>
+   .logo-image img{
+width: 46px;
+height: 46px;
+border-radius: 50%;
+overflow: hidden;
+margin-top: -6px;
+}
+</style>  
 <body>
+  <a class="navbar-brand" href="/">
+      <div class="logo-image">
+            <img src="../files/IIT_KGP_ons.png" class="img-fluid">
+      </div>
+</a>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
 </body></html>
