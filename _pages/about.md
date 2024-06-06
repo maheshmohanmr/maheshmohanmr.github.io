@@ -20,7 +20,6 @@ redirect_from:
 
 <div id="content">
     <img src="../images/IIT_KGP_ons.png" class="ribbon" alt="" />
-    <div>some text...</div>
 </div>
 
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](http://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
