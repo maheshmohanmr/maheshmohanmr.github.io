@@ -10,6 +10,7 @@ redirect_from:
 <html>
 <body>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
+  <h2>SPAI Group's Talks</h2>
   </body>
 </html>
 
