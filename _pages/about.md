@@ -50,7 +50,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
 </style>
 <div><img src="../images/lab_icon_ons.png" width="100" alt="My Image" /></div>
   <div id="content">
-    <img src="../images/IIT_KGP_ons.png" class="ribbon" alt="" />
+    <img src="../images/IIT_KGP_ons.png"  width="100" alt="My Image2" />
 </div>
 <body>
 <button onclick="myFunction()">Last Update</button>
