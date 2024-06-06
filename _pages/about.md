@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<body>
+<html>
 <div><img src="../images/lab_icon_ons.png" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
 
