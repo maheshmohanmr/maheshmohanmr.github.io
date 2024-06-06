@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: ""
 excerpt: "Assistant Professor, Centre of Excellence in Artificial Intelligence, IIT Kharagpur"
 author_profile: true
