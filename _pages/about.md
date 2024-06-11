@@ -9,115 +9,34 @@ redirect_from:
   - /about.html
 ---
 <html>
-<style>
-	body {
-		font-family: Helvetica, sans-serif;
-		padding: 5%;
-		text-align: center;
-		font-size: 50;
-	}
-	
-	/* Styling the area of the slides */
-	
-	#slideshow {
-		overflow: hidden;
-		height: 510px;
-		width: 728px;
-		margin: 0 auto;
-	}
-	
-	/* Style each of the sides 
-	with a fixed width and height */
-	
-	.slide {
-		float: left;
-		height: 510px;
-		width: 728px;
-	}
-	
-	/* Add animation to the slides */
-	
-	.slide-wrapper {
-		
-		/* Calculate the total width on the
-	basis of number of slides */
-		width: calc(728px * 4);
-		
-		/* Specify the animation with the
-	duration and speed */
-		animation: slide 10s ease infinite;
-	}
-	
-	/* Set the background color
-	of each of the slides */
-	
-	.slide:nth-child(1) {
-		background: green;
-	}
-	
-	.slide:nth-child(2) {
-		background: pink;
-	}
-	
-	.slide:nth-child(3) {
-		background: red;
-	}
-	
-	.slide:nth-child(4) {
-		background: yellow;
-	}
-	
-	/* Define the animation 
-	for the slideshow */
-	
-	@keyframes slide {
-		
-		/* Calculate the margin-left for 
-	each of the slides */
-		20% {
-			margin-left: 0px;
-		}
-		40% {
-			margin-left: calc(-728px * 1);
-		}
-		60% {
-			margin-left: calc(-728px * 2);
-		}
-		80% {
-			margin-left: calc(-728px * 3);
-		}
-	}
-	</style>
+
 <body>
-	
-	<!-- Define the slideshow container -->
-	<div id="slideshow">
-		<div class="slide-wrapper">
-			
-			<!-- Define each of the slides
-		and write the content -->
-			<div class="slide">
-				<h1 class="slide-number">
-					GeeksforGeeks
-				</h1> 
-			</div>
-			<div class="slide">
-				<h1 class="slide-number">
-					A computer science portal
-				</h1> 
-			</div>
-			<div class="slide">
-				<h1 class="slide-number">
-					This is an example of
-				</h1> 
-			</div>
-			<div class="slide">
-				<h1 class="slide-number">
-					Slideshow with HTML and CSS only
-				</h1> 
-			</div>
-		</div>
-	</div>
+
+<h2 class="w3-center">Automatic Slideshow</h2>
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="../images/waytonp_logo_ons.PNG" style="width:100%">
+  <img class="mySlides" src="../images/iitkgp_np_ons.jpg" style="width:100%">
+  <img class="mySlides" src="../images/iitkgp_np_ons.jpg" style="width:100%">
+</div>
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
 </body>
 </html>
 
