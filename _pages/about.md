@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 <html>
-<head>
-	<title>HTML and CSS Slideshow</title>
-	<style>
+<style>
 	body {
 		font-family: Helvetica, sans-serif;
 		padding: 5%;
@@ -90,8 +88,6 @@ redirect_from:
 		}
 	}
 	</style>
-</head>
-
 <body>
 	
 	<!-- Define the slideshow container -->
