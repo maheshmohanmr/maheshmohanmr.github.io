@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
 <html>
 <style>
 * {box-sizing: border-box;}
