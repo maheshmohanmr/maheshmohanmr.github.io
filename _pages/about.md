@@ -9,48 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<html>
-<head>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-</head>
-
-<body>
-
-<h2 class="w3-center">Automatic Slideshow</h2>
-
-<div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="../images/waytonp_logo_ons.PNG" style="width:100%">
-  <img class="mySlides" src="../images/iitkgp_np_ons.jpg" style="width:100%">
-  <img class="mySlides" src="../images/iitkgp_np_ons.jpg" style="width:100%">
-</div>
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-</script>
-
-</body>
-</html>
-
-
 Welcome all! I am an Assistant Professor at the [Centre of Excellence in Artificial Intelligence (CoeAI)](https://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
  In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision. 
 
