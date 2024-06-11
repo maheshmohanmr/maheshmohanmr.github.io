@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<html>
 <head>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
