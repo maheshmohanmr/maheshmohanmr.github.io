@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
 ---
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
