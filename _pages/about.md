@@ -45,7 +45,30 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91;	2017.07 &#93; &nbsp; Awarded Microsoft & ACM  grants  to attend ICCV-17, Venice, Italy.
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.
+.details,
+.show,
+.hide:target {
+  display: none;
+}
+.hide:target + .show,
+.hide:target ~ .details {
+  display: block;
+}
 
+<div>
+  <a id="hide1" href="#hide1" class="hide">+ Summary goes here</a>
+  <a id="show1" href="#show1" class="show">- Summary goes here</a>
+  <div class="details">
+    Content goes here.
+  </div>
+</div>
+<div>
+  <a id="hide2" href="#hide2" class="hide">+ Summary goes here</a>
+  <a id="show2" href="#show2" class="show">- Summary goes here</a>
+  <div class="details">
+    Content goes here.
+  </div>
+</div>
 
 <html>
   <body>
