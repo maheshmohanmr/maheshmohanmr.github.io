@@ -45,7 +45,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91;	2017.07 &#93; &nbsp; Awarded Microsoft & ACM  grants  to attend ICCV-17, Venice, Italy.
   * &#91;	2016-17 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.
-    
+<html>    
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Link with href
@@ -59,6 +59,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
   </div>
 </div>
+</html>
 <html>
   <body>
 <button onclick="myFunction()">Last Update</button>
