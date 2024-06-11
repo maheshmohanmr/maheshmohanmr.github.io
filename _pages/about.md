@@ -92,13 +92,13 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="../images/iit_kgp2_ons.jpg" style="width:100%">
+  <img src="../images/iitkgp_np_ons.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="../images/iit_kgp2_ons.jpg" style="width:100%">
+  <img src="../images/iitkgp_np_ons.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
