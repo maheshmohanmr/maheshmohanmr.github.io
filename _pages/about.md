@@ -28,7 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
- * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Data Scientist. Best Wishes!
+ * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Data Scientist. Best Wishes Amara!
  * &#91; 2024.04 &#93; &nbsp;  Congrats Amara for receiving the prestigious [UG Chanakya Fellowship](https://ai4icps.in/technology-1) award! 
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
   * &#91; 2022.05 &#93; &nbsp; Two journal papers got accepted ([Signal processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) and [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)).
