@@ -83,13 +83,13 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="../images/waytonp_logo_ons.PNG" style="width:100%">
+  <img src="https://www.w3schools.com/css/img_5terre.jpg" class="pics"/>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="../images/iitkgp_np_ons.jpg" style="width:100%">
+  <img src="https://www.w3schools.com/css/img_5terre.jpg" class="pics"/>
   <div class="text">Caption Two</div>
 </div>
 
