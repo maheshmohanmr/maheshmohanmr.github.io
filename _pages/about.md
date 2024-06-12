@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as a Datathon Chair for [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Data Scientist. Best Wishes Amara!
  * &#91; 2024.04 &#93; &nbsp;  Congrats Amara for receiving the prestigious [UG Chanakya Fellowship](https://ai4icps.in/technology-1) award! 
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
