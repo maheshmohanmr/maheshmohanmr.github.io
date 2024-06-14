@@ -100,11 +100,6 @@ details {
 </ol>
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
-                 <li> <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a>  (MSc, Mathematics and Computing, Joined - Aug 2023)
-                [Chanakya Research Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
-             </li>
-                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
-             </li>
                 <li>
                   Sharath S (B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
@@ -172,7 +167,7 @@ details {
   <p>
      <ol>
                  <li> <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a>  (MSc, Mathematics and Computing, Aug 2023 - May 2024)
-                [Chanakya Research Fellowship Award 2024], Incoming Senior Data Scientist, MakeMyTrip.
+                [Chanakya Research Fellowship Award 2024], Senior Data Scientist, MakeMyTrip.
              </li>
                 <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Dual: B-Tech & M-Tech, Naval Engineering, Jan 2024 - May 2024)
              </li>
