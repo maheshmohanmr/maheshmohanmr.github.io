@@ -137,10 +137,13 @@ details {
             Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
               </li>
                   <li> 
-             Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
+             Bibhabasu Debnath (IIT Kharagpur, Joined - May 2024)
                   </li>
                    <li> 
-            Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
+            Adithyan Cp (Bharatidasan University,  Joined - May 2024)
+             </li>
+                   <li> 
+            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024)
              </li>
               </ol>
               <heading>Vacancies</heading>
