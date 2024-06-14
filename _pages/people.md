@@ -105,6 +105,21 @@ details {
              </li>
                 <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Dual: B-Tech & M-Tech, Naval Engineering, Joined - Jan 2024)
              </li>
+                <li>
+                  Sharath S (B-Tech, Electrical Engineering, Joined - Mar 2024)
+                </li>
+                 <li>
+                  Ayan Sinha (B-Tech, Agricultural Engineering, Joined - Mar 2024)
+                </li>
+                <li>
+                  Jay Godara (B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                </li>
+                <li>
+                  Divyanshu Vaibhav (B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                </li>
+                  <li>
+                  Rahul R (B-Tech, Electrical Engineering, Joined - June 2024)
+                </li>
               </ol>
   <h3>Interns</h3>
                  <ol>
@@ -120,6 +135,9 @@ details {
                   <li> 
              Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
                   </li>
+                   <li> 
+            Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
+             </li>
               </ol>
               <heading>Vacancies</heading>
               <p>
