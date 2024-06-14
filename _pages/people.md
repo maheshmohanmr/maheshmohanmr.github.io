@@ -101,19 +101,19 @@ details {
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
-                  Sharath S (B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
-                  Ayan Sinha (B-Tech and M-Tech, Agricultural Engineering, Joined - Mar 2024)
+                  Ayan Sinha (IIT Kharagpur, B-Tech and M-Tech, Agricultural Engineering, Joined - Mar 2024)
                 </li>
                 <li>
-                  Jay Godara (B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                  Jay Godara (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                 <li>
-                  Divyanshu Vaibhav (B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                  Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                   <li>
-                  Rahul R (B-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
               </ol>
   <h3>Interns</h3>
