@@ -143,6 +143,9 @@ details {
             Adithyan Cp (Bharatidasan University,  Joined - May 2024)
              </li>
                    <li> 
+            Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
+             </li> 
+                   <li> 
             Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024)
              </li>
                     <li> 
