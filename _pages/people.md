@@ -112,8 +112,17 @@ details {
                 <li>
                   Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
+                 <li>
+                  Sayan Ghosh (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
+                </li>
+                 <li>
+                  Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024)
+                </li>
                   <li>
                   Rahul R (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - June 2024)
+                </li>
+                 <li>
+                  Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
                 </li>
               </ol>
   <h3>Interns</h3>
