@@ -145,6 +145,12 @@ details {
                    <li> 
             Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024)
              </li>
+                    <li> 
+             Pranit Chaudhary (IIT Kharagpur,  Joined - May 2024)
+             </li>
+                    <li> 
+             Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
+             </li>
               </ol>
               <heading>Vacancies</heading>
               <p>
