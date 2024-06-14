@@ -109,7 +109,7 @@ details {
                   Sharath S (B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
-                  Ayan Sinha (B-Tech, Agricultural Engineering, Joined - Mar 2024)
+                  Ayan Sinha (B-Tech and M-Tech, Agricultural Engineering, Joined - Mar 2024)
                 </li>
                 <li>
                   Jay Godara (B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
