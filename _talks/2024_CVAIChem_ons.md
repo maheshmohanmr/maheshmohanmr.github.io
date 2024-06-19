@@ -49,9 +49,14 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
-    <td>Working of Fourier Transform Infrared Spectroscopy</td>
+    <td>Working of Fourier Transform Infrared Spectroscopy (FTIR)</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1GL6TabRlMbL-FqGIcV3oDqNUGK5NLPC0/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+    <tr>
+    <td>Applications of AI for Qualitative Analysis in FTIR</td>
+    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>--</td>
