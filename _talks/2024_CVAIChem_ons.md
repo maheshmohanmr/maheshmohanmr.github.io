@@ -8,7 +8,7 @@ date: 2024-05-22
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI talks/resources focusing on Complex-valued AI in Chemistry, under the guidance of  Profs. Anjali Devi J S (<a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/">&#91;Dept of Chemistry, Kannur University, Kerala&#93;</a>) and Mahesh Mohan M R. 
+   This section contains a series of SPAI talks/resources focusing on Complex-valued AI in Chemistry, under the guidance of  Profs. Anjali Devi J S (<a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/">&Dept of Chemistry, Kannur University, Kerala&;</a>) and Mahesh Mohan M R. 
 </p>
 <html>
 <head>
