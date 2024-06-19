@@ -43,6 +43,11 @@ tr:nth-child(even) {
     <td>Gajarlawar Veer Vilas (Intern)</td>
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
+   <tr>
+    <td>Use of Complex Valued Data or Fourier Transfrom in Chemistry</td>
+    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
     <tr>
     <td>Working of Fourier Transform Infrared Spectroscopy</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
