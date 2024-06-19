@@ -36,7 +36,7 @@ tr:nth-child(even) {
   <tr>
     <th>Title</th>
     <th>Speaker</th>
-    <th>Slides</th>
+    <th>Resources</th>
   </tr>
   <tr>
     <td>Applications of Artificial Intelligence in Chemistry</td>
