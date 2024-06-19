@@ -43,7 +43,13 @@ tr:nth-child(even) {
     <td>Gajarlawar Veer Vilas (Intern)</td>
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
-  <tr>
+   https://drive.google.com/file/d/1GL6TabRlMbL-FqGIcV3oDqNUGK5NLPC0/view?usp=sharing
+    <tr>
+    <td>Working of Fourier Transform Infrared Spectroscopy</td>
+    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1GL6TabRlMbL-FqGIcV3oDqNUGK5NLPC0/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
     <td>--</td>
     <td>--</td>
     <td>--</td>
