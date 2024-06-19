@@ -61,8 +61,8 @@ tr:nth-child(even) {
    <tr>
     <td>Introduction to AI in Chemistry</td>
     <td>Prof. Mahesh Mohan M R (External talk)</td>
-    <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Slides&#93;</a></td>
-      <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Code&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Slides&#93;</a>
+     <a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Code&#93;</a></td>
   </tr>
 </table>
 
