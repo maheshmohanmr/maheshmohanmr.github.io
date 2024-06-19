@@ -61,11 +61,21 @@ tr:nth-child(even) {
 </body>
 </html>
 
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+                 <p>
+<hr>
+<center>
+<i>I will prepare and some day my chance will come. -- Abraham Lincoln </i>
 
+</center>
+              </p>
+            </td>
+          </tr>
 
-I will prepare and some day my chance will come.
+</tbody></table>
 
-Abraham Lincoln
 
 
 
