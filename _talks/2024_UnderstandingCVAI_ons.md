@@ -50,8 +50,21 @@ tr:nth-child(even) {
 </table>
 </body>
 </html>
-Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+                 <p>
+<hr>
+<center>
+<i>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. -- Mary Curie, Nobel Laureate in Chemistry </i>
+
+</center>
+              </p>
+            </td>
+          </tr>
+
+</tbody></table>
 
 
 
