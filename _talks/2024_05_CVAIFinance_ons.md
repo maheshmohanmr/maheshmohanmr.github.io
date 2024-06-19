@@ -63,4 +63,10 @@ tr:nth-child(even) {
 
 
 
+I will prepare and some day my chance will come.
+
+Abraham Lincoln
+
+
+
 
