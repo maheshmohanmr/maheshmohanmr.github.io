@@ -69,5 +69,18 @@ tr:nth-child(even) {
 </body>
 </html>
 
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+                 <p>
+<hr>
+<center>
+<i>We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained -- Mary Curie, Nobel Laureate in Chemistry </i>
 
+</center>
+              </p>
+            </td>
+          </tr>
+
+</tbody></table>
 
