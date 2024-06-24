@@ -43,7 +43,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
    <tr>
-    <td colspan="3"><i>Introduction to AI in Chemistry</i></td>
+    <td colspan="3"><b>Introduction to AI in Chemistry</b></td>
   </tr>
   <tr>
     <td>Applications of Artificial Intelligence in Chemistry</td>
@@ -62,7 +62,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td colspan="3"><i>AI + Fourier Transform Infrared Spectroscopy</i></td>
+    <td colspan="3"><b>AI + Fourier Transform Infrared Spectroscopy</b></td>
   </tr>
     <tr>
     <td>Working of Fourier Transform Infrared Spectroscopy (FTIR)</td>
