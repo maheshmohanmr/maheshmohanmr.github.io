@@ -62,7 +62,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td colspan="3"><b>AI for Fourier Transform Infrared Spectroscopy</b></td>
+    <td colspan="3"><b>Complex-valued AI for FTIR</b></td>
   </tr>
     <tr>
     <td>Working of Fourier Transform Infrared Spectroscopy (FTIR)</td>
