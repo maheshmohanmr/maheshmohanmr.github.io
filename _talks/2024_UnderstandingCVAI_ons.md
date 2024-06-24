@@ -42,11 +42,6 @@ tr:nth-child(even) {
     <td>Amara Datta Dola (MSc Thesis)</td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
-  <tr>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
-  </tr>
 </table>
 </body>
 </html>
