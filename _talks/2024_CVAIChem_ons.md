@@ -51,9 +51,18 @@ tr:nth-child(even) {
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
+    <td>Introduction to AI in Chemistry</td>
+    <td>Prof. Mahesh Mohan M R (External talk)</td>
+    <td><a href="https://docs.google.com/presentation/d/12ADzCK7ilVUMUSfp5FPr9bn8Dte5rPKf9uGVSEZZSvI/edit?usp=sharing">&#91;Slides&#93;</a>
+     <a href="https://drive.google.com/drive/folders/1YGLtKzn3rYqXOcBymEac3LWsVdoT8t7d?usp=sharing">&#91;Code&#93;</a></td>
+  </tr>
+    <tr>
     <td>Use of Complex Valued Data or Fourier Transfrom in Chemistry</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
+    <td colspan="3"><i>AI and Fourier Transform Infrared Spectroscopy</i></td>
   </tr>
     <tr>
     <td>Working of Fourier Transform Infrared Spectroscopy (FTIR)</td>
@@ -65,12 +74,7 @@ tr:nth-child(even) {
     <td>Gajarlawar Veer Vilas (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
-   <tr>
-    <td>Introduction to AI in Chemistry</td>
-    <td>Prof. Mahesh Mohan M R (External talk)</td>
-    <td><a href="https://docs.google.com/presentation/d/12ADzCK7ilVUMUSfp5FPr9bn8Dte5rPKf9uGVSEZZSvI/edit?usp=sharing">&#91;Slides&#93;</a>
-     <a href="https://drive.google.com/drive/folders/1YGLtKzn3rYqXOcBymEac3LWsVdoT8t7d?usp=sharing">&#91;Code&#93;</a></td>
-  </tr>
+   
 </table>
 
 </body>
