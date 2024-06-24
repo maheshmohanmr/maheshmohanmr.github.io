@@ -68,7 +68,7 @@ tr:nth-child(even) {
 <table>
   <tr>
     <td>Cell</td>
-    <td>Nested Table
+    <td>Introduction to AI in Chemistry
       <table>
         <tr>
           <td>Cell 1</td>
