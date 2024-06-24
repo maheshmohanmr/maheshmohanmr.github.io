@@ -38,6 +38,9 @@ tr:nth-child(even) {
     <th>Speaker</th>
     <th>Resources</th>
   </tr>
+   <tr>
+    <th colspan="3">Introduction to AI in Chemistry</th>
+  </tr>
   <tr>
     <td>Applications of Artificial Intelligence in Chemistry</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
