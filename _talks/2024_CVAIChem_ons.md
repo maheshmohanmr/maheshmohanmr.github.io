@@ -65,6 +65,27 @@ tr:nth-child(even) {
      <a href="https://drive.google.com/drive/folders/1YGLtKzn3rYqXOcBymEac3LWsVdoT8t7d?usp=sharing">&#91;Code&#93;</a></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Cell</td>
+    <td>Nested Table
+      <table>
+        <tr>
+          <td>Cell 1</td>
+        </tr>
+        <tr>
+          <td>Cell 2</td>
+        </tr>
+        <tr>
+          <td>Cell 3</td>
+        </tr>
+        <tr>
+          <td>Cell 4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </body>
 </html>
