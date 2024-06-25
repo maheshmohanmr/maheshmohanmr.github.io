@@ -1,5 +1,5 @@
 ---
-title: "Complex-Valued AI in Natural Language Processing" 
+title: "Complex-Valued AI for LLMs" 
 collection: talks
 type: "SPAI Talks"
 permalink: /talks/2024-05_CVAI_LLM_ons
