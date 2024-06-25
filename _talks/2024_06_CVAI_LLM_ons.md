@@ -1,5 +1,5 @@
 ---
-title: "Complex-Valued AI for LLMs" 
+title: "Complex-Valued AI in LLMs" 
 collection: talks
 type: "SPAI Talks"
 permalink: /talks/2024-05_CVAI_LLM_ons
@@ -8,7 +8,7 @@ date: 2024-06-25
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI talks (or resources) focusing on Complex-valued AI for LLMs. 
+   This section contains a series of SPAI talks (or resources) focusing on Complex-valued AI in LLMs. 
 </p>
 <html>
 <head>
