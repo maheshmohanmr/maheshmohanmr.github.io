@@ -154,6 +154,9 @@ details {
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
              </li>
+                    <li> 
+             Manish Vaghmashi (IIT Kharagpur,  Joined - June 2024)
+             </li>
               </ol>
               <heading>Vacancies</heading>
               <p>
