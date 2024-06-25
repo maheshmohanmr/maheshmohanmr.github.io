@@ -2,9 +2,9 @@
 title: "Complex-Valued AI in Natural Language Processing" 
 collection: talks
 type: "SPAI Talks"
-permalink: /talks/2024-05_CVAIChem_ons
+permalink: /talks/2024-05_CVAI_LLM_ons
 venue: "CoEAI"
-date: 2024-05-22
+date: 2024-06-25
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
