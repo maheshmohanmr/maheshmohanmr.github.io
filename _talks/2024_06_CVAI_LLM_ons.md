@@ -8,7 +8,7 @@ date: 2024-06-25
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI talks (or resources) focusing on Complex-valued AI in NLP. 
+   This section contains a series of SPAI talks (or resources) focusing on Complex-valued AI for LLMs. 
 </p>
 <html>
 <head>
