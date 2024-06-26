@@ -86,7 +86,7 @@ tr:nth-child(even) {
                  <p>
 <hr>
 <center>
-<i>We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. -- Marie Curie, Nobel Laureate in Chemistry </i>
+<i>I have no dress except the one I wear every day. If you are going to be kind enough to give me one, please let it be practical and dark so that I can put it on afterwards to go to the laboratory. -- Marie Curie, Nobel Laureate in Chemistry </i>
 
 </center>
               </p>
