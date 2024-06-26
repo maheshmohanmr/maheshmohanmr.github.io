@@ -105,10 +105,10 @@ details {
                   Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
-                  Ayan Sinha (IIT Kharagpur, B-Tech and M-Tech, Agricultural Engineering, Joined - Mar 2024)
+                  Ayan Sinha (IIT Kharagpur, Joint B Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
                 </li>
                 <li>
-                  Jay Godara (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                  Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                 <li>
                   Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
@@ -120,7 +120,7 @@ details {
                   Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024)
                 </li>
                   <li>
-                  Rahul R (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R (IIT Kharagpur, Join B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
@@ -194,7 +194,7 @@ details {
                  <li> <a href="https://www.linkedin.com/in/amara-datta-6158b01b6/?originalSubdomain=in">Amara Datta</a>  (MSc, Mathematics and Computing, Aug 2023 - May 2024)
                 [Chanakya Research Fellowship Award 2024], Senior Data Scientist, MakeMyTrip.
              </li>
-                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Dual: B-Tech & M-Tech, Naval Engineering, Jan 2024 - May 2024)
+                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (Joint B-Tech  M-Tech, Naval Engineering, Jan 2024 - May 2024), Final year at IIT Kharagpur (specializing in Naval Engg).
              </li>
               </ol>
   </p>
