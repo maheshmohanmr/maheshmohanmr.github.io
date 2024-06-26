@@ -1,6 +1,6 @@
 ---
 title: "Alexander Grothendieck (28 March 1928 – 13 Nov 2014)"
-excerpt: "Starting from scratch is always an option!  <br/><img src='/images/gt_ons_w.png'>"
+excerpt: "Starting from scratch is always an option!  <br/><img src='/images/gt_ons_w.png' width='800'>"
 collection: portfolio
 ---
 
