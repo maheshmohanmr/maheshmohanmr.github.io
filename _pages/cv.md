@@ -49,7 +49,7 @@ Publications
 ======
 Please find [here](https://maheshmohanmr.github.io/publications/).
 
-Talks
+Resources
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
