@@ -57,7 +57,7 @@ tr:nth-child(even) {
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+            <td style="padding:8px;width:100%;vertical-align:middle;border:1px">
                  <p>
 <hr>
 <center>
