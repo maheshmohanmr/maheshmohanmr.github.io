@@ -121,7 +121,7 @@ details {
                   Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024)
                 </li>
                   <li>
-                  Rahul R (IIT Kharagpur, Join B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
