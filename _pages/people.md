@@ -211,7 +211,10 @@ details {
      </ol>
   </p>
 </details>
-
+<h2>SPAI Group's Memory Lane</h2>
+<i>We all take different paths in life, but no matter where we go, we take a little of each other everyhwere.<i>
+― Tim McGraw 
+  <br>
  Enter password: <input id='password' type='text'  />
 <a href="../files/SPAI_Manual_ons.pdf" onclick="javascript:return validatePass()">enter your password and click this</a>
 <script>
