@@ -215,8 +215,8 @@ details {
 <i>We all take different paths in life, but no matter where we go, we take a little of each other everyhwere.</i>
 ― Tim McGraw 
   <br>
- Enter password (Hint: Same as our SSH password): <input id='password' type='text'  />
-<a href="../files/SPAI_Manual_ons.pdf" onclick="javascript:return validatePass()">enter your password and click this</a>
+ <input id='password' type='text'  />
+<a href="../files/SPAI_Manual_ons.pdf" onclick="javascript:return validatePass()">Enter password (same as our SSH password) and click this</a>
 <script>
 function validatePass(){
     if(document.getElementById('password').value == 'complexpassword'){
