@@ -211,6 +211,20 @@ details {
      </ol>
   </p>
 </details>
+
+ Enter password: <input id='password' type='text'  />
+<a href="../files/SPAI_Manual_ons.pdf" onclick="javascript:return validatePass()">enter your password and click this</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == 'complexpassword'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
