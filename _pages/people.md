@@ -211,7 +211,7 @@ details {
      </ol>
   </p>
 </details>
-<h2>SPAI Group's Memory Lane</h2>
+<h2>SPAI Group's Manual (with Memory Lane)</h2>
 <i>We all take different paths in life, but no matter where we go, we take a little of each other everywhere.</i>
 ― Tim McGraw 
   <br>
