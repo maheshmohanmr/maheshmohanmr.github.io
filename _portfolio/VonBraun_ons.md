@@ -1,11 +1,11 @@
 ---
-title: "Von Brown - Rocket Scientist (23 Mar 1912 – 16 Jun  1977)"
+title: "Von Braun - Rocket Scientist (23 Mar 1912 – 16 Jun  1977)"
 excerpt: "Build a Rock Castle rather than miles of Rock Wall!  <br/><img src='/images/vbrown_ons.jpg' width='800'>"
 collection: portfolio
 ---
 
 
-Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), where Von Brown is advising A P J Kalam who is facing a difficult time (In Kalam's words: SLV-3 was still in the future; with three deaths in the family in as many successive years, I needed total commitment to my work in order to
+Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), where Von Braun is advising A P J Kalam who is facing a difficult time (In Kalam's words: With three deaths in the family in as many successive years, I needed total commitment to my work in order to
 keep performing).
 > You should always remember that we don’t just build on successes, we also build on failures.
 
