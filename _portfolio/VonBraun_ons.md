@@ -1,6 +1,6 @@
 ---
 title: "Von Brown - Rocket Scientist (23 Mar 1912 – 16 Jun  1977)"
-excerpt: "Build a Castle rather than miles of wall!  <br/><img src='/images/vbrown_ons.jpg' width='800'>"
+excerpt: "Build a Rock Castle rather than miles of Rock Wall!  <br/><img src='/images/vbrown_ons.jpg' width='800'>"
 collection: portfolio
 ---
 
@@ -18,5 +18,5 @@ the rock wall may enclose an apple orchard or mark a boundary. When they finish,
 >  Do not make research your profession, your livelihood — make it your religion, your
 mission.
 
-Von Braun tells one should build castles rather than miles of brick wall, even though both takes similar hard work!
+Von Braun tells one should build rock castles rather than miles of rock wall, even though both takes similar hard work!
 
