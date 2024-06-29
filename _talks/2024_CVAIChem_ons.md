@@ -72,7 +72,7 @@ tr:nth-child(even) {
     <tr>
     <td>Applications of AI for Qualitative Analysis in FTIR</td>
     <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1aSsa9cEqrAKb-gkUOMQJK08oir-zPY0w/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1zk9r3DhxSTO-dBot7Gjddq3JqnBqH5y3/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    
 </table>
