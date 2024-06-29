@@ -212,7 +212,7 @@ details {
   </p>
 </details>
 <h2>SPAI Group's Internal Resources</h2>
-Accessible to SPAI Group (present members and Alumni).
+Accessible to SPAI Group (current members and alumni).
  <input id='password' type='text'  />
 <a href="https://drive.google.com/drive/folders/1mtVGg6O-oKwRMBY5ZzSWQ4snNJrGiRlN?usp=sharing" onclick="javascript:return validatePass()">Enter password (same as our SSH password) and click this</a>
 <script>
