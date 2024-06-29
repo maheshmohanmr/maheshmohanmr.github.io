@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), where Von Braun is advising A P J Kalam who is facing a difficult time (In Kalam's words: With three deaths in the family in as many successive years, I needed total commitment to my work in order to
+Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), wherein Von Braun is advising A P J Kalam who is facing a difficult time (In Kalam's words: With three deaths in the family in as many successive years, I needed total commitment to my work in order to
 keep performing).
 > You should always remember that we don’t just build on successes, we also build on failures.
 
