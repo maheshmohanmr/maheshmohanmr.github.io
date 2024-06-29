@@ -18,5 +18,5 @@ the rock wall may enclose an apple orchard or mark a boundary. When they finish,
 >  Do not make research your profession, your livelihood — make it your religion, your
 mission.
 
-Von Braun tells one should build rock castles rather than miles of rock wall, even though both needs similar resources and hard work!
+Von Braun indicates one should build rock castles rather than miles of rock wall, even though both needs similar resources and hard work!
 
