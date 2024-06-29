@@ -53,7 +53,7 @@ tr:nth-child(even) {
     <tr>
     <td>Deep Dive into Attentions</td>
     <td>Manish Vaghmashi (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1BlaDSwBe_zTw-Vn9RA5jb44TLyI64Mwo/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1nX6h6acu6AUC-adKKsXqchLgVy7JuUW2/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
 </table>
 
