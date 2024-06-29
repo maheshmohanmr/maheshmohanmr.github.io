@@ -10,7 +10,7 @@ keep performing).
 > You should always remember that we don’t just build on successes, we also build on failures.
 
 > On the topic of the inevitable hard work that goes with research and the degree of commitment
-involved, Von Braun smiled and said with a glint of mischief in his eyes,"Hard work is not enough in rocketry. It is not a sport where mere hard work can fetch you honours. Here, not only do you have to have a goal but you have to have strategies to achieve it as fast as possible."
+involved, Von Braun smiled and said with a glint of mischief in his eyes, "Hard work is not enough in rocketry. It is not a sport where mere hard work can fetch you honours. Here, not only do you have to have a goal but you have to have strategies to achieve it as fast as possible."
 
 >"Total commitment is not just hard work, it is total involvement. Building a rock wall is back-breaking work. There are some people who build rock walls all their lives. And when they die, there are miles of walls, mute testimonials to how hard those people had worked.” He continued, "But there are other men who while placing one rock on top of another have a vision in their minds, a goal. It may be a terrace with roses climbing over the rock walls and chairs set out for lazy summer days. Or
 the rock wall may enclose an apple orchard or mark a boundary. When they finish, they have more than a wall. It is the goal that makes the difference. 
