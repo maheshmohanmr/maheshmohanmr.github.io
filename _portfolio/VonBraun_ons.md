@@ -1,44 +1,22 @@
 ---
-title: "John Bardeen - Two-time Nobel Laureate (23 May 1908 – 30 Jan  1991)"
-excerpt: "Always right there in the trenches until death do us part!  <br/><img src='/images/vbrown_ons.jpg' width='800'>"
+title: "Von Brown - Rocket Scientist (23 Mar 1912 – 16 Jun  1977)"
+excerpt: "Build a Castle rather than miles of wall!  <br/><img src='/images/vbrown_ons.jpg' width='800'>"
 collection: portfolio
 ---
 
 
-Excerpts from the [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits and his art of doing research. 
+Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), where Von Brown is advising A P J Kalam who is facing a difficult time (In Kalam's words: SLV-3 was still in the future; with three deaths in the family in as many successive years, I needed total commitment to my work in order to
+keep performing).
+> You should always remember that we don’t just build on successes, we also build on failures.
 
+> On the topic of the inevitable hard work that goes with research and the degree of commitment
+involved, Von Braun smiled and said with a glint of mischief in his eyes,"Hard work is not enough in rocketry. It is not a sport where mere hard work can fetch you honours. Here, not only do you have to have a goal but you have to have strategies to achieve it as fast as possible."
 
-> Bardeen followed the Bell Labs tradition of forming study groups to learn about what had been accomplished. With new things to study and new concepts to help understanding, it was (still is) a very exciting time to be involved in research.  The close collaboration between experimentalists and theorists extended through all stages of the research, from the conception of the experiment to the analysis of the results. Most papers were authored jointly by an experimentalist and a theorist. John was also a truly generous man. He never hesitated to give others credit for their contributions to science.
+>"Total commitment is not just hard work, it is total involvement. Building a rock wall is back-breaking work. There are some people who build rock walls all their lives. And when they die, there are miles of walls, mute testimonials to how hard those people had worked.” He continued, "But there are other men who while placing one rock on top of another have a vision in their minds, a goal. It may be a terrace with roses climbing over the rock walls and chairs set out for lazy summer days. Or
+the rock wall may enclose an apple orchard or mark a boundary. When they finish, they have more than a wall. It is the goal that makes the difference. 
 
-> In addition to advising industry and government, Bardeen was generous with his time in giving talks to a remarkably broad spectrum of audiences eager to hear his views; these audiences ran the gamut from elementary-school children to meetings of medical societies. But throughout the two decades following BCS his central interest remained in physics, beginning with an authoritative review of BCS and its applications (written
-with Bob Schrieffer in 1961), and including his study of the application of BCS theory to a number of superconducting phenomena.
+>  Do not make research your profession, your livelihood — make it your religion, your
+mission.
 
-
-> In working on these and other problems with students, postdocs, or colleagues, John did not take an Olympian stance. He was right there in the trenches, carrying out detailed calculations, checking factors, and being intimately involved in writing up the results for publication. Instead of basking in the glory brought his way by a continuing output of remarkable and seminal contributions, he preferred always to work on the next scientific challenge.
-
-> There was almost no area in his broad specialization — from basic ones to more complex ones — about which he had not thought deeply, and because of his willingness to take on new challenges he was much sought after for advice and counsel when a new puzzle turned up in a paper or in the laboratory.
-He especially admired the long-term view that leading Japanese corporations had adopted, as evidenced by their willingness to make substantive commitments to projects that might not pay off for a decade.
-
-> After retirement, however, when John was in Urbana, his routine was essentially unchanged from his pre-retirement days. He would
-come to the office early and leave late. His office door was always open, to signal his availability for a scientific discussion. His interest in research never flagged. John wrote about at his age 82, what turned out to be his last scientific article, a “popular” account of superconductivity and other macroscopic quantum phenomena, which appeared in the December 1990 issue of Physics Today just a month before his death.
-
-> Bardeen’s scientific legacy is extraordinary for its breadth and depth. But in the long term its most important part may be his persona and scientific style, which so greatly influenced his students, postdocs, and colleagues and which can serve as beacons to future generations of scientists.
-
-> <h2>Ninefold way of John Bardeen's Art of Research</h2>
-<ol>
-  <li>Focus first on the experimental results through reading and personal contact.</li>
-  <li>Develop a phenomenological description that ties different experimental results together.</li>
-  <li>Explore alternative physical pictures and mathematical descriptions without
-becoming wedded to any particular one.</li>
-  <li>Macroscopic arguments have precedence over microscopic calculations.</li>
-  <li>Focus on physical understanding, not mathematical elegance, and use the simplest
-possible mathematical description of system behavior.</li>
-  <li>Keep up with new theoretical techniques—for one of them may prove useful.</li>
-  <li>Decide on a specific model as the penultimate, not the first, step toward a solution.</li>
-  <li>Choose the right collaborators.</li>
-  <li>DON’T GIVE UP: Stay with the problem until it is solved.</li>
-</ol>   
-
-
-John Bardeen showed us how to live a fruitful research life, always right there in the trenches until death do us part!
+Von Braun tells one should build castles rather than miles of brick wall, even though both takes similar hard work!
 
