@@ -212,9 +212,7 @@ details {
   </p>
 </details>
 <h2>SPAI Group's Internal Resources</h2>
-<i>We all take different paths in life, but no matter where we go, we take a little of each other everywhere.</i>
-― Tim McGraw 
-  <br>
+Accessible to SPAI Group (present members and Alumni).
  <input id='password' type='text'  />
 <a href="https://drive.google.com/drive/folders/1mtVGg6O-oKwRMBY5ZzSWQ4snNJrGiRlN?usp=sharing" onclick="javascript:return validatePass()">Enter password (same as our SSH password) and click this</a>
 <script>
