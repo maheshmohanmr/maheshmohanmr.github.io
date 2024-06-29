@@ -556,7 +556,7 @@ in last names</a></b>.
 convenient dissemination of scholarly work. They can be downloaded for 
 non-commercial research and education purposes only. Copyrights of the 
 papers usually belong to the publishers of the journals or proceedings and 
-must be adhered to by anyone using these materials. For other materials, feel free to use it at your convenience for good deeds! <a href="../files/SPAI_Manual_ons.pdf">&#8482;</a> <br>
+must be adhered to by anyone using these materials. For other materials, feel free to use it at your convenience for good deeds! <a href="https://drive.google.com/file/d/1RbDR2Yx-xbMHjfdqx4ujCaB6vBWtsv0X/view?usp=sharing">&#8482;</a> <br>
                 <!--   Enter password: <input id='password' type='text'  />
 <a href="../files/SPAI_Manual_ons.pdf" onclick="javascript:return validatePass()">enter your password and click this</a>
 <script>
