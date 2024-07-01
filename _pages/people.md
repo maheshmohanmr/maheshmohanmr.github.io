@@ -159,6 +159,9 @@ details {
                     <li> 
              Manish Vaghmashi (IIT Kharagpur,  Joined - June 2024)
              </li>
+                    <li> 
+                   Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
+                      </li>
               </ol>
               <heading>Vacancies</heading>
               <p>
