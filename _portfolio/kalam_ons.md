@@ -21,8 +21,7 @@ enjoyment of working together.
 Many even called us a group of eccentric inventors in
 pursuit of an impossible dream. I, being the leader of the
 “navvies”, was a particularly inviting target. I was regarded
-as yet another country bumpkin who believed that riding the
-air was his domain. The weight of opinion against us
+as yet another country bumpkin. The weight of opinion against us
 buttressed my ever-optimistic mind. The comments of
 some of the senior scientists  made me recall John
 Trowbridge’s famous satirical poem on the Wright
