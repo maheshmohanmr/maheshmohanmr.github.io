@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
+Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P J Abdul kalam. 
 > “Big scientific projects are like mountains, which
 should be climbed with as little effort as possible and
 without urgency. The reality of your own nature should
