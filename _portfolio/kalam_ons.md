@@ -18,7 +18,8 @@ unique event in itself, then you are doing it well,”
 > I visualized my team as a group in which each member
 worked to enrich the others in the team and experience the
 enjoyment of working together.
-Many even called us a group of eccentric inventors in
+
+> Many even called us a group of eccentric inventors in
 pursuit of an impossible dream. I, being the leader of the
 “navvies”, was a particularly inviting target. I was regarded
 as yet another country bumpkin. The weight of opinion against us
