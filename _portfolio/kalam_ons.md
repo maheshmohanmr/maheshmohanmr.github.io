@@ -1,11 +1,11 @@
 ---
 title: "A P J Abdul Kalam - Rocket Man of India (15 Oct 1931 – 27 Jul  2015)"
-excerpt: "If you want to shine like a sun, first burn like a sun!  <br/><img src='/images/kalam_waytonp_ons.PNG' width='800'>"
+excerpt: "If you want to shine like a sun, first burn like a sun!  <br/><img src='/images/kalam_waytonp_ons.jpg' width='800'>"
 collection: portfolio
 ---
 
 
-Excerpts from the [Biographical memories of John Bardeen](https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf), which indicates Bardeen's beautiful  traits and his art of doing research. 
+Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
 
 
 > Bardeen followed the Bell Labs tradition of forming study groups to learn about what had been accomplished. With new things to study and new concepts to help understanding, it was (still is) a very exciting time to be involved in research.  The close collaboration between experimentalists and theorists extended through all stages of the research, from the conception of the experiment to the analysis of the results. Most papers were authored jointly by an experimentalist and a theorist. John was also a truly generous man. He never hesitated to give others credit for their contributions to science.
