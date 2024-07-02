@@ -86,21 +86,6 @@ ageless promise as surely as you can rely upon the
 eternally unbroken promise of sunrise... and of Spring
 
 
-> By that evening, the news of India taking
-up the indigenous development of a device to help short run
-take-offs by high performance military aircraft, with myself
-heading the project, was made public. I was filled with many
-emotions— happiness, gratitude, a sense of fulfilment and
-these lines from a littleknown poet of the nineteenth-century
-crossed my mind:
-<br>
-For all your days prepare
-<br>
-And meet them ever alike
-<br>
-When you are the anvil, bear –
-<br>
-When you are the hammer, strike.
 
 > To succeed in your mission, you must have single-minded devotion to your goal. Total commitment is a crucial quality for those who want
 to reach the very top of their profession. The desire to work
@@ -144,5 +129,22 @@ failures must von Braun have gone through before his
 Saturn launch vehicle put man on the moon? These
 thoughts helped to give me the ability to withstand
 apparently irreversible setbacks.
+>
+> > By that evening, the news of India taking
+up the indigenous development of a device to help short run
+take-offs by high performance military aircraft, with myself
+heading the project, was made public. I was filled with many
+emotions— happiness, gratitude, a sense of fulfilment and
+these lines from a littleknown poet of the nineteenth-century
+crossed my mind:
+<br>
+For all your days prepare
+<br>
+And meet them ever alike
+<br>
+When you are the anvil, bear –
+<br>
+When you are the hammer, strike.
+
 
 In his words: If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved!
