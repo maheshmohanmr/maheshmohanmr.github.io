@@ -39,8 +39,7 @@ buttressed my ever-optimistic mind. The comments of
 some of the senior scientists  made me recall John
 Trowbridge’s famous satirical poem on the Wright
 Brothers, published in 1896:
->>
-. . . . with thimble and thread
+>> . . . . with thimble and thread
 <br> 
 And wax and hammer, and buckles and screws,
 <br> 
