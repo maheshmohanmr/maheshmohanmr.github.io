@@ -6,7 +6,11 @@ collection: portfolio
 
 
 Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
->>Many even called us a group of eccentric inventors in
+> I visualized my team as a group in which each member
+worked to enrich the others in the team and experience the
+enjoyment of working together.
+
+>Many even called us a group of eccentric inventors in
 pursuit of an impossible dream. I, being the leader of the
 “navvies”, was a particularly inviting target. I was regarded
 as yet another country bumpkin who believed that riding the
@@ -25,7 +29,7 @@ And all such things as geniuses use; —
 Two bats for patterns, curious fellows!
 <br> 
 A charcoal-pot and a pair of bellows.
-<br>
+
 
 
 >There is always the danger that a person with my kind of
@@ -61,25 +65,21 @@ certainly be manifested. You can rely, young man, upon this
 ageless promise as surely as you can rely upon the
 eternally unbroken promise of sunrise... and of Spring
 
->Many even called us a group of eccentric inventors in
-pursuit of an impossible dream. I, being the leader of the
-“navvies”, was a particularly inviting target. I was regarded
-as yet another country bumpkin who believed that riding the
-air was his domain. The weight of opinion against us
-buttressed my ever-optimistic mind. The comments of
-some of the senior scientists  made me recall John
-Trowbridge’s famous satirical poem on the Wright
-Brothers, published in 1896:
-<br> 
-. . . . with thimble and thread
-<br> 
-And wax and hammer, and buckles and screws,
-<br> 
-And all such things as geniuses use; —
-<br> 
-Two bats for patterns, curious fellows!
-<br> 
-A charcoal-pot and a pair of bellows.
+> By that evening, the news of India taking
+up the indigenous development of a device to help short run
+take-offs by high performance military aircraft, with myself
+heading the project, was made public. I was filled with many
+emotions— happiness, gratitude, a sense of fulfilment and
+these lines from a littleknown poet of the nineteenth-century
+crossed my mind:
+<br>
+For all your days prepare
+<br>
+And meet them ever alike
+<br>
+When you are the anvil, bear –
+<br>
+When you are the hammer, strike.
 
 > We completed the project ahead of schedule. We had a
 working prototype with us.
