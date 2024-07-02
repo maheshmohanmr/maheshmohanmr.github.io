@@ -7,8 +7,39 @@ collection: portfolio
 
 Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
 
+>There is always the danger that a person with my kind of
+background— rural or small-town, middle-class, whose
+parents had limited education— will retreat into a corner
+and remain there struggling for bare existence, unless
+some great turn of circumstance propels him into a more
+favourable environment. I knew I had to create my own
+opportunities.
 
-> Bardeen followed the Bell Labs tradition of forming study groups to learn about what had been accomplished. With new things to study and new concepts to help understanding, it was (still is) a very exciting time to be involved in research.  The close collaboration between experimentalists and theorists extended through all stages of the research, from the conception of the experiment to the analysis of the results. Most papers were authored jointly by an experimentalist and a theorist. John was also a truly generous man. He never hesitated to give others credit for their contributions to science.
+> Desire, when it stems from the heart and spirit, when it
+is pure and intense, possesses awesome electromagnetic
+energy. This energy is released into the ether each night,
+as the mind falls into the sleep state. Each morning it
+returns to the conscious state reinforced with the cosmic
+currents. That which has been imaged will surely and
+certainly be manifested. You can rely, young man, upon this
+ageless promise as surely as you can rely upon the
+eternally unbroken promise of sunrise... and of Spring
+
+>Many even called us a group of eccentric inventors in
+pursuit of an impossible dream. I, being the leader of the
+“navvies”, was a particularly inviting target. I was regarded
+as yet another country bumpkin who believed that riding the
+air was his domain. The weight of opinion against us
+buttressed my ever-optimistic mind. The comments of
+some of the senior scientists at ADE made me recall John
+Trowbridge’s famous satirical poem on the Wright
+Brothers, published in 1896:
+. . . . with thimble and thread
+And wax and hammer, and buckles and screws,
+And all such things as geniuses use; —
+Two bats for patterns, curious fellows!
+A charcoal-pot and a pair of bellows.
+
 
 > In addition to advising industry and government, Bardeen was generous with his time in giving talks to a remarkably broad spectrum of audiences eager to hear his views; these audiences ran the gamut from elementary-school children to meetings of medical societies. But throughout the two decades following BCS his central interest remained in physics, beginning with an authoritative review of BCS and its applications (written
 with Bob Schrieffer in 1961), and including his study of the application of BCS theory to a number of superconducting phenomena.
