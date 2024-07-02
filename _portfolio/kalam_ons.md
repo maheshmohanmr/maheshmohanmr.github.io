@@ -6,6 +6,26 @@ collection: portfolio
 
 
 Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
+>>Many even called us a group of eccentric inventors in
+pursuit of an impossible dream. I, being the leader of the
+“navvies”, was a particularly inviting target. I was regarded
+as yet another country bumpkin who believed that riding the
+air was his domain. The weight of opinion against us
+buttressed my ever-optimistic mind. The comments of
+some of the senior scientists  made me recall John
+Trowbridge’s famous satirical poem on the Wright
+Brothers, published in 1896:
+<br> 
+. . . . with thimble and thread
+<br> 
+And wax and hammer, and buckles and screws,
+<br> 
+And all such things as geniuses use; —
+<br> 
+Two bats for patterns, curious fellows!
+<br> 
+A charcoal-pot and a pair of bellows.
+
 
 >There is always the danger that a person with my kind of
 background— rural or small-town, middle-class, whose
@@ -14,6 +34,21 @@ and remain there struggling for bare existence, unless
 some great turn of circumstance propels him into a more
 favourable environment. I knew I had to create my own
 opportunities.
+
+> I often read Khalil Gibran, and always find his words full
+of wisdom. “Bread baked without love is a bitter bread that
+feeds but half a man’s hunger,”—those who cannot work
+with their hearts achieve but a hollow, half-hearted success
+that breeds bitterness all around. If you are a writer who
+would secretly prefer to be a lawyer or a doctor, your written
+words will feed but half the hunger of your readers; if you
+are a teacher who would rather be a businessman, your
+instructions will meet but half the need for knowledge of
+your students; if you are a scientist who hates science, your
+performance will satisfy but half the needs of your mission.
+The personal unhappiness and failure to achieve results
+that comes from being a round peg in a square hole is not,
+by any means, new.
 
 > Desire, when it stems from the heart and spirit, when it
 is pure and intense, possesses awesome electromagnetic
