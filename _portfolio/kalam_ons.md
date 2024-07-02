@@ -6,11 +6,19 @@ collection: portfolio
 
 
 Excerpts from the [Wings of Fire](https://ati.dae.gov.in/ati12052021_8.pdf), the autobiography of A P Abdul kalam. 
+> “Big scientific projects are like mountains, which
+should be climbed with as little effort as possible and
+without urgency. The reality of your own nature should
+determine your speed. If you become restless, speed up. If
+you become tense and highstrung, slow down. You should
+climb the mountain in a state of equilibrium. When each
+task of your project is not just a means to an end but a
+unique event in itself, then you are doing it well,” 
+
 > I visualized my team as a group in which each member
 worked to enrich the others in the team and experience the
 enjoyment of working together.
-
->Many even called us a group of eccentric inventors in
+Many even called us a group of eccentric inventors in
 pursuit of an impossible dream. I, being the leader of the
 “navvies”, was a particularly inviting target. I was regarded
 as yet another country bumpkin who believed that riding the
@@ -65,6 +73,7 @@ certainly be manifested. You can rely, young man, upon this
 ageless promise as surely as you can rely upon the
 eternally unbroken promise of sunrise... and of Spring
 
+
 > By that evening, the news of India taking
 up the indigenous development of a device to help short run
 take-offs by high performance military aircraft, with myself
@@ -81,9 +90,48 @@ When you are the anvil, bear –
 <br>
 When you are the hammer, strike.
 
+> To succeed in your mission, you must have single-minded devotion to your goal. Total commitment is a crucial quality for those who want
+to reach the very top of their profession. The desire to work
+at optimum capacity leaves hardly any room for anything
+else.  he
+difference between an energetic and a confused person is
+the difference in the way their minds handle their
+experiences. Man needs his difficulties because they are
+necessary to enjoy success. All of us carry some sort of a
+super-intelligence within us. Let it be stimulated to enable
+us to examine our deepest thoughts, desires, and beliefs.
+
+> Once you have done this—charged yourself, as it were,
+with your commitment to your work—you also need good
+health and boundless energy. Climbing to the top demands
+strength, whether to the top of Mount Everest or to the top of
+your career. People are born with different energy reserves
+and the one who tires first and burns out easily will do well
+to reorganize his or her life at the earliest.
 > We completed the project ahead of schedule. We had a
 working prototype with us.
 
+> The pursuit of science is a combination of great elation
+and great despair. I went over many such episodes in my
+mind. Johannes Kepler, whose three orbital laws form the
+basis of space research, took nearly 17 years after
+formulating the two laws about planetary motion around the
+sun, to enunciate his third law which gives the relation
+between the size of the elliptical orbit and the length of time
+it takes for the planet to go around the sun. How many
+failures and frustrations must he have gone through? The
+idea that man could land on the moon, developed by the
+Russian mathematician Konstantin Tsiolkovsky, was
+realised after nearly four decades—and by the United
+States, at that. Prof. Chandrasekhar had to wait nearly 50
+years before receiving the Nobel Prize for his discovery of the ‘Chandrasekhar Limit’, a discovery made while he was
+a graduate student at Cambridge in the 1930s. If his work
+had been recognized then, it could have led to the
+discovery of the Black Hole decades earlier. How many
+failures must von Braun have gone through before his
+Saturn launch vehicle put man on the moon? These
+thoughts helped to give me the ability to withstand
+apparently irreversible setbacks.
 
 > In working on these and other problems with students, postdocs, or colleagues, John did not take an Olympian stance. He was right there in the trenches, carrying out detailed calculations, checking factors, and being intimately involved in writing up the results for publication. Instead of basking in the glory brought his way by a continuing output of remarkable and seminal contributions, he preferred always to work on the next scientific challenge.
 
