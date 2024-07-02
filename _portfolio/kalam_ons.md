@@ -135,8 +135,7 @@ heading the project, was made public. I was filled with many
 emotions— happiness, gratitude, a sense of fulfilment and
 these lines from a littleknown poet of the nineteenth-century
 crossed my mind:
-<br>
-For all your days prepare
+>> For all your days prepare
 <br>
 And meet them ever alike
 <br>
