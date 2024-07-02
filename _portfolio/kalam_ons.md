@@ -105,8 +105,7 @@ strength, whether to the top of Mount Everest or to the top of
 your career. People are born with different energy reserves
 and the one who tires first and burns out easily will do well
 to reorganize his or her life at the earliest.
-> We completed the project ahead of schedule. We had a
-working prototype with us.
+
 
 > The pursuit of science is a combination of great elation
 and great despair. I went over many such episodes in my
