@@ -39,7 +39,7 @@ buttressed my ever-optimistic mind. The comments of
 some of the senior scientists  made me recall John
 Trowbridge’s famous satirical poem on the Wright
 Brothers, published in 1896:
->> . . . . with thimble and thread
+<br> . . . . with thimble and thread
 <br> 
 And wax and hammer, and buckles and screws,
 <br> 
@@ -135,7 +135,7 @@ heading the project, was made public. I was filled with many
 emotions— happiness, gratitude, a sense of fulfilment and
 these lines from a littleknown poet of the nineteenth-century
 crossed my mind:
->> For all your days prepare
+<br> For all your days prepare
 <br>
 And meet them ever alike
 <br>
