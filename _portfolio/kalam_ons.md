@@ -1,6 +1,6 @@
 ---
 title: "A P J Abdul Kalam - Rocket Man of India (15 Oct 1931 – 27 Jul  2015)"
-excerpt: "If you want to shine like a sun, first burn like a sun!  <br/><img src='/images/kalam_waytonp_ons.jpg' width='800'>"
+excerpt: "If you want to shine like a sun, first burn like a sun!  <br/><img src='/images/kalam_waytonp_ons.png' width='800'>"
 collection: portfolio
 ---
 
