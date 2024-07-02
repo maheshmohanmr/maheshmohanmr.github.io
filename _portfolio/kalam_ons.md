@@ -45,9 +45,8 @@ Two bats for patterns, curious fellows!
 <br> 
 A charcoal-pot and a pair of bellows.
 
-
-> In addition to advising industry and government, Bardeen was generous with his time in giving talks to a remarkably broad spectrum of audiences eager to hear his views; these audiences ran the gamut from elementary-school children to meetings of medical societies. But throughout the two decades following BCS his central interest remained in physics, beginning with an authoritative review of BCS and its applications (written
-with Bob Schrieffer in 1961), and including his study of the application of BCS theory to a number of superconducting phenomena.
+> We completed the project ahead of schedule. We had a
+working prototype with us.
 
 
 > In working on these and other problems with students, postdocs, or colleagues, John did not take an Olympian stance. He was right there in the trenches, carrying out detailed calculations, checking factors, and being intimately involved in writing up the results for publication. Instead of basking in the glory brought his way by a continuing output of remarkable and seminal contributions, he preferred always to work on the next scientific challenge.
