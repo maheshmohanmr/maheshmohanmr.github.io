@@ -39,7 +39,7 @@ buttressed my ever-optimistic mind. The comments of
 some of the senior scientists  made me recall John
 Trowbridge’s famous satirical poem on the Wright
 Brothers, published in 1896:
-<br> 
+>>
 . . . . with thimble and thread
 <br> 
 And wax and hammer, and buckles and screws,
@@ -129,8 +129,8 @@ failures must von Braun have gone through before his
 Saturn launch vehicle put man on the moon? These
 thoughts helped to give me the ability to withstand
 apparently irreversible setbacks.
->
-> > By that evening, the news of India taking
+
+ > By that evening, the news of India taking
 up the indigenous development of a device to help short run
 take-offs by high performance military aircraft, with myself
 heading the project, was made public. I was filled with many
