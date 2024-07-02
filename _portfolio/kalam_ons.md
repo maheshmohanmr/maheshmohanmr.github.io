@@ -13,7 +13,19 @@ determine your speed. If you become restless, speed up. If
 you become tense and highstrung, slow down. You should
 climb the mountain in a state of equilibrium. When each
 task of your project is not just a means to an end but a
-unique event in itself, then you are doing it well,” 
+unique event in itself, then you are doing it well,”
+
+> To live only for some unknown future is superficial. It is
+like climbing a mountain to reach the peak without
+experiencing its sides. The sides of the mountain sustain
+life, not the peak. This is where things grow, experience is
+gained, and technologies are mastered. The importance of
+the peak lies only in the fact that it defines the sides. So I
+went on towards the top, but always experiencing the sides.
+I had a long way to go but I was in no hurry. I went in little
+steps—just one step after another—but each step towards
+the top.
+
 
 > I visualized my team as a group in which each member
 worked to enrich the others in the team and experience the
