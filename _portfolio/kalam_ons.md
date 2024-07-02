@@ -25,6 +25,7 @@ And all such things as geniuses use; —
 Two bats for patterns, curious fellows!
 <br> 
 A charcoal-pot and a pair of bellows.
+<br>
 
 
 >There is always the danger that a person with my kind of
