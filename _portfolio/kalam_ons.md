@@ -70,9 +70,7 @@ are a teacher who would rather be a businessman, your
 instructions will meet but half the need for knowledge of
 your students; if you are a scientist who hates science, your
 performance will satisfy but half the needs of your mission.
-The personal unhappiness and failure to achieve results
-that comes from being a round peg in a square hole is not,
-by any means, new.
+
 
 > Desire, when it stems from the heart and spirit, when it
 is pure and intense, possesses awesome electromagnetic
