@@ -75,54 +75,39 @@ tr:nth-child(even) {
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
            <!-- Computer and Agriculture 2022 ONS -->
-          <tr onmouseout="CA2022_stop()" onmouseover="CA2022_start()">
-            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+          <tr onmouseout="tip_stop()" onmouseover="tip_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='CA2022_image'><img src='../images/CompAgr22_ipn_ons.PNG'></div>
-                <img src='../images/CompAgr22_ipn_ons.PNG'>
+                <div class="two" id='tip_image'><img src='../images/tip_ons.PNG'></div>
+                <img src='../images/tip_ons.PNG'>
               </div>
               <script type="text/javascript">
-                function CA2022_start() {
-                  document.getElementById('CA2022_image').style.opacity = "1";
+                function tip_start() {
+                  document.getElementById('tip_image').style.opacity = "1";
                 }
-                function CA2022_stop() {
-                  document.getElementById('CA2022_image').style.opacity = "0";
+                function tip_stop() {
+                  document.getElementById('tip_image').style.opacity = "0";
                 }
-                CA2022_stop()
+                tip_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Barriers to Computer Vision Applications in Pig Production Facilities</papertitle>
+                <papertitle>Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras</papertitle>
               </a>
               <br>
-              Jiangong Li, Angela R Green-Miller, Xiaodan Hu, Ana Lucic, <strong>Mahesh Mohan M. R.</strong>, Ryan N Dilger, Isabella CFS Condotta, Brian Aldridge, John                M Hart, Narendra Ahuja 
+              <strong>Mahesh Mohan M. R.</strong>,
+              G K Nithin, and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>Computers and Electronics in Agriculture, 2022</em>
-              <br> <a href="../files/CA22_full_ons.pdf">paper</a> 
+              <em>IEEE Transactions on Image Processing </em>, 2021 
+              <br> <a href="../files/tip_ons.pdf">paper</a> /
+              <a href="../files/tip_ons_bib.pdf">bib</a> 
               <br>
               <p></p>
-              <p>A systematic analysis of computer vision applications specific to commercial pig management. </p>
+              <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
             </td>
-          </tr>  
-           <!-- SPL 2022 ONS -->
-          <tr onmouseout="SPL2022_stop()" onmouseover="SPL2022_start()">
-            <td style="padding:20px;width:38%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
-              <div class="one">
-                <div class="two" id='SPL2022_image'><img src='../images/SPL_2022_op_ons.PNG'></div>
-                <img src='../images/SPL_2022_ip_ons.PNG'>
-              </div>
-              <script type="text/javascript">
-                function SPL2022_start() {
-                  document.getElementById('SPL2022_image').style.opacity = "1";
-                }
-                function SPL2022_stop() {
-                  document.getElementById('SPL2022_image').style.opacity = "0";
-                }
-                SPL2022_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+          </tr>
 
 </body>
 </html>
