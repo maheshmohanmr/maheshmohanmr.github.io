@@ -75,7 +75,7 @@ tr:nth-child(even) {
               <br>
               <em>IEEE Transactions on Image Processing </em>, 2021 
               <br> <a href="../files/tip_ons.pdf">paper</a> /
-              <a href="../files/tip_ons_bib.pdf">bib</a>
+              <a href="../files/tip_ons_bib.txt">bib</a>
                 </li>
               </ol>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
