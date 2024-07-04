@@ -44,7 +44,12 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+<ol>
+                <li>
+                  Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                </li>
 
+              </ol>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
@@ -59,13 +64,6 @@ tr:nth-child(even) {
           </tr>
 
 </tbody></table>
-<ol>
-                <li>
-                  Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
-                </li>
-
-              </ol>
-
 </body>
 </html>
 
