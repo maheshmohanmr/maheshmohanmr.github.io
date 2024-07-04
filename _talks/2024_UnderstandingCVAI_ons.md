@@ -46,7 +46,15 @@ tr:nth-child(even) {
  <strong>Related Publications</strong> 
 <ol>
                 <li>
-                  Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras 
+                   <br>
+              Mahesh Mohan M. R.,
+              G K Nithin, and 
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              <br>
+              <em>IEEE Transactions on Image Processing </em>, 2021 
+              <br> <a href="../files/tip_ons.pdf">paper</a> /
+              <a href="../files/tip_ons_bib.pdf">bib</a>
                 </li>
 
               </ol>
