@@ -57,9 +57,6 @@ tr:nth-child(even) {
               <br> <a href="../files/tip_ons.pdf">paper</a> /
               <a href="../files/tip_ons_bib.pdf">bib</a>
                 </li>
-<li>
-   <p>For example, if I have <code>&lt;p&gt;&lt;div&gt;&lt;/div&gt;&lt;/p&gt;</code>, I want the div to display in the browser as text not have the browser interpret it as html. Is this complicated to do?</p>
-</li>
               </ol>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
