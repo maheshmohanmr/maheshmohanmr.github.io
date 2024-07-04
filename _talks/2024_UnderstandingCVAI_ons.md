@@ -93,6 +93,7 @@ tr:nth-child(even) {
               <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
             </td>
           </tr>
+            </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
