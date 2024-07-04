@@ -8,7 +8,7 @@ date: 2024-05-28
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI  expositions (or resources) focusing on Complex-valued AI in Finance. 
+   This section contains a series of SPAI  expositions (or resources) that focus on Complex-valued AI in Finance. 
 </p>
 <html>
 <head>
