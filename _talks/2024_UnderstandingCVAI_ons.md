@@ -47,12 +47,12 @@ tr:nth-child(even) {
    <tr>
     <td>An Overview of Convolutions and Pooling</td>
     <td>Sayan Ghosh (B-Tech)</td>
-    <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="asdf">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of Loss Functions</td>
     <td>Ashmit A Raj (B-Tech)</td>
-    <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/13_edTDlJVubWR_jjM369wTs8-8TK43H6/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
     <td colspan="3"><b>Optimization</b></td>
