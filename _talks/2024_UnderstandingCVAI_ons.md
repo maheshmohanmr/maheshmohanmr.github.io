@@ -37,7 +37,23 @@ tr:nth-child(even) {
     <th>Speaker</th>
     <th>Resources</th>
   </tr>
-  <tr>
+     <tr>
+    <td colspan="3"><b>Building Blocks of CVAI</b></td>
+  </tr>
+   <tr>
+    <td>An Overview of Convolutions and Pooling</td>
+    <td>Sayan Ghosh (BTP)</td>
+    <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
+    <td>An Overview of Loss Functions</td>
+    <td>Ashmit A Raj (BTP)</td>
+    <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+    <tr>
+    <td colspan="3"><b>On Optimizing CV Neural Networks</b></td>
+  </tr>
+    <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
     <td>Amara Datta Dola (MSc Thesis)</td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
