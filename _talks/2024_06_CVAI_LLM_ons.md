@@ -51,6 +51,11 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1QmEcSY_Vh2rgTsWunZDrK3L21dvWxclZ/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
     <tr>
+    <td>Deep Dive into Transformers</td>
+    <td>Prakhar Verma (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1nX6h6acu6AUC-adKKsXqchLgVy7JuUW2/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>  
+    <tr>
     <td>Deep Dive into Attentions</td>
     <td>Manish Vaghmashi (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1nX6h6acu6AUC-adKKsXqchLgVy7JuUW2/view?usp=sharing">&#91;Slides&#93;</a></td>
