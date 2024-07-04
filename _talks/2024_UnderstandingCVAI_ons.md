@@ -43,7 +43,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
 </table>
-
+ <strong>Related Publications</strong> 
 <ol>
                 <li>
                   Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
