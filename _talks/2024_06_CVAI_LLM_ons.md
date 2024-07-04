@@ -8,7 +8,7 @@ date: 2024-06-25
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI group's expositions (or resources) focusing on Complex-valued AI in LLMs. 
+   This section contains a series of SPAI  expositions (or resources) focusing on Complex-valued AI in LLMs. 
 </p>
 <html>
 <head>
