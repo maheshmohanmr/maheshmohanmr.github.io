@@ -38,7 +38,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
      <tr>
-    <td colspan="3"><b>Building Blocks of CVAI</b></td>
+    <td colspan="3"><b>Building Blocks </b></td>
   </tr>
    <tr>
     <td>An Overview of Convolutions and Pooling</td>
@@ -51,7 +51,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
-    <td colspan="3"><b>On Optimizing CV Neural Networks</b></td>
+    <td colspan="3"><b>Optimization</b></td>
   </tr>
     <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
