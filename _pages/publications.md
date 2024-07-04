@@ -144,7 +144,7 @@ author_profile: true
               <br>
               <em>IEEE Transactions on Image Processing </em>, 2021 
               <br> <a href="../files/tip_ons.pdf">paper</a> /
-              <a href="../files/tip_ons_bib.pdf">bib</a> 
+              <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
               <p></p>
               <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
