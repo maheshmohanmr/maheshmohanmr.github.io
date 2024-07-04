@@ -135,7 +135,7 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Deep Dynamic Scene Dlurring for Unconstrained Dual-lens Cameras</papertitle>
+                <papertitle>Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras</papertitle>
               </a>
               <br>
               <strong>Mahesh Mohan M. R.</strong>,
