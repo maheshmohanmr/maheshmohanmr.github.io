@@ -46,21 +46,7 @@ tr:nth-child(even) {
 </body>
 </html>
 
- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
-                 <p>
-<hr>
-<center>
-<i>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. -- Marie Curie, Nobel Laureate in Chemistry </i>
-
-</center>
-              </p>
-            </td>
-          </tr>
-
-</tbody></table>
-
+ 
 <html>
 <body>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
@@ -108,6 +94,20 @@ tr:nth-child(even) {
               <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
             </td>
           </tr>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
+                 <p>
+<hr>
+<center>
+<i>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. -- Marie Curie, Nobel Laureate in Chemistry </i>
+
+</center>
+              </p>
+            </td>
+          </tr>
+
+</tbody></table>
 
 </body>
 </html>
