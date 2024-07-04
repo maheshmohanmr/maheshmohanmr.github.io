@@ -19,6 +19,10 @@ table {
   width: 100%;
 }
 
+td[colspan]:not([colspan="1"]) {
+    text-align: center;
+}
+
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
