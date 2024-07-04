@@ -42,12 +42,12 @@ tr:nth-child(even) {
   </tr>
    <tr>
     <td>An Overview of Convolutions and Pooling</td>
-    <td>Sayan Ghosh (BTP)</td>
+    <td>Sayan Ghosh (B-Tech Project)</td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of Loss Functions</td>
-    <td>Ashmit A Raj (BTP)</td>
+    <td>Ashmit A Raj (B-Tech project)</td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
@@ -55,7 +55,7 @@ tr:nth-child(even) {
   </tr>
     <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
-    <td>Amara Datta Dola (MSc Thesis)</td>
+    <td>Amara Datta Dola (MSc Project)</td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
 </table>
