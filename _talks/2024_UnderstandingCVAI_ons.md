@@ -42,7 +42,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
      <tr>
-    <td colspan="3"><b>Building Blocks </b></td>
+    <td colspan="3"><b>Building Blocks of Artificial Neural Networks </b></td>
   </tr>
    <tr>
     <td>An Overview of Convolutions and Pooling</td>
@@ -55,7 +55,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/13_edTDlJVubWR_jjM369wTs8-8TK43H6/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
-    <td colspan="3"><b>Optimization</b></td>
+    <td colspan="3"><b>Optimization and Convergence</b></td>
   </tr>
     <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
