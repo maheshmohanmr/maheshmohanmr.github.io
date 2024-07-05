@@ -46,12 +46,12 @@ tr:nth-child(even) {
     <td colspan="3"><b>Introduction to Quantum Computing</b></td>
   </tr>
   <tr>
-    <td>Motivation for Quantum Computing (QC)</td>
+    <td>Motivation for Quantum Computing </td>
     <td>Anushree Ghosh (Intern)</td>
     <td><a href="https://drive.google.com/file/d/14IoscmqrWSAuk0lV3nM7o78uTUvM1_Fv/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
     <tr>
-    <td>Understanding Qubits: The Basic Unit in QC</td>
+    <td>Understanding Qubits: The Basic Unit in Quantum Computing</td>
     <td>Swaralipi Datta (Intern)</td>
     <td><a href="https://drive.google.com/file/d/14AMNa8vNiWmWqxiNe_c4_ZlIEojoTE-h/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
