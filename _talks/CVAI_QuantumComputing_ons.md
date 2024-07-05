@@ -56,7 +56,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/14AMNa8vNiWmWqxiNe_c4_ZlIEojoTE-h/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
    <tr>
-    <td>Quantum Entanglement: Einstein's spooky action at distance</td>
+    <td>Quantum Entanglement: Einstein's Spooky Action at Distance</td>
     <td>Shamik Bhattacharjee (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1nuwEOB8YiFuCn7nUeWFBfzue1i2egHB_/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr> 
