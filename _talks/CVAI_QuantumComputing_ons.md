@@ -55,11 +55,16 @@ tr:nth-child(even) {
     <td>Swaralipi Datta (Intern)</td>
     <td><a href="https://drive.google.com/file/d/14AMNa8vNiWmWqxiNe_c4_ZlIEojoTE-h/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
+   <tr>
+    <td>Quantum Entanglement: Einstein's spooky action at distance</td>
+    <td>Shamik Bhattacharjee (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1nuwEOB8YiFuCn7nUeWFBfzue1i2egHB_/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr> 
     <tr>
-    <td>Deep Dive into Attentions</td>
-    <td>Manish Vaghmashi (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1nX6h6acu6AUC-adKKsXqchLgVy7JuUW2/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>  
+    <td>Introduction to Quantum Gates and Circuits </td>
+    <td>Bibhabasu Debnath (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1ONX8qjGDEp6G5lnO9xCbDMNFRw0goQl8/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>      
 </table>
 
 </body>
