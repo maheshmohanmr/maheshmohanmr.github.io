@@ -43,7 +43,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
    <tr>
-    <td colspan="3"><b>Introduction to Large Language Models</b></td>
+    <td colspan="3"><b>Introduction to Quantum Computing</b></td>
   </tr>
   <tr>
     <td>Nuts and Bolts of LLMs</td>
