@@ -76,7 +76,7 @@ tr:nth-child(even) {
                  <p>
 <hr>
 <center>
-<i>The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just. -- Abraham Lincoln </i>
+<i>Everything we call real is made of things that cannot be regarded as real. -- Niels Bohr </i>
 
 </center>
               </p>
