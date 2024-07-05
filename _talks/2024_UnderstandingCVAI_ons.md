@@ -8,7 +8,7 @@ date: 2024-06-05
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI  expositions (or resources) that focus on Understanding Complex-valued AI. 
+   This section contains a series of SPAI group's expositions (or resources) that focus on Understanding Complex-valued AI. 
 </p>
 <html>
 <head>
