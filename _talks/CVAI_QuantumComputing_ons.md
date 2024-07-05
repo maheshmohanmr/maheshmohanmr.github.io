@@ -8,7 +8,7 @@ date: 2024-07-05
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI in Qunatum Computing. 
+   This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI in Quantum Computing. 
 </p>
 <html>
 <head>
