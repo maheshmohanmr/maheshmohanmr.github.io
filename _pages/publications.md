@@ -45,7 +45,7 @@ author_profile: true
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
               <heading>Representative Publications</heading> <br>
-              (Pl find the complete list of articles on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en">this Google Scholar profile</a>. For codes, please send us a mail.)
+              (Pl find the complete list of articles on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en">this Google Scholar profile</a>. Please send us a mail for related queries.)
                 </td>
           </tr> 
 </tbody> 
