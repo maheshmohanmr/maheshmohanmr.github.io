@@ -142,9 +142,6 @@ details {
              Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
                   </li>
                    <li> 
-            Adithyan Cp (Bharatidasan University,  Joined - May 2024)
-             </li>
-                   <li> 
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
              </li> 
                    <li> 
@@ -209,7 +206,8 @@ details {
   </summary>
   <p>
      <ol>
-             <li> --
+              <li> 
+            Adithyan Cp (Bharatidasan University,  May-Jun 2024)
              </li>
      </ol>
   </p>
