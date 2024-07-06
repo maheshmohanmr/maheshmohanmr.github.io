@@ -65,8 +65,9 @@ tr:nth-child(even) {
 </table>
    <br>
  <strong>Related Publications</strong> 
+   <small>
 <ol>
-                <li>
+                <li> 
                   Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras 
                    <br>
               Mahesh Mohan M. R.,
@@ -78,6 +79,7 @@ tr:nth-child(even) {
               <a href="../files/tip_ons_bib.txt">bib</a>
                 </li>
               </ol>
+   </small>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:8px;width:100%;vertical-align:middle;border:0px">
