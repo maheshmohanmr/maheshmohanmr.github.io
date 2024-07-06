@@ -145,7 +145,7 @@ details {
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
              </li> 
                    <li> 
-            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024)
+            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) --- (Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>)
              </li>
                     <li> 
              Pranit Chaudhary (IIT Kharagpur,  Joined - May 2024)
