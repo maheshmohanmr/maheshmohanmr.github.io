@@ -72,7 +72,7 @@ tr:nth-child(even) {
                   Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras; 
               Mahesh Mohan M. R.,
               G K Nithin, and 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>;
+              A. N. Rajagopalan;
               <em>IEEE Transactions on Image Processing</em>, 2021 
                    <span style="float:right;">
         <a href="../files/tip_ons.pdf">paper</a> /
