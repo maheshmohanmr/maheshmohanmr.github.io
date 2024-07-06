@@ -72,7 +72,7 @@ tr:nth-child(even) {
               Mahesh Mohan M. R.,
               G K Nithin, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>;
-              <em>IEEE Transactions on Image Processing </em>, 2021 
+              <em>IEEE Transactions on Image Processing</em>, 2021 
                    <span style="float:right;">
         <a href="../files/tip_ons.pdf">paper</a> /
               <a href="../files/tip_ons_bib.txt">bib</a>
