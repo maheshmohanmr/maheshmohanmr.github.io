@@ -161,8 +161,7 @@ details {
                       </li>
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024)
-                      </li>
-                   
+                      </li>    
               </ol>
               <heading>Vacancies</heading>
               <p>
@@ -213,7 +212,7 @@ details {
               <li> 
             Adithyan Cp (Bharatidasan University,  May-Jun 2024)
              </li>
-     </ol>
+        </ol>
   </p>
 </details>
 <h2>SPAI Group's Internal Resources</h2>
