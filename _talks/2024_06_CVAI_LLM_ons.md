@@ -39,7 +39,7 @@ tr:nth-child(even) {
 <table>
   <tr>
     <th>Title</th>
-    <th>Speaker</th>
+    <th>Author(s)</th>
     <th>Resources</th>
   </tr>
    <tr>
