@@ -160,7 +160,8 @@ details {
                    Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
                       </li>
                      <li> 
-                   Tushti Thakur (Jadavpur University,  Joined - July 2024)
+                   Tushti Thakur (Jadavpur University,  Joined - July 2024) --- (Jointly advising with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar
+</a>)
                       </li>    
               </ol>
               <heading>Vacancies</heading>
