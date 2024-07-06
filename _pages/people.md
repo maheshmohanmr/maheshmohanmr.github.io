@@ -145,7 +145,7 @@ details {
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
              </li> 
                    <li> 
-            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) --- (Co-advising with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>)
+            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) --- (Co-advisor: <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>)
              </li>
                     <li> 
              Pranit Chaudhary (IIT Kharagpur,  Joined - May 2024)
@@ -160,7 +160,7 @@ details {
                    Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
                       </li>
                      <li> 
-                   Tushti Thakur (Jadavpur University,  Joined - July 2024) --- (Co-advising with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar
+                   Tushti Thakur (Jadavpur University,  Joined - July 2024) --- (Co-advisor: <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar
 </a>)
                       </li>    
               </ol>
