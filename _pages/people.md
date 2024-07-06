@@ -159,6 +159,10 @@ details {
                     <li> 
                    Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
                       </li>
+                     <li> 
+                   Tushti Thakur (Jadavpur University,  Joined - July 2024)
+                      </li>
+                   
               </ol>
               <heading>Vacancies</heading>
               <p>
