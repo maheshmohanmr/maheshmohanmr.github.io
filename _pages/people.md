@@ -210,7 +210,7 @@ details {
   <p>
      <ol>
               <li> 
-            Adithyan Cp (Bharatidasan University,  May 2024 - Jun 2024)
+            <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
              </li>
         </ol>
   </p>
