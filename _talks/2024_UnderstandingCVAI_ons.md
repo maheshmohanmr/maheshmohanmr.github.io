@@ -64,8 +64,9 @@ tr:nth-child(even) {
   </tr>
 </table>
    <br>
- <strong>Related Publications</strong> 
+
    <small>
+       <strong>Related Publications</strong> 
 <ol>
                 <li> 
                   Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras; 
