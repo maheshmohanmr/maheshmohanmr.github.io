@@ -66,7 +66,7 @@ tr:nth-child(even) {
    <tr>
     <td>An Overview of Neural Network Layers - Part 2 </td>
     <td>Arjun Singh (B-Tech)</td>
-    <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1ipGujkfXBvvMR-HqPXLVepyTSzkU0x_i/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of  Loss Functions</td>
