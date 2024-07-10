@@ -73,7 +73,6 @@ tr:nth-child(even) {
     <td>Ashmit A Raj (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
- 
     <tr>
     <td colspan="3"><b>Optimization and Convergence</b></td>
   </tr>
