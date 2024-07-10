@@ -42,7 +42,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
      <tr>
-    <td colspan="3"><b>Introduction to Complex-valued AI </b></td>
+    <td colspan="3"><b>Introduction to  AI </b></td>
   </tr>
     <tr>
     <td>Introduction to AI </td>
