@@ -60,6 +60,14 @@ tr:nth-child(even) {
     <td>Manish Vaghmashi (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1nX6h6acu6AUC-adKKsXqchLgVy7JuUW2/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>  
+   <tr>
+    <td colspan="3"><b>Training Large Language Models</b></td>
+  </tr>
+     <tr>
+    <td>Pretraining of LLMs</td>
+    <td>Manish Vaghmashi (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1ZFR57Eyd-g3GAyE8nxqLOCFzJCA02GfH/view?usp=sharing">&#91;Slides&#93;</a> <a href="https://colab.research.google.com/drive/1R66j5O5dacjKSXz6m8AAeVo_U05mr7fs?usp=sharing">&#91;Code&#93;</a></td>
+  </tr>  
 </table>
 
 </body>
