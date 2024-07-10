@@ -8,7 +8,7 @@ date: 2024-07-10
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI in Structural Analysis. 
+  This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI for Sturcutal Analysis, under the joint guidance of  Drs. <a href="https://www.linkedin.com/in/sumithsree/?originalSubdomain=in">Sumith Sreedhar</a> and Mahesh Mohan M R. 
 </p>
 <html>
 <head>
@@ -43,28 +43,13 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
    <tr>
-    <td colspan="3"><b>Introduction to Quantum Computing</b></td>
+    <td colspan="3"><b>Introduction</b></td>
   </tr>
   <tr>
-    <td>Motivation for Quantum Computing </td>
-    <td>Anushree Ghosh (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/14IoscmqrWSAuk0lV3nM7o78uTUvM1_Fv/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>  
-    <tr>
-    <td>Understanding Qubits: The Basic Unit in Quantum Computing</td>
-    <td>Swaralipi Datta (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/14AMNa8vNiWmWqxiNe_c4_ZlIEojoTE-h/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>  
-   <tr>
-    <td>Quantum Entanglement: Einstein's Spooky Action at Distance</td>
-    <td>Shamik Bhattacharjee (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1nuwEOB8YiFuCn7nUeWFBfzue1i2egHB_/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr> 
-    <tr>
-    <td>Introduction to Quantum Gates and Circuits </td>
-    <td>Bibhabasu Debnath (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1ONX8qjGDEp6G5lnO9xCbDMNFRw0goQl8/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>      
+    <td>Application of AI in Mechanical Engineering </td>
+    <td>Tushti Thakur (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1gCr0yXg7xmr-k2x2qc4k1kRL8rDP3rtn/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>        
 </table>
 
 </body>
