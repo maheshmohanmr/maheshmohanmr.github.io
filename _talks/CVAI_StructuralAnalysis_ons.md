@@ -61,7 +61,7 @@ tr:nth-child(even) {
                  <p>
 <hr>
 <center>
-<i>Everything we call real is made of things that cannot be regarded as real. -- Niels Bohr </i>
+<i>You must never be fearful of what you are doing when it is right. -- Marie Curie, Nobel Laureate </i>
 
 </center>
               </p>
