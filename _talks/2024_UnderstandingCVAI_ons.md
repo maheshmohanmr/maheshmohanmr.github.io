@@ -63,7 +63,7 @@ tr:nth-child(even) {
     <td colspan="3"><b>Building Blocks of Complex-valued Neural Networks </b></td>
   </tr>
    <tr>
-    <td>Introduction to Complex-valued Neural Network </td>
+    <td>Introduction to Complex-valued Neural Networks </td>
     <td>Arjun Singh (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
