@@ -45,6 +45,11 @@ tr:nth-child(even) {
     <td colspan="3"><b>Basics of AI </b></td>
   </tr>
    <tr>
+    <td>Introduction to AI </td>
+    <td>Prof. Mahesh Mohan M R (external talk)</td>
+    <td><a href="https://drive.google.com/file/d/1kevGh51HB9SfIdIvf1FI_iLfbFb0NHSY/view?usp=sharing">&#91;Slides&#93;</a></td> <td><a href="https://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharinghttps://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharing">&#91;Certificate&#93;</a></td>
+  </tr>
+   <tr>
     <td>An Overview of Neural Network Layers - Part 1 </td>
     <td>Sayan Ghosh (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1Vv6Og2Y4VU51vY68crSUVlvwb83Z5Z52/view?usp=sharing">&#91;Slides&#93;</a></td>
@@ -63,7 +68,7 @@ tr:nth-child(even) {
     <td colspan="3"><b>Building Blocks of Complex-valued Neural Networks </b></td>
   </tr>
    <tr>
-    <td>Introduction to Complex-valued Neural Networks </td>
+    <td>Introduction to Complex-valued AI </td>
     <td>Arjun Singh (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
