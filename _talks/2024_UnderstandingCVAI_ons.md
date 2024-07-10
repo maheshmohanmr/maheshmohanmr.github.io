@@ -42,7 +42,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
      <tr>
-    <td colspan="3"><b>Building Blocks of Artificial Neural Networks </b></td>
+    <td colspan="3"><b>Building Blocks of Neural Networks </b></td>
   </tr>
    <tr>
     <td>An Overview of Neural Network Layers - Part 1 </td>
