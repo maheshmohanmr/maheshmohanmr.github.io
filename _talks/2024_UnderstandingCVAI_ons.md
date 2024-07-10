@@ -55,7 +55,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td>An Overview of Neural Network Loss Functions</td>
+    <td>An Overview of  Loss Functions</td>
     <td>Ashmit A Raj (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
