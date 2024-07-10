@@ -59,6 +59,14 @@ tr:nth-child(even) {
     <td>Ashmit A Raj (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
+       <tr>
+    <td colspan="3"><b>Building Blocks of Complex-valued Neural Networks </b></td>
+  </tr>
+   <tr>
+    <td>Introduction to Complex-valued Neural Network </td>
+    <td>Arjun Singh (B-Tech)</td>
+    <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
     <tr>
     <td colspan="3"><b>Optimization and Convergence</b></td>
   </tr>
