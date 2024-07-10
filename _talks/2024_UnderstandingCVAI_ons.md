@@ -45,9 +45,14 @@ tr:nth-child(even) {
     <td colspan="3"><b>Building Blocks of Artificial Neural Networks </b></td>
   </tr>
    <tr>
-    <td>An Overview of Convolutions and Pooling</td>
+    <td>An Overview of Neural Network Layers - Part 1 </td>
     <td>Sayan Ghosh (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1dbzmMAfWo7jRhG47ThsTLvq_s0_X9Ekx/view?usp=sharing">&#91;Slides&#93;</a></td>
+  </tr>
+   <tr>
+    <td>An Overview of Neural Network Layers - Part 2 </td>
+    <td>Arjun Singh (B-Tech)</td>
+    <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of Loss Functions</td>
