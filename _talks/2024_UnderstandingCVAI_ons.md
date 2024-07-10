@@ -47,7 +47,7 @@ tr:nth-child(even) {
    <tr>
     <td>Introduction to AI </td>
     <td>Prof. Mahesh Mohan M R (external talk)</td>
-    <td><a href="https://drive.google.com/file/d/1kevGh51HB9SfIdIvf1FI_iLfbFb0NHSY/view?usp=sharing">&#91;Slides&#93;</a></td> <td><a href="https://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharinghttps://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharing">&#91;Certificate&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1kevGh51HB9SfIdIvf1FI_iLfbFb0NHSY/view?usp=sharing">&#91;Slides&#93;</a></td> <a href="https://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharinghttps://drive.google.com/file/d/1GPjbbDAQqjH-cN5zMt5HKg6DtVpsw3M5/view?usp=sharing">&#91;Certificate&#93;</a>
   </tr>
    <tr>
     <td>An Overview of Neural Network Layers - Part 1 </td>
