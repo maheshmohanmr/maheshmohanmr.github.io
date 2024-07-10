@@ -42,7 +42,7 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
      <tr>
-    <td colspan="3"><b>Basics of AI </b></td>
+    <td colspan="3"><b>Building Blocks  of AI </b></td>
   </tr>
    <tr>
     <td>Introduction to AI </td>
@@ -65,7 +65,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
        <tr>
-    <td colspan="3"><b>Basics of Complex-valued AI </b></td>
+    <td colspan="3"><b>Building Blocks of Complex-valued AI </b></td>
   </tr>
    <tr>
     <td>Introduction to Complex-valued AI </td>
