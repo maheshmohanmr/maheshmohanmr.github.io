@@ -47,7 +47,7 @@ tr:nth-child(even) {
    <tr>
     <td>An Overview of Neural Network Layers - Part 1 </td>
     <td>Sayan Ghosh (B-Tech)</td>
-    <td><a href="https://drive.google.com/file/d/1dbzmMAfWo7jRhG47ThsTLvq_s0_X9Ekx/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1Vv6Og2Y4VU51vY68crSUVlvwb83Z5Z52/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of Neural Network Layers - Part 2 </td>
@@ -55,9 +55,9 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td>An Overview of Loss Functions</td>
+    <td>An Overview of Neural Network Loss Functions</td>
     <td>Ashmit A Raj (B-Tech)</td>
-    <td><a href="https://drive.google.com/file/d/13_edTDlJVubWR_jjM369wTs8-8TK43H6/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
     <td colspan="3"><b>Optimization and Convergence</b></td>
