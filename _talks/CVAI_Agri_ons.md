@@ -55,7 +55,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1hHCU914u1LztFbdZFRyYnZa6igu58-qY/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
-    <td>Regression problems with SAR</td>
+    <td>Applications of SAR using Regression Techniques /td>
     <td>Rahul R (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1pDWo8n6Mx7S_FQbLXcUm_RNaUpwT87sQ/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
