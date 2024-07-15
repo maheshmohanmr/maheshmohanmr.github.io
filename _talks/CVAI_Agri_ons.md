@@ -56,7 +56,7 @@ tr:nth-child(even) {
   </tr>
     <tr>
     <td>Applications of SAR using Regression Techniques </td>
-    <td>Rahul R (Intern)</td>
+    <td>Rahul R (B-Tech)</td>
     <td><a href="https://drive.google.com/file/d/1pDWo8n6Mx7S_FQbLXcUm_RNaUpwT87sQ/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    
