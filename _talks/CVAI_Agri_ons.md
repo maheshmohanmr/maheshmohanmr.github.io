@@ -45,7 +45,7 @@ tr:nth-child(even) {
     <td colspan="3"><b>Introduction</b></td>
   </tr>
   <tr>
-    <td>Understanding Complex-valued Synthetic Aperture Radar (SAR) Imaging</td>
+    <td>Understanding Complex-valued Synthetic Aperture Radar (SAR)</td>
     <td>Keerthi Sankoju (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1wuudTolHgLPrFayPjGs_Zxzu-D61Nso7/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
