@@ -1,15 +1,14 @@
 ---
-title: "Complex-Valued AI in Chemistry" 
+title: "Complex-Valued AI in Agriculture" 
 collection: talks
 type: "SPAI Talks"
-permalink: /talks/2024-05_CVAIChem_ons
+permalink: /talks/2024-05_CVAIAgri_ons
 venue: "CoEAI"
-date: 2024-05-22
+date: 2024-03-22
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-   This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI in Chemistry, under the joint guidance of  Profs.  <a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/">Anjali Devi J S</a> and Mahesh Mohan M R. 
-</p>
+   This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI in Agriculture</p>
 <html>
 <head>
 <style>
@@ -43,36 +42,22 @@ tr:nth-child(even) {
     <th>Resources</th>
   </tr>
    <tr>
-    <td colspan="3"><b>Introduction to AI in Chemistry</b></td>
+    <td colspan="3"><b>Introduction</b></td>
   </tr>
   <tr>
-    <td>Applications of Artificial Intelligence in Chemistry</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
+    <td>Understanding Complex-valued Synthetic Aperture Radar (SAR) Imaging</td>
+    <td>Keerthi Sankoju (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1wuudTolHgLPrFayPjGs_Zxzu-D61Nso7/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td>Introduction to AI in Chemistry</td>
-    <td>Prof. Mahesh Mohan M R (External talk)</td>
-    <td><a href="https://docs.google.com/presentation/d/12ADzCK7ilVUMUSfp5FPr9bn8Dte5rPKf9uGVSEZZSvI/edit?usp=sharing">&#91;Slides&#93;</a>
-     <a href="https://drive.google.com/drive/folders/1YGLtKzn3rYqXOcBymEac3LWsVdoT8t7d?usp=sharing">&#91;Code&#93;</a></td>
+    <td>Feature Extraction in SAR</td>
+    <td>Keerthi Sankoju (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1hHCU914u1LztFbdZFRyYnZa6igu58-qY/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
-    <td>Use of Complex Valued Data or Fourier Transfrom in Chemistry</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>
-   <tr>
-    <td colspan="3"><b>Complex-valued AI for FTIR Spectroscopy</b></td>
-  </tr>
-    <tr>
-    <td>Working of Fourier Transform Infrared (FTIR) Spectroscopy </td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1GL6TabRlMbL-FqGIcV3oDqNUGK5NLPC0/view?usp=sharing">&#91;Slides&#93;</a></td>
-  </tr>
-    <tr>
-    <td>Applications of AI for Qualitative Analysis in FTIR</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
-    <td><a href="https://drive.google.com/file/d/1zk9r3DhxSTO-dBot7Gjddq3JqnBqH5y3/view?usp=sharing">&#91;Slides&#93;</a></td>
+    <td>Regression problems with SAR</td>
+    <td>Rahul R (Intern)</td>
+    <td><a href="https://drive.google.com/file/d/1pDWo8n6Mx7S_FQbLXcUm_RNaUpwT87sQ/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    
 </table>
