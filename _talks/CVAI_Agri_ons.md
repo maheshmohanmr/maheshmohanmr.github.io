@@ -71,7 +71,7 @@ tr:nth-child(even) {
                  <p>
 <hr>
 <center>
-<i>I have no dress except the one I wear every day. If you are going to be kind enough to give me one, please let it be practical and dark so that I can put it on afterwards to go to the laboratory. -- Marie Curie, Nobel Laureate in Chemistry </i>
+<i>There are no small problems. Problems that appear small are large problems that are not understood.  -- Sanitago Ramon Y Cajal, Nobel Laureate </i>
 
 </center>
               </p>
