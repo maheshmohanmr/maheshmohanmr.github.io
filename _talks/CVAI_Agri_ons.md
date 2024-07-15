@@ -50,7 +50,7 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1wuudTolHgLPrFayPjGs_Zxzu-D61Nso7/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
-    <td>Feature Extraction in SAR</td>
+    <td>Feature Extraction Techniques in SAR</td>
     <td>Keerthi Sankoju (Intern)</td>
     <td><a href="https://drive.google.com/file/d/1hHCU914u1LztFbdZFRyYnZa6igu58-qY/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
