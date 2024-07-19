@@ -146,8 +146,7 @@ details {
                   </li>
                    <li> 
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
-             </li> 
-                
+             </li>   
                     <li> 
              Pranit Chaudhary (IIT Kharagpur,  Joined - May 2024)
              </li>
