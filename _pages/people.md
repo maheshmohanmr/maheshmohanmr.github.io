@@ -129,7 +129,10 @@ details {
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
                 </li>
-              </ol>
+                 <li>
+                 Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024)
+                </li>
+                       </ol>
   <h3>Interns</h3>
                  <ol>
                    <li> 
