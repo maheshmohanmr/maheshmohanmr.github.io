@@ -2,7 +2,7 @@
 title: "Foundations of Machine Learning <q>AI60203</q>, 2024 Autumn, IIT Kharagpur"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/2024-MLFA-ons
+permalink: /teaching/2024-FML-ons
 venue: "IIT Kharagpur, Centre of Excellence in AI"
 date: 2024-07-22
 location: "India"
