@@ -129,6 +129,12 @@ details {
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
                 </li>
+                   <li>
+                  Mahim Jain  (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                </li>
+                 <li>
+                 Gourav Pathak  (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
+                </li>
                  <li>
                  Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024)
                 </li>
