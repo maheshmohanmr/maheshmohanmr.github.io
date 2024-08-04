@@ -29,7 +29,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
 
  <strong>News<strong>:
  * &#91; 2024.07 &#93; &nbsp; Congrats Sharath in securing internship at Google!
- * &#91; 2024.07 &#93; &nbsp; Congrats Bhibhasbasu and Rahul in securing internship at Adobe!
+ * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul in securing internship at Adobe!
  * &#91; 2024.07 &#93; &nbsp; Congrats Manish in securing internship at Amazon!
   * &#91; 2024.07 &#93; &nbsp; Manish and Prakhar joined the Technical Team for LLMs in Datathon, [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as a Datathon Chair for [IndoML'2024](https://indoml.in). 
