@@ -221,7 +221,7 @@ details {
   </summary>
   <p>
      <ol>   <li> 
-              <a href="https://in.linkedin.com/in/manish-vaghmashi">Manish Vaghmashi</a> [Secured Internship in Amazon](IIT Kharagpur, June 2024 - July 2024)
+              <a href="https://in.linkedin.com/in/manish-vaghmashi">Manish Vaghmashi</a> &#9971; [Secured Internship in Amazon](IIT Kharagpur, June 2024 - July 2024)
              </li>
               <li> 
             <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
