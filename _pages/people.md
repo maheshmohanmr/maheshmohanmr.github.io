@@ -207,8 +207,8 @@ details {
   </summary>
   <p>
      <ol>
-                 <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971;  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024)
-                [Chanakya Research Fellowship Award 2024; Secured placement as Senior Data Scientist in MakeMyTrip].
+                 <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971; 
+                [Chanakya Research Fellowship Award 2024; Secured placement as Senior Data Scientist in MakeMyTrip]  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024).
              </li>
                 <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> (IIT Kharagpur, Joint B-Tech  M-Tech, Naval Engineering, Jan 2024 - May 2024).
              </li>
