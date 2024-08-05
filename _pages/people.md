@@ -161,10 +161,7 @@ details {
              </li>
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
-             </li>
-                    <li> 
-             Manish Vaghmashi (IIT Kharagpur,  Joined - June 2024)
-             </li>
+                    </li>
                     <li> 
                    Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
                       </li>
@@ -223,7 +220,9 @@ details {
      <b>Interns</b> 
   </summary>
   <p>
-     <ol>
+     <ol>   <li> 
+             Manish Vaghmashi [Secured Internship in Amazon](IIT Kharagpur, June 2024 - July 2024)
+             </li>
               <li> 
             <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
              </li>
