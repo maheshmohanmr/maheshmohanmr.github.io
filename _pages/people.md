@@ -103,10 +103,10 @@ details {
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
-                  Sharath S (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Sharath S &#9971; [Secured Internship in Google] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
-                  Ayan Sinha (IIT Kharagpur, Joint B Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
+                  Ayan Singha (IIT Kharagpur, Joint B Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
                 </li>
                 <li>
                   Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
@@ -124,7 +124,7 @@ details {
             Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
              </li>
                   <li>
-                  Rahul R (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R &#9971; [Secured Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
@@ -151,7 +151,7 @@ details {
             Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
               </li>
                   <li> 
-             Bibhabasu Debnath (IIT Kharagpur, Joined - Feb 2024)
+             Bibhabasu Debnath &#9971; [Secured Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
                   </li>
                    <li> 
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
