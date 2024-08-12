@@ -224,7 +224,7 @@ details {
             <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
              </li>
                <li> 
-             Pranit Chaudhary (IIT Kharagpur,  May 2024 - July 2024)
+           <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
              </li>
         </ol>
   </p>
