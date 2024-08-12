@@ -118,7 +118,7 @@ details {
                   Sayan Ghosh &#9971; [Secured On-site Internship at AWL Inc., Japan] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
                  <li>
-                  Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024)
+                  Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
                 </li>
                     <li> 
             Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
