@@ -156,7 +156,6 @@ details {
                    <li> 
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
              </li>   
-            
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
                     </li>
