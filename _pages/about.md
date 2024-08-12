@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+  * &#91; 2024.07 &#93; &nbsp; Congrats Sayan for securing the competitive on-site internship at AWL Inc., Japan!
  * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing internship at Google!
  * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing internship at Adobe!
  * &#91; 2024.07 &#93; &nbsp; Congrats Manish for securing internship at Amazon!
