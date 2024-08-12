@@ -156,9 +156,7 @@ details {
                    <li> 
             Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
              </li>   
-                    <li> 
-             Pranit Chaudhary (IIT Kharagpur,  Joined - May 2024)
-             </li>
+            
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
                     </li>
@@ -225,6 +223,9 @@ details {
              </li>
               <li> 
             <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
+             </li>
+               <li> 
+             Pranit Chaudhary (IIT Kharagpur,  May 2024 - July 2024)
              </li>
         </ol>
   </p>
