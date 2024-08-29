@@ -94,13 +94,22 @@ details {
 <h2>Current Members</h2>
 <h3>Faculty</h3> 
 <p> <a href="https://maheshmohanmr.github.io">Mahesh Mohan M R</a> received his Ph.D degree from the  Indian Institute of Technology, Madras. Thereafter, he  joined the University of Illinois Urbana-Champaign, US in April 2021 and was a postdoctoral researcher till July 2023. He joined the Centre of Excellence in AI, IIT Kharagpur as an Assistant Professor in August 2023. He heads the Signal Processing and Artificial Intelligence (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Machine Learning. He serves as a reviewer in various top-tier conferences and journals, and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. His teaching subjects at IIT Kharagpur include Machine Learning Foundations and Applications (AI42002) and Deep Learning Foundations and Applications (AI61002).</p>
-  <h3>Ph.D</h3>
+<!--   <h3>Ph.D</h3>
   <ol>
   <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/bio-photo-2.jpg" alt="NH."></a>  Neha Kumari (Joined July 2024)  </li> </p>	
   <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/bio-photo-2.jpg" alt="NH."></a>  Biswamitra Mitra (Joined July 2024)  </li> </p>	
 <!--  <p><li><big><a href="https://www.linkedin.com/in/harsh-rangwani/"> <img width=120 src="./Harsh.jpg" alt="Harsh">  Harsh Rangwani</a> (Joined - Aug. 2019) [PMRF Fellow] <a href="https://scholar.google.co.in/citations?hl=en&user=OQK0WREAAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>	
-<p><li><big><a href="https://badrinaths.github.io/"> <img width=120 src="./BadriNath.jpg" alt="Badri"> Badrinath Singhal</a> (Joined - Aug. 2023) <a href="https://dblp.org/pid/228/3063.html"><img src="DBLP_logo.png" alt="DBLP" style="width:48px;height:24px;"></a></big></li></p>	-->
-</ol>
+<p><li><big><a href="https://badrinaths.github.io/"> <img width=120 src="./BadriNath.jpg" alt="Badri"> Badrinath Singhal</a> (Joined - Aug. 2023) <a href="https://dblp.org/pid/228/3063.html"><img src="DBLP_logo.png" alt="DBLP" style="width:48px;height:24px;"></a></big></li></p>	
+</ol>-->
+<h3>B-Tech and M-Tech/MSc</h3>
+               <ol>
+                <li>
+                  Neha Kumari (Joined - July 2024)
+                </li>
+                 <li>
+                  Biswamitra Mitra (Joined - July 2024)
+                </li>
+                   </ol>
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
