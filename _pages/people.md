@@ -104,10 +104,10 @@ details {
 <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
-                  Neha Kumari (Joined - July 2024)
+                  Neha Kumari (IIT Kharagpur, Joined - July 2024)
                 </li>
                  <li>
-                  Biswamitra Mitra (Joined - July 2024)
+                  Biswamitra Mitra (IIT Kharagpur, Joined - July 2024)
                 </li>
                    </ol>
   <h3>B-Tech and M-Tech/MSc</h3>
