@@ -12,9 +12,9 @@ Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Sna
 Teaching Distribution:  Entire Course. 
 </p>
 <p>
-Logistics: In-person Mode, Weekly 3 hrs lecture +Four sessions of Lab; Credits: 3
+Logistics: In-person Mode, Weekly 3 hrs lecture; Four sessions of Lab; Credits: 3
 </p>
 <p>
-Students: 102 (UG/PG students from all departments, selected based on CGPAs)
+Students: 125 (Core subject for M-Tech in AI + UG/PG students from all departments, selected based on CGPAs)
 </p>
 
