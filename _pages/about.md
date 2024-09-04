@@ -14,7 +14,7 @@ redirect_from:
   <h2>About me</h2>
 </body></html>
 Welcome all! I am an Assistant Professor at the [Department of Artificial Intelligence](https://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. 
- In the CoeAI, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision. 
+ In IIT Kharagpur, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with Deep Learning and Computer Vision. 
 
 
 Previously, I was a  Postdoctoral Researcher  in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and Deep Learning, aimed for Agriculture applications (associated with The Artificial Intelligence for Future Agricultural Resilience, Management, and Sustainability [(AIFARMS)](https://aifarms.illinois.edu/) Institute).
