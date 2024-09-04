@@ -32,7 +32,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing internship at Google!
  * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing internship at Adobe!
  * &#91; 2024.07 &#93; &nbsp; Congrats Manish for securing internship at Amazon!
-  * &#91; 2024.07 &#93; &nbsp; Manish and Prakhar joined the Technical Team for LLMs in Datathon, [IndoML'2024](https://indoml.in). 
+  * &#91; 2024.07 &#93; &nbsp; Prakhar joined the Technical Team for LLMs in Datathon, [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as a Datathon Chair for [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Senior Data Scientist. Best Wishes Amara!
  * &#91; 2024.04 &#93; &nbsp;  Congrats Amara for receiving the prestigious [UG Chanakya Fellowship](https://ai4icps.in/technology-1) award! 
