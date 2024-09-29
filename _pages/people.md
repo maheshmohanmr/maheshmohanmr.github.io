@@ -140,10 +140,10 @@ details {
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024)
                 </li>
                    <li>
-                  Mahim Jain  (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                  Mahim Jain  &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
                 </li>
                  <li>
-                 Gourav Pathak  (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
+                 Gourav Pathak &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
                 </li>
                  <li>
                  Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024)
@@ -170,7 +170,7 @@ details {
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
                     </li>
                     <li> 
-                   Prakhar Verma (IIT Kharagpur,  Joined - June 2024)
+                   Prakhar Verma &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>
                      <li> 
                    Aishwarya Maan Srivastava (IIT Kharagpur,  Joined - June 2024)
