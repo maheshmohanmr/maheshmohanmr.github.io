@@ -28,7 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
-  * &#91; 2024.07 &#93; &nbsp; [IndoML 2024](https://indoml.in/index.php) Travel Grant Awarded to Gourav, Mahim, and Prakhar based on their research. Congrats all!
+  * &#91; 2024.07 &#93; &nbsp; [IndoML 2024](https://indoml.in/index.php) Travel Grant Awarded to Gourav, Mahim, and Prakhar based on their research on LLMs. Congrats all!
   * &#91; 2024.07 &#93; &nbsp; Congrats Sayan for securing the competitive on-site internship at AWL Inc., Japan!
  * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing internship at Google!
  * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing internship at Adobe!
