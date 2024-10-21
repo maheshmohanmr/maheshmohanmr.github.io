@@ -163,9 +163,6 @@ details {
                   <li> 
              Bibhabasu Debnath &#9971; [Secured Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
                   </li>
-                   <li> 
-            Keerthi Sankoju  (IIT Kharagpur,  Joined - May 2024)
-             </li>   
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
                     </li>
@@ -242,6 +239,9 @@ Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="ht
                <li> 
            <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
              </li>
+         <li> 
+            <a href="https://www.linkedin.com/in/sankoju-keerthi-840732231/?trk=public_profile_browsemap&originalSubdomain=in">Keerthi Sankoju</a>  (IIT Kharagpur,  May 2024 - July 2024)
+             </li>   
         </ol>
   </p>
 </details>
