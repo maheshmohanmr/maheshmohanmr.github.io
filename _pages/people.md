@@ -180,7 +180,13 @@ details {
                       </li>
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
-                      </li>     
+                      </li>    
+                    <li>   
+Md Tauheed Ansari (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
+                      </li>   
+                               <li>   
+Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
+                      </li>   
               </ol>
                                         <heading>Vacancies</heading>
               <p>
