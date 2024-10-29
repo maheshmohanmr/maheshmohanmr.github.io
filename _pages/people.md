@@ -125,7 +125,7 @@ details {
                   Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                  <li>
-                  Sayan Ghosh &#9971; &#9971; [On-site Internship at AWL, Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
+                  Sayan Ghosh &#9971; &#9971; [On-site Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
                  <li>
                   Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
