@@ -113,7 +113,7 @@ details {
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
-                  Sharath S &#9971; &#9971; [Secured Internship in Google; Secured IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
                   Ayan Singha (IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
@@ -125,7 +125,7 @@ details {
                   Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                  <li>
-                  Sayan Ghosh &#9971; &#9971; [Secured On-site Internship at AWL, Japan; Secured IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
+                  Sayan Ghosh &#9971; &#9971; [On-site Internship at AWL, Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
                  <li>
                   Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
@@ -134,16 +134,16 @@ details {
             Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
              </li>
                   <li>
-                  Rahul R &#9971; [Secured Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R &#9971; [Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
                 </li>
                    <li>
-                  Mahim Jain  &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                  Mahim Jain  &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
                 </li>
                  <li>
-                 Gourav Pathak &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
+                 Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
                 </li>
                  <li>
                  Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
@@ -161,13 +161,13 @@ details {
             Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
               </li>
                   <li> 
-             Bibhabasu Debnath &#9971; [Secured Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
+             Bibhabasu Debnath &#9971; [Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
                   </li>
                     <li> 
              Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
                     </li>
                     <li> 
-                   Prakhar Verma &#9971; [Secured IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
+                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>
                      <li> 
                    Aishwarya Maan Srivastava (IIT Kharagpur,  Joined - June 2024)
