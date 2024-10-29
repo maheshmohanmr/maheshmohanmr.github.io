@@ -113,7 +113,7 @@ details {
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
-                  Sharath S &#9971; [Secured Internship in Google] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Sharath S &#9971; &#9971; [Secured Internship in Google; Secured IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
                   Ayan Singha (IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
