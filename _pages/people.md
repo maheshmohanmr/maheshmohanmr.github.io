@@ -137,7 +137,7 @@ details {
                   Rahul R &#9971; [Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
-                  Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
+                  Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
                    <li>
                   Mahim Jain  &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
@@ -146,7 +146,7 @@ details {
                  Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
                 </li>
                  <li>
-                 Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
+                 Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
                        </ol>
   <h3>Interns</h3>
@@ -176,7 +176,7 @@ details {
                    Arunava Bhattacharya (IIT Kharagpur,  Joined - June 2024) 
                       </li>
                      <li> 
-                   Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a>]
+                   Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                       </li>    
                     <li>   
 Md Tauheed Ansari (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
