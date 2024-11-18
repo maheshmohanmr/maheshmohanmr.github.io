@@ -131,7 +131,7 @@ details {
                   Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
                 </li>
                     <li> 
-            Gajarlawar Veer Vilas (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
+            Gajarlawar Veer Vilas &#9971; &#9971; [Poster presentation in Sensors-2024] (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
              </li>
                   <li>
                   Rahul R &#9971; [Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
