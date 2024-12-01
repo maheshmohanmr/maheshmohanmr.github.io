@@ -85,7 +85,7 @@ author_profile: true
               <a href="../files/sensors2024_bib_ons.txt">bib</a> 
               <br>
               <p></p>
-              <p>A A Divide and Conquer Approach to deal with FTIR based Diabetes Prediction. </p>
+              <p>A Divide and Conquer Approach to deal with FTIR based Diabetes Prediction. </p>
             </td>
           </tr>
            <!-- Computer and Agriculture 2022 ONS -->
