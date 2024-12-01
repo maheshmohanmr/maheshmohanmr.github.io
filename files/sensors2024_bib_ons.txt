@@ -1,0 +1,7 @@
+@InProceedings{Veer_2024_SENSORS,
+author = {Veer Gajarlawar; Anjali Devi J S; Mahesh Mohan M R},
+title = {AI-Assisted Spectral Analysis for Diabetes Prediction},
+booktitle = {Symposium on Emerging Nanotechnologies for Sensors - Organisation and Recognition Systems 2024 (SENSORS 2024)},
+month = {December},
+year = {2024}
+} 
