@@ -71,19 +71,21 @@ author_profile: true
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <a href="TODO">
-                <papertitle>Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras</papertitle>
+                <papertitle>AI-Assisted Spectral Analysis for Diabetes Prediction</papertitle>
               </a>
               <br>
-              <strong>Mahesh Mohan M. R.</strong>,
-              G K Nithin, and 
-              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
+              Veer Gajarlawar, <a href="[http://www.ee.iitm.ac.in/~raju/](https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/)">Anjali Devi J S</a>, Mahesh Mohan M R
+              Mahesh Mohan M. R.,
               <br>
-              <em>IEEE Transactions on Image Processing </em>, 2021 
-              <br> <a href="../files/tip_ons.pdf">paper</a> /
-              <a href="../files/tip_ons_bib.txt">bib</a> 
+              <em>Symposium on Emerging Nanotechnologies for Sensors - Organisation and Recognition Systems 2024 (SENSORS 2024) </em> 
+              <br> <a href="../files/sensors2024_paper_ons.pdf">paper</a> /
+              <a href="../files/sensors2024_slides_ons.pdf">slides</a> /
+              <a href="../files/sensors2024_poster_ons.pdf">poster</a> /
+              <a href="[https://colab.research.google.com/drive/1eiLNfRe6bo2rUv9l1BpWwZdMs9eDJvY8?usp=sharing">code</a> /
+              <a href="../files/sensors2024_bib_ons.txt">bib</a> 
               <br>
               <p></p>
-              <p>A Deep Learning approach for motion deblurring for dual-lens cameras to address incoherent views, ill-posedness, and adaptive scale. </p>
+              <p>A A Divide and Conquer Approach to deal with FTIR based Diabetes Prediction. </p>
             </td>
           </tr>
            <!-- Computer and Agriculture 2022 ONS -->
