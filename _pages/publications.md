@@ -53,20 +53,20 @@ author_profile: true
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
            <!-- Sensors 2024 ons -->
-          <tr onmouseout="tip_stop()" onmouseover="tip_start()">
+          <tr onmouseout="sensor2024_stop()" onmouseover="sensor2024_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
                 <div class="two" id='sensor2024_image'><img src='../images/sensors2024_1_ons.png'></div>
                 <img src='../images/sensors2024_2_ons.png'>
               </div>
               <script type="text/javascript">
-                function tip_start() {
+                function sensor2024_start() {
                   document.getElementById('sensor2024_image').style.opacity = "1";
                 }
-                function tip_stop() {
+                function sensor2024_stop() {
                   document.getElementById('sensor2024_image').style.opacity = "0";
                 }
-                tip_stop()
+                sensor2024_stop()
               </script>
             </td>
             <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
