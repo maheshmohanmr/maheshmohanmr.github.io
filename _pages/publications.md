@@ -74,14 +74,14 @@ author_profile: true
                 <papertitle>AI-Assisted Spectral Analysis for Diabetes Prediction</papertitle>
               </a>
               <br>
-              Veer Gajarlawar, <a href="[http://www.ee.iitm.ac.in/~raju/](https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/)">Anjali Devi J S</a>, Mahesh Mohan M R
+              Veer Gajarlawar, <a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/">Anjali Devi J S</a>, Mahesh Mohan M R
               Mahesh Mohan M. R.,
               <br>
               <em>Symposium on Emerging Nanotechnologies for Sensors - Organisation and Recognition Systems 2024 (SENSORS 2024) </em> 
               <br> <a href="../files/sensors2024_paper_ons.pdf">paper</a> /
               <a href="../files/sensors2024_slides_ons.pdf">slides</a> /
               <a href="../files/sensors2024_poster_ons.pdf">poster</a> /
-              <a href="[https://colab.research.google.com/drive/1eiLNfRe6bo2rUv9l1BpWwZdMs9eDJvY8?usp=sharing">code</a> /
+              <a href="https://colab.research.google.com/drive/1eiLNfRe6bo2rUv9l1BpWwZdMs9eDJvY8?usp=sharing">code</a> /
               <a href="../files/sensors2024_bib_ons.txt">bib</a> 
               <br>
               <p></p>
