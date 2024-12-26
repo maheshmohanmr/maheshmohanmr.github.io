@@ -190,7 +190,7 @@ Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="ht
                I am actively looking for PhD and Masters (MS/MTP) students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing and/or image processing and/or computer vision, and applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   If you are interested, please apply through the IIT Kharagpur PG admissions process, specifying <i>Centre of Excellence in Artificial Intelligence</i> among your preferred departments/centres and listing me as a potential supervisor. 
               </p>   
               <p>
-                The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group, our working style, and to make an optimal decision based on bilateral matching. 
+                The prospective students are encouraged to visit my group for two weeks to get a good understanding about my group, our working style, and to make an optimal decision based on bilateral matching. I am currently not offering any internship positions or research projects to students outside IIT Kharagpur. Apologies for not being able to individually respond to the numerous student emails enquiring about this.
               </p>
               <p>
               LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research should reflect your ambition!
