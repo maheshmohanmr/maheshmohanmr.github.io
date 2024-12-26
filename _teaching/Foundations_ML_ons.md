@@ -14,4 +14,8 @@ Logistics: In-person Mode, Weekly 3 hrs lecture; Four sessions of Lab; Credits: 
 <p>
 Students: 125 (Core subject for M-Tech in AI + UG/PG students from all departments, selected based on CGPAs)
 </p>
+<p>
+Student Feedback: <a href="../files/MLFA_S2024_FB_ons.JPG">IIT-KGP ERP Snapshot</a>
+</p>
+
 
