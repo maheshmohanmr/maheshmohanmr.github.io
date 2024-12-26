@@ -12,7 +12,7 @@ Course Overview: <a href="../files/2024SA_FML_Moodle_ons.pdf">Moodle Snapshot</a
 Teaching Distribution: Sole Instructor. 
 </p>
 <p>
-Logistics: In-person Mode, Weekly 3 hrs lecture; Two sessions of Lab over the entire course outside the Course time; Credits: 3
+Logistics: In-person Mode, Weekly 3 hrs lecture; Two sessions of Lab over the entire course; Credits: 3
 </p>
 <p>
 Students: 125 (Core subject for M-Tech in AI + UG/PG students from all departments, selected based on CGPAs)
