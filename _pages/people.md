@@ -163,18 +163,11 @@ details {
                   <li> 
              Bibhabasu Debnath &#9971; [Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
                   </li>
-                    <li> 
-             Chirayu Chaurasia (IIT Kharagpur,  Joined - May 2024)
-                    </li>
+                  
                     <li> 
                    Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>
-                     <li> 
-                   Aishwarya Maan Srivastava (IIT Kharagpur,  Joined - June 2024)
-                      </li>  
-                    <li> 
-                   Arunava Bhattacharya (IIT Kharagpur,  Joined - June 2024) 
-                      </li>
+                 
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                       </li>    
@@ -230,7 +223,16 @@ Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="ht
      <b>Interns</b> 
   </summary>
   <p>
-     <ol>   <li> 
+     <ol>     <li> 
+             Chirayu Chaurasia (IIT Kharagpur,  May 2024 - July 2024)
+                    </li>
+       <li> 
+                   Aishwarya Maan Srivastava (IIT Kharagpur,  June 2024 - July 2024)
+                      </li>  
+                    <li> 
+                   Arunava Bhattacharya (IIT Kharagpur,  June 2024 - July 2024) 
+                      </li>   
+       <li> 
               <a href="https://in.linkedin.com/in/manish-vaghmashi">Manish Vaghmashi</a> &#9971; [Secured Internship in Amazon] (IIT Kharagpur, June 2024 - July 2024)
              </li>
               <li> 
