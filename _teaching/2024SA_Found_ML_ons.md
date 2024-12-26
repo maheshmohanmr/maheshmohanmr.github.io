@@ -9,6 +9,9 @@ location: "India"
 ---
 Course Overview: <a href="../files/Teaching_MLFA_2024_spring_ons.pdf">Moodle Snapshot</a>
 <p>
+Teaching Distribution: Sole Instructor. 
+</p>
+<p>
 Logistics: In-person Mode, Weekly 3 hrs lecture; Four sessions of Lab; Credits: 3
 </p>
 <p>
