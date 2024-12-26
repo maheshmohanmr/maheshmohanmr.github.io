@@ -163,7 +163,6 @@ details {
                   <li> 
              Bibhabasu Debnath &#9971; [Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
                   </li>
-                  
                     <li> 
                    Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>
