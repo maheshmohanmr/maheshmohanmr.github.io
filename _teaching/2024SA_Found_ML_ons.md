@@ -3,7 +3,7 @@ title: "Foundations of Machine Learning <q>AI60203</q>, 2024 Autumn, IIT Kharagp
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2024-FML-ons
-venue: "IIT Kharagpur, Centre of Excellence in AI"
+venue: "IIT Kharagpur, Department of AI"
 date: 2024-07-22
 location: "India"
 ---
