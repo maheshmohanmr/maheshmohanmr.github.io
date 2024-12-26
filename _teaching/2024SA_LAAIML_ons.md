@@ -9,7 +9,7 @@ location: "India"
 ---
 Course Overview: <a href="../files/2024SA_LA_Moodle_ons.pdf">Moodle Snapshot</a>
 <p>
-Teaching Distribution: Sole Instructor. 
+Teaching Distribution:  Taught till Mid-semester, i.e., till Stage 4: Optimization (followed up with <a href="https://prabhatkmishra.github.io/">Prof. Prabhat Kumar Mishra</a>). 
 </p>
 <p>
 Logistics: In-person Mode, Weekly 3 hrs lecture + 1 hr tutorial; Credits: 4
