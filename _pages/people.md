@@ -98,7 +98,7 @@ details {
   <ol>
   <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/neha_ons.jpg" alt="NH."></a>  Neha Kumari (Joined July 2024)  </li> </p>	
   <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/biswamitra_ons.jpg" alt="NH."></a>  Biswamitra Mitra (Joined July 2024)  </li> </p>	
-  <p><li><a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in"> <img width=110 src="../images/kunal_ons.jpg" alt="NH."></a>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a> (Joined January 2025)[Working Professional]  </li> </p>
+  <p><li><a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in"> <img width=110 src="../images/kunal_ons.jpg" alt="NH."></a>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a> (Joined January 2025) [Working Professional]  </li> </p>
 <!--  <p><li><big><a href="https://www.linkedin.com/in/harsh-rangwani/"> <img width=120 src="./Harsh.jpg" alt="Harsh">  Harsh Rangwani</a> (Joined - Aug. 2019) [PMRF Fellow] <a href="https://scholar.google.co.in/citations?hl=en&user=OQK0WREAAAAJ"><img src="GS.png" alt="Google Scholar" style="width:24px;height:24px;"></a></big></li></p>	
 <p><li><big><a href="https://badrinaths.github.io/"> <img width=120 src="./BadriNath.jpg" alt="Badri"> Badrinath Singhal</a> (Joined - Aug. 2023) <a href="https://dblp.org/pid/228/3063.html"><img src="DBLP_logo.png" alt="DBLP" style="width:48px;height:24px;"></a></big></li></p>	-->
 
