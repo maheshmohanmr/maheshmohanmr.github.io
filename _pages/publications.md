@@ -56,8 +56,8 @@ author_profile: true
           <tr onmouseout="indoml2024_stop()" onmouseover="indoml2024_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='imdoml2024_image'><img src='../images/sensors2024_1_ons.png'></div>
-                <img src='../images/sensors2024_2_ons.png'>
+                <div class="two" id='imdoml2024_image'><img src='../files/Indoml2024_img1_ons.JPG'></div>
+                <img src='../images/Indoml2024_img2_ons.JPG'>
               </div>
               <script type="text/javascript">
                 function sensor2024_start() {
@@ -78,8 +78,8 @@ author_profile: true
               <br>
               <em>INDOML 2024 </em> 
               <br> 
-              <a href="../files/sensors2024_poster_ons.pdf">poster</a> /
-              <a href="../files/sensors2024_slides_ons.pdf">slides</a> 
+              <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
+              <a href="../files/Indoml2024_slide1_ons.pdf">slide_1</a>/ <a href="../files/Indoml2024_slide2_ons.pdf">slide_2</a> 
               <br>
               <p></p>
               <p>Extreme Multi-Label Classification can be effectively solved using Modular approaches </p>
