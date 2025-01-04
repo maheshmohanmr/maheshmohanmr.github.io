@@ -107,12 +107,12 @@ details {
 <!-- <h3>Ph.D</h3>
                <ol>
                 <li>
-                  Neha Kumari (IIT Kharagpur, Joined - July 2024)
+                  Neha Kumari (Joined - July 2024)
                 </li>
                  <li>
-                  Biswamitra Mitra (IIT Kharagpur, Joined - July 2024)
+                  Biswamitra Mitra (Joined - July 2024)
                 </li>
-                 <li>  Kunal Pimparkhede  (<a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Working Professional</a>, Joined January 2025)
+                 <li>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a>  (Joined January 2025)[WP - TIAA]
                     </li>
                    </ol> -->
   <h3>B-Tech and M-Tech/MSc</h3>
