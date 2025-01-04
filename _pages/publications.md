@@ -44,8 +44,8 @@ author_profile: true
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Representative Publications</heading> <br>
-              (Pl find the complete list of articles on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en">this Google Scholar profile</a>. Please send us a mail for related queries.)
+              <heading>Representative Works</heading> <br>
+              (Pl find the complete list of articles on <a href="https://scholar.google.com/citations?user=gNshB_kAAAAJ&hl=en">this Google Scholar profile</a>. Please send us a mail for related queries. * - indiates equal contribution)
                 </td>
           </tr> 
 </tbody> 
