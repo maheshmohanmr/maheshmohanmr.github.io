@@ -17,7 +17,7 @@ Welcome all! I am an Assistant Professor at the [Department of Artificial Intell
  In the IIT Kharagpur, I am building a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group. Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs basic research in the intersection of Signal Processing with AI and Computer Vision. 
 
 
-Previously, I was a  Postdoctoral Researcher  in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Signal Processing and AI.
+Previously, I was a  Postdoctoral Researcher  in the [Coordinated Science Laboratory](https://csl.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Prof. Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja). My postdoc research lies at the intersection of  Image Signal Processing, Computer Vision and AI.
 
 
 
