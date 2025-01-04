@@ -82,7 +82,7 @@ author_profile: true
               <a href="../files/sensors2024_slides_ons.pdf">slides</a> 
               <br>
               <p></p>
-              <p>Extreme Multi Label Classification can be effectively solved using Modular approaches </p>
+              <p>Extreme Multi-Label Classification can be effectively solved using Modular approaches </p>
             </td>
           </tr>
            <!-- Sensors 2024 ons -->
