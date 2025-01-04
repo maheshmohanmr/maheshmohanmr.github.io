@@ -60,10 +60,10 @@ author_profile: true
                 <img src='../files/Indoml2024_img2_ons.JPG'>
               </div>
               <script type="text/javascript">
-                function sensor2024_start() {
+                function indoml2024_start() {
                   document.getElementById('indoml2024_image').style.opacity = "1";
                 }
-                function sensor2024_stop() {
+                function indoml2024_stop() {
                   document.getElementById('indoml2024_image').style.opacity = "0";
                 }
                 indoml2024_stop()
