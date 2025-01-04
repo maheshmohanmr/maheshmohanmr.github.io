@@ -104,7 +104,7 @@ details {
 
   </ol>
     
-<h3>Ph.D</h3>
+<!-- <h3>Ph.D</h3>
                <ol>
                 <li>
                   Neha Kumari (IIT Kharagpur, Joined - July 2024)
@@ -114,7 +114,7 @@ details {
                 </li>
                  <li>  Kunal Pimparkhede  (<a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Working Professional</a>, Joined January 2025)
                     </li>
-                   </ol>
+                   </ol> -->
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
                 <li>
