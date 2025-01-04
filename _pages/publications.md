@@ -79,7 +79,7 @@ author_profile: true
               <em>INDOML 2024 </em> 
               <br> 
               <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
-              <a href="../files/Indoml2024_slide1_ons.pdf">slide_1</a>/ <a href="../files/Indoml2024_slide2_ons.pdf">slide_2</a> 
+              <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a>/ <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
               <br>
               <p></p>
               <p>Extreme Multi-Label Classification can be effectively solved using Modular approaches </p>
