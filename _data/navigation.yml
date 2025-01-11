@@ -6,11 +6,11 @@ main:
   - title: "SPAI Research"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "SPAI Resources"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Inspirations"
     url: /portfolio/
