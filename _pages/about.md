@@ -13,7 +13,7 @@ redirect_from:
 <div><img src="../images/waytonp_logo_ons.PNG" width="1000" alt="My Image" /></div>
   <h2>About me</h2>
 </body></html>
-Welcome all! I am an Assistant Professor at the [Department of Artificial Intelligence](https://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. In IIT Kharagpur, I lead a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group
+Welcome all! I am an Assistant Professor at the [Department of Artificial Intelligence](https://www.ai.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I am also an Affiliate Researcher at the [University of Illinois Urbana-Champaign](https://illinois.edu/), US. In the IIT Kharagpur, I lead a &#8220;<i>Signal Processing and Artificial Intelligence (SPAI)</i>&#8221; group
  Our [SPAI group](https://maheshmohanmr.github.io/publications/) performs research in the intersection of Signal Processing with AI and Computer Vision. 
 
 
