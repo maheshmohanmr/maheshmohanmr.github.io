@@ -14,7 +14,7 @@ Teaching Distribution: Sole Instructor.
 Logistics: In-person Mode, Weekly 3 hrs lecture + 1 hr Tutorial; Credits: 4
 </p>
 <p>
-Students: 49 (Core subject for B-Tech in AI First Years)
+Students: 49 (Core subject for B-Tech in AI, First Year)
 </p>
 
 
