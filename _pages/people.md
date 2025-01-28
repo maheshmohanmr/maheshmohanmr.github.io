@@ -133,13 +133,13 @@ details {
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
                  <li>
-                  Arjun Singh (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
+                  Arjun Singh &#9971; &#9971; [Internship in Intel; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
                 </li>
                     <li> 
             Gajarlawar Veer Vilas &#9971;  [Poster presentation in Sensors-2024] (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S</a>]
              </li>
                   <li>
-                  Rahul R &#9971; [Internship in Adobe] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
+                  Rahul R &#9971; &#9971; [Internship in Adobe; IndiaAI Research Fellowship] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
