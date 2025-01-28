@@ -28,14 +28,17 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
+ * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
+ * * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing internship at Intel AI!
  * &#91; 2024.11 &#93; &nbsp; Congrats Veer for his work accepted as poster presentation in Sensors-2024, Kerala Univ!
- * &#91; 2024.10 &#93; &nbsp; Congrats Sharath for securing the IndiaAI Research fellowship (1 Lakh INR)!
- * &#91; 2024.10 &#93; &nbsp; Congrats Sayan for securing the IndiaAI Research fellowship (1 Lakh INR)!
+ * &#91; 2024.10 &#93; &nbsp; Congrats Sharath for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
+ * &#91; 2024.10 &#93; &nbsp; Congrats Sayan for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
   * &#91; 2024.09 &#93; &nbsp; [IndoML 2024](https://indoml.in/index.php) Travel Grant Awarded to Gourav, Mahim, and Prakhar to present their work on LLMs. Congrats all!
   * &#91; 2024.07 &#93; &nbsp; Congrats Sayan for securing the competitive on-site internship at AWL Inc., Japan!
- * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing internship at Google!
- * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing internship at Adobe!
- * &#91; 2024.07 &#93; &nbsp; Congrats Manish for securing internship at Amazon!
+ * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing internship at Google AI!
+ * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing internship at Adobe AI!
+ * &#91; 2024.07 &#93; &nbsp; Congrats Manish for securing internship at Amazon AI!
   * &#91; 2024.07 &#93; &nbsp; Prakhar joined the Technical Team for LLMs in Datathon, [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as a Datathon Chair for [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Senior Data Scientist. Best Wishes Amara!
