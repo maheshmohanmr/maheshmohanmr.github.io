@@ -30,7 +30,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  <strong>News<strong>:
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
  * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
- * * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing internship at Intel AI!
+ * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing internship at Intel AI!
  * &#91; 2024.11 &#93; &nbsp; Congrats Veer for his work accepted as poster presentation in Sensors-2024, Kerala Univ!
  * &#91; 2024.10 &#93; &nbsp; Congrats Sharath for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
  * &#91; 2024.10 &#93; &nbsp; Congrats Sayan for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
