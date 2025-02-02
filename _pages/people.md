@@ -155,10 +155,10 @@ details {
                 </li>
                            </li>
           <li>   
-Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
                       </li>   
                                <li>   
-Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
                       </li>                    
                        </ol>
   <h3>Interns</h3>
