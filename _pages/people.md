@@ -221,7 +221,6 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
 <details>
    <summary>
      <b>Interns</b> 
-     (&#9973; indicates continued as a new role) 
   </summary>
   <p>
      <ol>     <li> 
