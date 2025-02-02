@@ -249,10 +249,10 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
              Bibhabasu Debnath &#9971; [Internship in Adobe] (Feb 2024 - Nov 2024)
                   </li>
           <li>   
-Md Tauheed Ansari (IIT Kharagpur,  Sept 2024 - Dec 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+Md Tauheed Ansari (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
                       </li>   
                                <li>   
-Aditya Ashok (IIT Kharagpur,  Sept 2024 - Dec 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+Aditya Ashok (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
                       </li>   
         </ol>
   </p>
