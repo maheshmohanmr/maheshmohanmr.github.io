@@ -156,18 +156,6 @@ details {
                        </ol>
   <h3>Interns</h3>
                  <ol>
-                   <li> 
-            Shamik Bhattacharjee (IIT Kharagpur, Joined - Feb 2024)
-             </li>
-                   <li>
-            Swaralipi Datta (IIT Kharagpur, Joined - Feb 2024)
-              </li>
-                <li> 
-            Anushree Ghosh (IIT Kharagpur, Joined - Feb 2024)
-              </li>
-                  <li> 
-             Bibhabasu Debnath &#9971; [Internship in Adobe] (IIT Kharagpur, Joined - Feb 2024)
-                  </li>
                     <li> 
                    Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>                 
@@ -247,6 +235,18 @@ Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="ht
          <li> 
             <a href="https://www.linkedin.com/in/sankoju-keerthi-840732231/?trk=public_profile_browsemap&originalSubdomain=in">Keerthi Sankoju</a>  (IIT Kharagpur,  May 2024 - July 2024)
              </li>   
+              <li> 
+            Shamik Bhattacharjee (IIT Kharagpur, Feb 2024 - Nov 2024)
+             </li>
+                   <li>
+            Swaralipi Datta (IIT Kharagpur, Feb 2024 - Nov 2024)
+              </li>
+                <li> 
+            Anushree Ghosh (IIT Kharagpur, Feb 2024 - Nov 2024)
+              </li>
+                  <li> 
+             Bibhabasu Debnath &#9971; [Internship in Adobe] (Feb 2024 - Nov 2024)
+                  </li>
         </ol>
   </p>
 </details>
