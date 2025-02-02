@@ -183,7 +183,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                I am actively looking for research students to work with me. <a href="../images/lincoln_v3_ons.jpg">Self motivated</a>, <a href="../images/kalam_ons.jpg">Ambitious</a> and <a href="../images/wright_brothers_quote.jpg">Keen</a> students with a research aptitude towards signal processing or image processing or computer vision, or applied mathematics are welcome to join our SPAI group. We closely follow this philosophy: please read <a href="../files/SPAI_philosophy_ons.pdf">this</a>.   
               </p>   
               <p>
-                 We only consider research projects that require long-term involvement (atleast one year). The prospective students are encouraged to visit my group for few weeks to get a good understanding about our team, projects, and working style; later we can make an optimal decision based on bilateral matching. Apologies for not being able to individually respond to the numerous student emails enquiring about this.
+                 We only consider research projects that require long-term involvement (at least one year). The prospective students are encouraged to visit my group for few weeks to get a good understanding about our team, projects, and working style; later we can make an optimal decision based on bilateral matching. Apologies for not being able to individually respond to the numerous student emails enquiring about this.
               </p>
               <p>
               LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research should reflect your ambition!
