@@ -153,7 +153,6 @@ details {
                  <li>
                  Vamshi Krishna &#9971;[Placed as AI Researcher in 64squares] (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
-                           </li>
           <li>   
 Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
                       </li>   
