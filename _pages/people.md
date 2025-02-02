@@ -153,6 +153,13 @@ details {
                  <li>
                  Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
+                           </li>
+          <li>   
+Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+                      </li>   
+                               <li>   
+Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+                      </li>                    
                        </ol>
   <h3>Interns</h3>
                  <ol>
@@ -162,12 +169,6 @@ details {
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                       </li>    
-                    <li>   
-Md Tauheed Ansari (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
-                      </li>   
-                               <li>   
-Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
-                      </li>   
               </ol>
                                         <heading>Vacancies</heading>
               <p>
@@ -247,6 +248,12 @@ Aditya Ashok (IIT Kharagpur,  Joined - September 2024) [Jointly with <a href="ht
                   <li> 
              Bibhabasu Debnath &#9971; [Internship in Adobe] (Feb 2024 - Nov 2024)
                   </li>
+          <li>   
+Md Tauheed Ansari (IIT Kharagpur,  Sept 2024 - Dec 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+                      </li>   
+                               <li>   
+Aditya Ashok (IIT Kharagpur,  Sept 2024 - Dec 2024) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] &#9973;
+                      </li>   
         </ol>
   </p>
 </details>
