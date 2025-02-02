@@ -121,7 +121,7 @@ details {
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
                  <li>
-                  Ayan Singha (IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
+                  Ayan Singha &#9971; [Internship in Varaha -- AI+Agri firm](IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
                 </li>
                 <li>
                   Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
@@ -151,7 +151,7 @@ details {
                  Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
                 </li>
                  <li>
-                 Vamshi Krishna  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
+                 Vamshi Krishna &#9971;[Placed as AI Researcher in 64squares] (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
                            </li>
           <li>   
