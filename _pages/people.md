@@ -168,6 +168,12 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                       </li> 
+                   <li> 
+                   Aashutosh Joshi (IIT Kharagpur,  Joined - Oct 2024) 
+                      </li>  
+                     <li> 
+                   Nipun Bharadwaj (IIT Kharagpur,  Joined - OCt 2024) 
+                      </li>
                       <li> 
                    Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
                       </li>
