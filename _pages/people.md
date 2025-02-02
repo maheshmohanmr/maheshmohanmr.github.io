@@ -172,7 +172,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                    Aashutosh Joshi (IIT Kharagpur,  Joined - Oct 2024) 
                       </li>  
                      <li> 
-                   Nipun Bharadwaj (IIT Kharagpur,  Joined - OCt 2024) 
+                   Nipun Bharadwaj (IIT Kharagpur,  Joined - Oct 2024) 
                       </li>
                       <li> 
                    Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
