@@ -46,17 +46,17 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Understanding Complex-valued Synthetic Aperture Radar (SAR)</td>
-    <td>Keerthi Sankoju (Intern)</td>
+    <td>Keerthi Sankoju </td>
     <td><a href="https://drive.google.com/file/d/1wuudTolHgLPrFayPjGs_Zxzu-D61Nso7/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>Feature Extraction Techniques in SAR</td>
-    <td>Keerthi Sankoju (Intern)</td>
+    <td>Keerthi Sankoju </td>
     <td><a href="https://drive.google.com/file/d/1hHCU914u1LztFbdZFRyYnZa6igu58-qY/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
     <td>Applications of SAR using Regression Techniques </td>
-    <td>Rahul R (B-Tech)</td>
+    <td>Rahul R </td>
     <td><a href="https://drive.google.com/file/d/1pDWo8n6Mx7S_FQbLXcUm_RNaUpwT87sQ/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    
