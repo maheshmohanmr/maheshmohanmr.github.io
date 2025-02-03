@@ -80,15 +80,17 @@ tr:nth-child(even) {
    <small>
        <strong>Related Publications</strong> 
 <ol>
-                <li> 
-                  Deep Dynamic Scene Deblurring for Unconstrained Dual-lens Cameras; 
-              Mahesh Mohan M. R.,
-              G K Nithin, and 
-              A. N. Rajagopalan;
-              <em>IEEE Transactions on Image Processing</em>, 2021 
+                <li>                   
+                  AI-Assisted Spectral Analysis for Diabetes Prediction; 
+             Veer Gajarlawar, <a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/">Anjali Devi J S</a>, 
+              Mahesh Mohan M. R.
+              <em>SENSORS</em>, 2024 
                    <span style="float:right;">
-        <a href="../files/tip_ons.pdf">paper</a> /
-              <a href="../files/tip_ons_bib.txt">bib</a>
+       <a href="../files/sensors2024_paper_ons.pdf">paper</a> /
+              <a href="../files/sensors2024_slides_ons.pdf">slides</a> /
+              <a href="../files/sensors2024_poster_ons.pdf">poster</a> /
+              <a href="https://colab.research.google.com/drive/1eiLNfRe6bo2rUv9l1BpWwZdMs9eDJvY8?usp=sharing">code</a> /
+              <a href="../files/sensors2024_bib_ons.txt">bib</a> 
     </span>
                 </li>
               </ol>
