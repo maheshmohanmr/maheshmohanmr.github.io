@@ -51,7 +51,7 @@ tr:nth-child(even) {
   </tr>
      <tr>
     <td>Introduction to Complex-valued AI </td>
-    <td>Arjun Singh (B-Tech)</td>
+    <td>Arjun Singh </td>
     <td><a href="https://drive.google.com/file/d/1MVVTWDiNTm3zxxeKHDaeyJBH2H_kEdxE/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
      <tr>
@@ -60,17 +60,17 @@ tr:nth-child(even) {
   
    <tr>
     <td>An Overview of Neural Network Layers - Part 1 </td>
-    <td>Sayan Ghosh (B-Tech)</td>
+    <td>Sayan Ghosh </td>
     <td><a href="https://drive.google.com/file/d/1Vv6Og2Y4VU51vY68crSUVlvwb83Z5Z52/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of Neural Network Layers - Part 2 </td>
-    <td>Arjun Singh (B-Tech)</td>
+    <td>Arjun Singh </td>
     <td><a href="https://drive.google.com/file/d/1ipGujkfXBvvMR-HqPXLVepyTSzkU0x_i/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
     <td>An Overview of  Loss Functions</td>
-    <td>Ashmit A Raj (B-Tech)</td>
+    <td>Ashmit A Raj </td>
     <td><a href="https://drive.google.com/file/d/1omyghOA_I02dJvg2sNRtn583CZSXVO6E/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
@@ -78,7 +78,7 @@ tr:nth-child(even) {
   </tr>
     <tr>
     <td>On Optimizing Complex-valued Neural Network</td>
-    <td>Amara Datta Dola (MSc)</td>
+    <td>Amara Datta Dola </td>
     <td><a href="https://drive.google.com/file/d/1xkGMnrILh7PG91RFmpo-UvuPIyKZdsfX/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
 </table>
