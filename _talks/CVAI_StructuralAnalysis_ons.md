@@ -8,7 +8,7 @@ date: 2024-07-10
 location: "IIT Kharagpur, India"
 ---
 <p style="text-align:left;">
-  This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI for Structural Analysis, under the joint guidance of  Drs. <a href="https://www.linkedin.com/in/sumithsree/?originalSubdomain=in">Sumith Sreedhar</a> and Mahesh Mohan M R. 
+  This section contains a series of SPAI Group's expositions (or resources) that focus on Complex-valued AI for Structural Analysis. 
 </p>
 <html>
 <head>
