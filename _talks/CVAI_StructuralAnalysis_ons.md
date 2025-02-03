@@ -47,7 +47,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Application of AI in Mechanical Engineering </td>
-    <td>Tushti Thakur (Intern)</td>
+    <td>Tushti Thakur </td>
     <td><a href="https://drive.google.com/file/d/1gCr0yXg7xmr-k2x2qc4k1kRL8rDP3rtn/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>        
 </table>
