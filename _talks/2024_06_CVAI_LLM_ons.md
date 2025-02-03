@@ -69,9 +69,23 @@ tr:nth-child(even) {
     <td><a href="https://drive.google.com/file/d/1ZFR57Eyd-g3GAyE8nxqLOCFzJCA02GfH/view?usp=sharing">&#91;Slides&#93;</a> <a href="https://colab.research.google.com/drive/1R66j5O5dacjKSXz6m8AAeVo_U05mr7fs?usp=sharing">&#91;Code&#93;</a></td>
   </tr>  
 </table>
+ <br>
 
-</body>
-</html>
+   <small>
+       <strong>Related Publications</strong> 
+<ol>
+                <li> 
+                  A Multi-Level Cluster-Search for XMC; 
+              Mahim Jain*, Gourav Pathak*, Prakhar Verma*, Mahesh Mohan M R;
+              <em>INDOML 2024</em>, 2021 
+                   <span style="float:right;">
+         <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
+              <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
+    </span>
+                </li>
+              </ol>
+   </small>
+
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -85,3 +99,5 @@ tr:nth-child(even) {
               </p>
             </td>
           </tr>
+</body>
+</html>
