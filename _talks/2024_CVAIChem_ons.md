@@ -77,8 +77,7 @@ tr:nth-child(even) {
    
 </table>
 
-</body>
-</html>
+
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -95,3 +94,5 @@ tr:nth-child(even) {
 
 </tbody></table>
 
+</body>
+</html>
