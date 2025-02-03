@@ -78,7 +78,7 @@ tr:nth-child(even) {
 </table>
 <br>
    <small>
-       <strong>Our Related Publications</strong> 
+       <strong>Related Publications</strong> 
 <ol>
                 <li>                   
                   AI-Assisted Spectral Analysis for Diabetes Prediction; 
