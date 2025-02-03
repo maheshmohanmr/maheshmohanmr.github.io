@@ -82,7 +82,7 @@ tr:nth-child(even) {
 <ol>
                 <li>                   
                   AI-Assisted Spectral Analysis for Diabetes Prediction; 
-             Veer Gajarlawar, <a href="https://www.kannuruniversity.ac.in/en/academics/campus/all-departments/department-of-chemistry/people/faculty/dr-anjali-devi-j-s/">Anjali Devi J S</a>, 
+             Veer Gajarlawar, Anjali Devi J S, 
               Mahesh Mohan M. R.
               <em>SENSORS</em>, 2024 
                    <span style="float:right;">
