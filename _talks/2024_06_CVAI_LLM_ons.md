@@ -94,7 +94,6 @@ tr:nth-child(even) {
 <hr>
 <center>
 <i>The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just. -- Abraham Lincoln </i>
-
 </center>
               </p>
             </td>
