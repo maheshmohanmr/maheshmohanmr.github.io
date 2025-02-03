@@ -77,7 +77,7 @@ tr:nth-child(even) {
                 <li> 
                   A Multi-Level Cluster-Search for XMC; 
               Mahim Jain*, Gourav Pathak*, Prakhar Verma*, Mahesh Mohan M R;
-              <em>INDOML 2024</em>, 2021 
+              <em>INDOML 2024</em>
                    <span style="float:right;">
          <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
               <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
@@ -85,7 +85,8 @@ tr:nth-child(even) {
                 </li>
               </ol>
    </small>
-
+</body>
+</html>
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -98,5 +99,4 @@ tr:nth-child(even) {
               </p>
             </td>
           </tr>
-</body>
-</html>
+
