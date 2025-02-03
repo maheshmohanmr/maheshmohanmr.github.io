@@ -76,6 +76,7 @@ tr:nth-child(even) {
   </tr>
    
 </table>
+<br>
    <small>
        <strong>Related Publications</strong> 
 <ol>
