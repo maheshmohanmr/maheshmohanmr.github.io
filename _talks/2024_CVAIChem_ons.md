@@ -47,7 +47,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Applications of Artificial Intelligence in Chemistry</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td>Gajarlawar Veer Vilas</td>
     <td><a href="./../files/AI_Chem_Intro_ons.pdf">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
@@ -58,7 +58,7 @@ tr:nth-child(even) {
   </tr>
     <tr>
     <td>Use of Complex Valued Data or Fourier Transfrom in Chemistry</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td>Gajarlawar Veer Vilas </td>
     <td><a href="https://drive.google.com/file/d/1C2u_Xr071NBwrWlZGMrwC3s2-5ibWdZ-/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    <tr>
@@ -66,12 +66,12 @@ tr:nth-child(even) {
   </tr>
     <tr>
     <td>Working of Fourier Transform Infrared (FTIR) Spectroscopy </td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td>Gajarlawar Veer Vilas </td>
     <td><a href="https://drive.google.com/file/d/1GL6TabRlMbL-FqGIcV3oDqNUGK5NLPC0/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
     <tr>
     <td>Applications of AI for Qualitative Analysis in FTIR</td>
-    <td>Gajarlawar Veer Vilas (Intern)</td>
+    <td>Gajarlawar Veer Vilas </td>
     <td><a href="https://drive.google.com/file/d/1zk9r3DhxSTO-dBot7Gjddq3JqnBqH5y3/view?usp=sharing">&#91;Slides&#93;</a></td>
   </tr>
    
