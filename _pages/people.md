@@ -145,7 +145,7 @@ details {
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan</a>]
                 </li>
                    <li>
-                  Mahim Jain  &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                  Mahim Jain  &#9971; &#9971; [IndoML-2024 travel grant, Placed as AI Researcher in KPIT Tech] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
                 </li>
                  <li>
                  Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
