@@ -621,7 +621,7 @@ in last names</a></b>.
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>SPAI Group's Research</heading>
+              <heading>SPAI Group's Support</heading>
                <img src="../images/icccc_13_op_ons_sqr.png" alt="Mountains" style="width:100%">
                           </td>
           </tr> 
