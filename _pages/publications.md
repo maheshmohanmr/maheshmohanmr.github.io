@@ -620,13 +620,13 @@ in last names</a></b>.
 
  <div class="row">
   <div class="column">
-    <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:100%">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:1%">
   </div>
   <div class="column">
-    <img src="../images/icccc_13_op_ons_sqr.png" alt="Forest" style="width:100%">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Forest" style="width:1%">
   </div>
   <div class="column">
-    <img src="../images/icccc_13_op_ons_sqr.png" alt="Mountains" style="width:100%">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Mountains" style="width:1%">
   </div>
 </div> 
     
