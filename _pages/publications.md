@@ -617,6 +617,19 @@ in last names</a></b>.
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
  </tr>-->        
+
+ <div class="row">
+  <div class="column">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="../images/icccc_13_op_ons_sqr.png" alt="Mountains" style="width:100%">
+  </div>
+</div> 
+    
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:11px;width:100%;vertical-align:middle;border:0px">
