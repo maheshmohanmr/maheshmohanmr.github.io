@@ -617,9 +617,22 @@ in last names</a></b>.
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
  </tr>-->        
-
-
-   <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:40%">
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
+              <heading>SPAI Group's Research</heading>
+              <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:40%">
+              <p>
+            <ul id="menu">
+  <li>Computer Vision</li>
+  <li>Image Processing</li>
+  <li>Signal Processing</li>
+  <li>Deep Learning</li>
+</ul>                 </p>
+                          </td>
+          </tr> 
+</tbody>
+   
 
     
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
