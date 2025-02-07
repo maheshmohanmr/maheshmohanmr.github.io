@@ -623,7 +623,7 @@ in last names</a></b>.
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>SPAI Group's Support</heading> <br>
               Our research is generously supported by: <br> 
-               <img src="../images/icccc_13_op_ons_sqr.png" alt="Mountains" style="width:100%">
+               <img src="../images/SPAI_establish_ons.png" alt="support" style="width:100%">
                           </td>
           </tr> 
 </tbody>
