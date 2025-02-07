@@ -619,7 +619,7 @@ in last names</a></b>.
  </tr>-->        
 
 
-    img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:40%"
+   <img src="../images/icccc_13_op_ons_sqr.png" alt="Snow" style="width:40%">
 
     
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
