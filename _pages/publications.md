@@ -624,9 +624,10 @@ in last names</a></b>.
               <heading>SPAI Group's Funding</heading> <br>
               Our research is generously supported by: <br> 
                <img src="../images/SPAI_establish_ons.png" alt="support" style="width:100%">
+                 <br> 
+              with a conviction  <q><i>Public money ought to be touched with the most scrupulous conscientiousness of honor. It is not the produce of riches only, but of the hard earnings of labor and poverty. It is drawn even from the bitterness of want and misery. Not a beggar passes, or perishes in the streets, whose mite is not in that mass.</i></q> -- Thomas Paine, Revolutionary and Philospher.
                           </td>
-              <br> 
-             <p> with a conviction  <q><i>Public money ought to be touched with the most scrupulous conscientiousness of honor. It is not the produce of riches only, but of the hard earnings of labor and poverty. It is drawn even from the bitterness of want and misery. Not a beggar passes, or perishes in the streets, whose mite is not in that mass.</i></q> -- Thomas Paine, Revolutionary and Philospher</p>
+           
           </tr> 
 </tbody>
     
