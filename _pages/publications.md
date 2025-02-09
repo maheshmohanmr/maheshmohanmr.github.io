@@ -626,7 +626,7 @@ in last names</a></b>.
                <img src="../images/SPAI_establish_ons.png" alt="support" style="width:100%">
                  <br> 
               <br> 
-              with a conviction  <q><i>Public money ought to be touched with the most scrupulous conscientiousness of honor. It is not the produce of riches only, but of the hard earnings of labor and poverty. It is drawn even from the bitterness of want and misery. Not a beggar passes, or perishes in the streets, whose mite is not in that mass.</i></q> -- Thomas Paine, French Revolutionary and Philospher.
+              with a conviction that <q><i>Public money ought to be touched with the most scrupulous conscientiousness of honor. It is not the produce of riches only, but of the hard earnings of labor and poverty. It is drawn even from the bitterness of want and misery. Not a beggar passes, or perishes in the streets, whose mite is not in that mass.</i></q> -- Thomas Paine, French Revolutionary and Philospher.
                           </td>
            
           </tr> 
