@@ -201,7 +201,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                  We usually consider research projects that require long-term involvement (at least one year).  BTP/MTP from outside Core AI department will be only selected from the pool of interns working with us for a substantial time (so as to get a good understanding about our projects, team, and working style); later we make an optimal decision based on bilateral matching. Apologies for not being able to individually respond to the numerous student emails enquiring about this.
               </p>
               <p>
-              LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research publications should talk for yourselves!
+              LoR policy: Truth be told, my letter of recommendation does not have much value; so your depth and breadth of research publications should strongly support you!
                 </p>
 
   <h2>Alumni</h2>
