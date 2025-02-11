@@ -622,7 +622,7 @@ in last names</a></b>.
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
               <heading>SPAI Group's Funding</heading> <br>
-              Our research is generously supported by <br> 
+              We are actively maintaining/enhancing our SPAI Group resources through the generous support of <br> 
                <img src="../images/SPAI_establish_ons.png" alt="support" style="width:100%">
                  <br> 
               <br> 
