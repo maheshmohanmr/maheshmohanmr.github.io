@@ -276,7 +276,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
 <a href="https://www.linkedin.com/in/md-tauheed-ansari-a8b032224/">Md Tauheed Ansari</a> (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
                       </li>   
                                <li>   
-Aditya Ashok (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
+<a href="https://www.linkedin.com/in/aditya-ashok-a87913240/">Aditya Ashok</a> (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
                       </li>   
         </ol>
   </p>
