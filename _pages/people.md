@@ -238,7 +238,11 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
      <b>Interns (&gt; 3 months)</b>  
   </summary>
   <p>
-     <ol>     <li> 
+     <ol>  
+       <li> 
+           <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
+             </li>     
+       <li> 
          <a href="https://www.linkedin.com/in/chirayu-chaurasia-b772b0297/">Chirayu Chaurasia</a> (IIT Kharagpur,  May 2024 - July 2024)
                     </li>
     <!--     <li> 
@@ -253,9 +257,6 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
            <li> 
             <a href="https://www.linkedin.com/in/adithyancp/?originalSubdomain=in">Adithyan Cp</a> (Bharatidasan University,  May 2024 - Jun 2024)
              </li> -->
-               <li> 
-           <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
-             </li> 
          <li> 
             <a href="https://www.linkedin.com/in/sankoju-keerthi-840732231/?trk=public_profile_browsemap&originalSubdomain=in">Keerthi Sankoju</a>  (IIT Kharagpur,  May 2024 - July 2024)
              </li>   
