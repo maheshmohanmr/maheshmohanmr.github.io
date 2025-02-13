@@ -261,19 +261,19 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
             <a href="https://www.linkedin.com/in/sankoju-keerthi-840732231/?trk=public_profile_browsemap&originalSubdomain=in">Keerthi Sankoju</a>  (IIT Kharagpur,  May 2024 - July 2024)
              </li>   
               <li> 
-         <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/">  Shamik Bhattacharjee </a> (IIT Kharagpur, Feb 2024 - Nov 2024)
+         <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/">  Shamik Bhattacharjee</a> (IIT Kharagpur, Feb 2024 - Nov 2024)
              </li>
                    <li>
-           <a href="https://www.linkedin.com/in/swaralipi-datta04/"> Swaralipi Datta </a> (IIT Kharagpur, Feb 2024 - Nov 2024)
+           <a href="https://www.linkedin.com/in/swaralipi-datta04/"> Swaralipi Datta</a> (IIT Kharagpur, Feb 2024 - Nov 2024)
               </li>
                 <li> 
-           <a href="https://www.linkedin.com/in/anushree-ghosh-b28415275/"> Anushree Ghosh </a> (IIT Kharagpur, Feb 2024 - Nov 2024)
+           <a href="https://www.linkedin.com/in/anushree-ghosh-b28415275/"> Anushree Ghosh</a> (IIT Kharagpur, Feb 2024 - Nov 2024)
               </li>
                   <li> 
-           <a href="https://www.linkedin.com/in/bibhabasu-debnath-b43a6a252/">  Bibhabasu Debnath </a> &#9971; [Internship in Adobe] (Feb 2024 - Nov 2024)
+           <a href="https://www.linkedin.com/in/bibhabasu-debnath-b43a6a252/">Bibhabasu Debnath</a> &#9971; [Internship in Adobe] (Feb 2024 - Nov 2024)
                   </li>
           <li>   
-Md Tauheed Ansari (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
+<a href="https://www.linkedin.com/in/md-tauheed-ansari-a8b032224/">Md Tauheed Ansari</a> (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
                       </li>   
                                <li>   
 Aditya Ashok (IIT Kharagpur,  Sept 2024 - Dec 2024  &#9973;) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
