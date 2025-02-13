@@ -239,7 +239,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
   </summary>
   <p>
      <ol>     <li> 
-             Chirayu Chaurasia (IIT Kharagpur,  May 2024 - July 2024)
+         <a href="https://www.linkedin.com/in/chirayu-chaurasia-b772b0297/">Chirayu Chaurasia</a> (IIT Kharagpur,  May 2024 - July 2024)
                     </li>
     <!--     <li> 
                    Aishwarya Maan Srivastava (IIT Kharagpur,  June 2024 - July 2024)
