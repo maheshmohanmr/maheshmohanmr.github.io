@@ -28,12 +28,12 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
- * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
- * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
+ * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research!
+ * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research!
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing  AI internship at Intel!
  * &#91; 2024.11 &#93; &nbsp; Congrats Veer for his work accepted as poster presentation in Sensors-2024, Kerala Univ!
- * &#91; 2024.10 &#93; &nbsp; Congrats Sharath for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
- * &#91; 2024.10 &#93; &nbsp; Congrats Sayan for securing the IndiaAI Research fellowship for his ongoing research (1 Lakh INR)!
+ * &#91; 2024.10 &#93; &nbsp; Congrats Sharath for securing the IndiaAI Research fellowship for his ongoing research!
+ * &#91; 2024.10 &#93; &nbsp; Congrats Sayan for securing the IndiaAI Research fellowship for his ongoing research!
   * &#91; 2024.09 &#93; &nbsp; [IndoML 2024](https://indoml.in/index.php) Travel Grant Awarded to Gourav, Mahim, and Prakhar to present their work on LLMs. Congrats all!
   * &#91; 2024.07 &#93; &nbsp; Congrats Sayan for securing the competitive on-site internship at AWL Inc., Japan!
  * &#91; 2024.07 &#93; &nbsp; Congrats Sharath for securing  AI internship at Google!
