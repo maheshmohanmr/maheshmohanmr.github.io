@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+  * &#91; 2025.03 &#93; &nbsp; Prof. Mahesh will be serving as Technical Program Committee (TPC) Vice-Chair for [IEEE INDISCON-2025](https://www.ieeeindiscon.org/). 
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research!
  * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research!
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing  AI internship at Intel!
@@ -40,7 +41,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  * &#91; 2024.07 &#93; &nbsp; Congrats Bibhabasu and Rahul for securing  AI internship at Adobe!
  * &#91; 2024.07 &#93; &nbsp; Congrats Manish for securing  AI internship at Amazon!
   * &#91; 2024.07 &#93; &nbsp; Prakhar joined the Technical Team for LLMs in Datathon, [IndoML'2024](https://indoml.in). 
- * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as a Datathon Chair for [IndoML'2024](https://indoml.in). 
+ * &#91; 2024.06 &#93; &nbsp; Prof. Mahesh will be serving as Datathon Chair for [IndoML'2024](https://indoml.in). 
  * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Senior Data Scientist. Best Wishes Amara!
  * &#91; 2024.04 &#93; &nbsp;  Congrats Amara for receiving the prestigious [UG Chanakya Fellowship](https://ai4icps.in/technology-1) award! 
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
