@@ -228,7 +228,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                  <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971; 
                 [Chanakya Research Fellowship Award 2024; Placed as Senior Data Scientist in MakeMyTrip]  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024).
              </li>
-                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> &#9971; [AI Internship in University of Tartu](IIT Kharagpur, Joint B-Tech  M-Tech, Naval Engineering, Jan 2024 - May 2024).
+                <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> &#9971;&#9971; [AI Internship in University of Tartu; Placed as Data Scientist in Axis Bank](IIT Kharagpur, Joint B-Tech  M-Tech, Naval Engineering, Jan 2024 - May 2024).
              </li>
               </ol>
   </p>
