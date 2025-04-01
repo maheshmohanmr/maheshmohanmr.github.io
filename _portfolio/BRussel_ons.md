@@ -1,6 +1,6 @@
 ---
-title: "John Bardeen - Two-time Nobel Laureate (23 May 1908 – 30 Jan  1991)"
-excerpt: "Always right there in the trenches until death do us part!  <br/><img src='/images/brussle_ons.jpeg' width='800'>"
+title: "Betrand Russell - Nobel Laureate (18 May 1872 – 2 Feb 1970)"
+excerpt: "Ask yourself only what are the facts and what is the truth that the facts bear out.  <br/><img src='/images/brussle_ons.jpeg' width='800'>"
 collection: portfolio
 ---
 
