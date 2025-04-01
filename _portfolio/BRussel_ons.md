@@ -6,6 +6,7 @@ collection: portfolio
 
 
 
+From the interview of Bertrand Russell - Message To Future Generations (1959). 
 
 
 > I should like to say two things, one intellectual and one moral. The intellectual thing I should want to say is this: When you are studying any matter, or considering any philosophy, ask yourself only what are the facts and what is the truth that the facts bear out. Never let yourself be diverted either by what you wish to believe, or by what you think would have beneficent social effects if it were believed. But look only, and solely, at what are the facts. That is the intellectual thing that I should wish to say.
