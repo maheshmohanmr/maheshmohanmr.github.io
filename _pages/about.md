@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+  * &#91; 2025.04 &#93; &nbsp; Prof. Mahesh will be serving as a  Datathon Chair for [IndoML 2025](https://indoml.in/index.php). 
   * &#91; 2025.03 &#93; &nbsp; Prof. Mahesh will be serving as Technical Program Committee (TPC) Vice-Chair for [IEEE INDISCON-2025](https://www.ieeeindiscon.org/). 
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research!
  * &#91; 2025.01 &#93; &nbsp; Congrats Rahul for securing the IndiaAI Research fellowship for his ongoing research!
