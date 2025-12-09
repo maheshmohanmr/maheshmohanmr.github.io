@@ -28,6 +28,9 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+  * Placements: Harsh to Apple, Sharath S to Google, Aaryan to Amazon, Ram to EY, Divyanshu to Navi. Congrats all!
+  *  &#91; 2024.9 &#93; &nbsp; Sayan Manna presenting his work in [IndoML 2025](https://indoml.in/index.php). Congrats!
+  * &#91; 2024.9 &#93; &nbsp; [IndoML 2025](https://indoml.in/index.php) Travel Grant Awarded to Sayan Ghosh, Sayan Manna, Biswamitra, Aasutosh and Nipun. Congrats all!
   * &#91; 2025.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2025](https://indoml.in/index.php). 
   * &#91; 2025.03 &#93; &nbsp; Prof. Mahesh will be serving as Technical Program Committee (TPC) Vice-Chair for [IEEE INDISCON-2025](https://www.ieeeindiscon.org/). 
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research!
