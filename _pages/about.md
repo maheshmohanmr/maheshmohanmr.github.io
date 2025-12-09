@@ -29,7 +29,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
 
  <strong>News<strong>:
   * &#91; 2024.12 &#93; Placements: Harsh to Apple, Sharath S to Google, Aaryan to Amazon, Sayan Ghosh to Samsung, Ram to EY, Divyanshu to Navi. Congrats all!
-  * * &#91; 2024.12 &#93; Prof. Mahesh will be serving as an Organizing Faculty Member of [Smart India Hackathon](https://www.sih.gov.in/).
+  * &#91; 2024.12 &#93; Prof. Mahesh will be serving as an Organizing Faculty Member of [Smart India Hackathon](https://www.sih.gov.in/).
   *  &#91; 2024.9 &#93; &nbsp; Sayan Manna presenting his work in [IndoML 2025](https://indoml.in/index.php). Congrats!
   * &#91; 2024.9 &#93; &nbsp; [IndoML 2025](https://indoml.in/index.php) Travel Grant Awarded to Sayan Ghosh, Sayan Manna, Biswamitra, Aasutosh and Nipun. Congrats all!
   * &#91; 2025.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2025](https://indoml.in/index.php). 
