@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ &#91; 2025.12 &#93; Sayan Manna has been awarded the Third Poster Prize for his research at the [IndoML 2025](https://indoml.in/index.php). Congrats [Sayan](https://www.linkedin.com/posts/ai-iitkgp_we-are-happy-to-share-that-sayan-manna-a-activity-7409590918678343680-RVjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweqeoB6cYsrIpV-gIPhhSpwvwI69KvEU4)!
   * &#91; 2025.12 &#93; Placements: Harsh to Apple, Sharath S to Google, Aaryan to Amazon, Sayan Ghosh to Samsung, Ram to EY, Divyanshu to Navi. Congrats all!
   * &#91; 2025.12 &#93; Prof. Mahesh will be serving as an Organizing Faculty Member of [Smart India Hackathon](https://www.sih.gov.in/).
   *  &#91; 2025.9 &#93; &nbsp; Sayan Manna presenting his work in [IndoML 2025](https://indoml.in/index.php). Congrats!
