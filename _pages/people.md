@@ -117,6 +117,12 @@ details {
                    </ol> -->
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
+                  <li> 
+                   Aashutosh Joshi (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
+                      </li>  
+                     <li> 
+                   Nipun Bharadwaj (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
+                      </li>
                 <li>
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
@@ -135,12 +141,6 @@ details {
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                       </li> 
-                   <li> 
-                   Aashutosh Joshi (IIT Kharagpur,  Joined - Oct 2024) 
-                      </li>  
-                     <li> 
-                   Nipun Bharadwaj (IIT Kharagpur,  Joined - Oct 2024) 
-                      </li>
                       <li> 
                    Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
                       </li>
