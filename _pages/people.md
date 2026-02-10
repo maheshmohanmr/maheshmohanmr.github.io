@@ -137,9 +137,6 @@ details {
                  <ol>
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                      </li> 
-                    <li> 
-                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>                 
               </ol>
                                         <heading>Vacancies</heading>
@@ -224,6 +221,9 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
   </summary>
   <p>
      <ol>  
+        <li> 
+                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
+                      </li> 
        <li> 
            <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
              </li>     
