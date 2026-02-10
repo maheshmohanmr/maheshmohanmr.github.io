@@ -141,7 +141,7 @@ details {
                    Aashutosh Joshi &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
                       </li>  
                      <li> 
-                   Nipun Bharadwaj &#9971; [IndoMl-20 Grad Forum Grant] (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
+                   Nipun Bharadwaj &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
                       </li>
                 <li>
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)
