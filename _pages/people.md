@@ -117,6 +117,31 @@ details {
                    </ol> -->
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
+                   <li> 
+                   Akash Roy  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - Jan 2026) 
+                      </li> 
+                  <li>
+                  Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
+                </li>
+                  <li>
+                  Sayan Manna (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
+                </li>
+                 <li>
+                  Sayan Manna (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025)
+                </li>
+                  <li> 
+                   Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+                  <li> 
+                   Yash Mohan Jadhav  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+                  <li> 
+                   Harsh Satish Kesharwani  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+                  <li> 
+                    <li> 
+                   Siddharth Singh Kiryal  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
                   <li> 
                    Aashutosh Joshi (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
                       </li>  
@@ -124,13 +149,13 @@ details {
                    Nipun Bharadwaj (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
                       </li>
                 <li>
-                  Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
+                  Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)
                 </li>
                 <li>
-                  Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                  Divyanshu Vaibhav (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
                 </li>
                  <li>
-                  Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
+                  Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
                 </li>
                </ol>
   <h3>Interns</h3>
