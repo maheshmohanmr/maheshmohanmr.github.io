@@ -142,7 +142,7 @@ details {
                    Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>                 
                    
-                    <!--  <li> 
+                    <!-- <li> 
                    Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
                       </li>
                     <li> 
