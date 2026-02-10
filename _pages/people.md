@@ -137,7 +137,6 @@ details {
                   <li> 
                    Harsh Satish Kesharwani  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
-                  <li> 
                     <li> 
                    Siddharth Singh Kiryal  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
