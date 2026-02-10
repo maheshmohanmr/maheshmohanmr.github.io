@@ -135,13 +135,14 @@ details {
                </ol>
   <h3>Interns</h3>
                  <ol>
-                    <li> 
-                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
-                      </li>                 
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                       </li> 
-                      <li> 
+                    <li> 
+                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
+                      </li>                 
+                   
+                    <!--  <li> 
                    Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
                       </li>
                     <li> 
@@ -155,7 +156,7 @@ details {
                       </li>  
                      <li> 
                    Arkapratim Debnath (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li>
+                      </li> -->
               </ol>
                                         <heading>Vacancies</heading>
               <p>
