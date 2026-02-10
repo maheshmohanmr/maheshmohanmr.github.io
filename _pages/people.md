@@ -120,49 +120,13 @@ details {
                 <li>
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Electrical Engineering, Joined - Mar 2024)
                 </li>
-                 <li>
-                  Ayan Singha &#9971; [Internship in Varaha -- AI+Agri firm](IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
-                </li>
-                <li>
-                  Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
-                </li>
                 <li>
                   Divyanshu Vaibhav (IIT Kharagpur, B-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
                  <li>
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
-                 <li>
-                  Arjun Singh &#9971; &#9971; [Internship in Intel; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
-                </li>
-                    <li> 
-            Gajarlawar Veer Vilas &#127942;  [Publication in  Sensors-2024] (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S, Kannur Univ</a>]
-             </li>
-                  <li>
-                  Rahul R &#9971; &#9971; [Internship in Adobe; IndiaAI Research Fellowship] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
-                </li>
-                 <li>
-                  Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                </li>
-                   <li>
-                  Mahim Jain  &#9971; &#9971; [IndoML-2024 travel grant, Placed as AI Researcher in KPIT Tech] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
-                </li>
-                 <li>
-                 Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
-                </li>
-                 <li>
-                 Vamshi Krishna &#9971; [Placed as AI Researcher in 64squares] (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                </li>
-          <li>   
-Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
-                      </li>   
-                               <li>   
-Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
-                      </li>         
-                    <li>   
- Bade Praveen (IIT Kharagpur, IDDP; Joined - Jan 2025) 
-                      </li>         
-                       </ol>
+               
   <h3>Interns</h3>
                  <ol>
                     <li> 
@@ -225,6 +189,42 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
   </summary>
   <p>
      <ol>
+         <li>
+                  Arjun Singh &#9971; &#9971; [Internship in Intel; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Geology and Geophysics, Joined - May 2024) 
+                </li>
+                    <li> 
+            Gajarlawar Veer Vilas &#127942;  [Publication in  Sensors-2024] (IIT Kharagpur,  Joined - May 2024) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S, Kannur Univ</a>]
+             </li>
+                  <li>
+                  Rahul R &#9971; &#9971; [Internship in Adobe; IndiaAI Research Fellowship] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, Joined - June 2024)
+                </li>
+                 <li>
+                  Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                </li>
+                   <li>
+                  Mahim Jain  &#9971; &#9971; [IndoML-2024 travel grant, Placed as AI Researcher in KPIT Tech] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                </li>
+                 <li>
+                 Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
+                </li>
+                 <li>
+                 Vamshi Krishna &#9971; [Placed as AI Researcher in 64squares] (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                </li>
+          <li>   
+Md Tauheed Ansari (IIT Kharagpur, IDDP, Dept of Agriculture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>]
+                      </li>   
+                               <li>   
+Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Joined - Jan 2025) [Jointly with <a href="https://ece.illinois.edu/about/directory/faculty/n-ahuja">Prof. Narendra Ahuja, UIUC</a> and <a href="https://dms.hms.harvard.edu/people/yogesh-rathi">Prof. Yogesh Rathi, Harvard Medical School</a>] 
+                      </li>         
+                    <li>   
+ Bade Praveen (IIT Kharagpur, IDDP; Joined - Jan 2025) 
+                      </li>         
+        <li>
+                  Ayan Singha &#9971; [Internship in Varaha -- AI+Agri firm](IIT Kharagpur, Joint B-Tech M-Tech, Agricultural Engineering, Joined - Mar 2024)
+                </li>
+                <li>
+                  Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
+                </li>
                  <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971; 
                 [Chanakya Research Fellowship Award 2024; Placed as Senior Data Scientist in MakeMyTrip]  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024).
              </li>
