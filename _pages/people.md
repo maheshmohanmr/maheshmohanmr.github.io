@@ -141,22 +141,6 @@ details {
                     <li> 
                    Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  Joined - June 2024)
                       </li>                 
-                   
-                    <!-- <li> 
-                   Aditya Ghandge (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li>
-                    <li> 
-                   Sahil Ranjan (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li>  
-                     <li> 
-                   Snehal Pal (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li>
-                    <li> 
-                   Abhishek Saha (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li>  
-                     <li> 
-                   Arkapratim Debnath (IIT Kharagpur,  Joined - Jan 2025) 
-                      </li> -->
               </ol>
                                         <heading>Vacancies</heading>
               <p>
