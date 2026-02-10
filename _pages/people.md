@@ -122,11 +122,8 @@ details {
                   <li>
                   Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
-                  <li>
-                  Sayan Manna (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
-                </li>
                  <li>
-                  Sayan Manna (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025)
+                  Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025)
                 </li>
                   <li> 
                    Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
@@ -135,16 +132,16 @@ details {
                    Yash Mohan Jadhav  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
                   <li> 
-                   Harsh Satish Kesharwani  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                   Harsh Satish Kesharwani &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
                     <li> 
-                   Siddharth Singh Kiryal  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                   Siddharth Singh Kiryal &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
                   <li> 
-                   Aashutosh Joshi (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
+                   Aashutosh Joshi &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
                       </li>  
                      <li> 
-                   Nipun Bharadwaj (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
+                   Nipun Bharadwaj &#9971; [IndoMl-20 Grad Forum Grant] (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
                       </li>
                 <li>
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)
