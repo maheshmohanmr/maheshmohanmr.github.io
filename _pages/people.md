@@ -126,7 +126,7 @@ details {
                  <li>
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Chemical Engineering, Joined - May 2024)
                 </li>
-               
+               </ol>
   <h3>Interns</h3>
                  <ol>
                     <li> 
