@@ -33,8 +33,8 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  * &#91; 2025.12 &#93; &nbsp; Sayan Manna has been awarded the Third Poster Prize in [IndoML 2025](https://indoml.in/index.php). Congrats Sayan! [(Picture)](https://www.linkedin.com/posts/ai-iitkgp_we-are-happy-to-share-that-sayan-manna-a-activity-7409590918678343680-RVjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweqeoB6cYsrIpV-gIPhhSpwvwI69KvEU4)
   * &#91; 2025.12 &#93; &nbsp; Placements: Harsh to Apple, Sharath S to Google, Aaryan to Amazon, Sayan Ghosh to Samsung, Ram to EY, Divyanshu to Navi. Congrats all!
   * &#91; 2025.12 &#93; &nbsp; Prof. Mahesh will be serving as an Organizing Faculty Member of [Smart India Hackathon](https://www.sih.gov.in/).
-  *  &#91; 2025.9 &#93; &nbsp; Sayan Manna presenting his work in [IndoML 2025](https://indoml.in/index.php). Congrats!
-  * &#91; 2025.9 &#93; &nbsp; [IndoML 2025](https://indoml.in/index.php) Travel Grant Awarded to Sayan Ghosh, Sayan Manna, Biswamitra, Aasutosh and Nipun. Congrats all!
+  *  &#91; 2025.09 &#93; &nbsp; Sayan Manna presenting his work in [IndoML 2025](https://indoml.in/index.php). Congrats!
+  * &#91; 2025.09 &#93; &nbsp; [IndoML 2025](https://indoml.in/index.php) Travel Grant Awarded to Sayan Ghosh, Sayan Manna, Biswamitra, Aasutosh and Nipun. Congrats all!
   * &#91; 2025.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2025](https://indoml.in/index.php). 
   * &#91; 2025.03 &#93; &nbsp; Prof. Mahesh will be serving as Technical Program Committee (TPC) Vice-Chair for [IEEE INDISCON-2025](https://www.ieeeindiscon.org/). 
  * &#91; 2025.01 &#93; &nbsp; Congrats Arjun for securing the IndiaAI Research fellowship for his ongoing research!
