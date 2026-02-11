@@ -145,7 +145,7 @@ details {
                       </li>
                 <li>
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)
-                </li>
+                </li> [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                 <li>
                   Divyanshu Vaibhav (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
                 </li>
