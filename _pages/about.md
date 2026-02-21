@@ -28,7 +28,9 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for bagging the PhD offer from Univ of Washington!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
+  * * &#91; 2026.02 &#93; &nbsp;  Prof. Mahesh will be serving as an Organizer of [IndiaAI presummit Workshop]([IndiaAI AI](https://ais.cse.iitkgp.ac.in/)).
  * &#91; 2026.01 &#93; &nbsp; Congrats Siddharth for securing the IndiaAI Research fellowship for his ongoing research!
  * &#91; 2025.12 &#93; &nbsp; Sayan Manna has been awarded the Third Poster Prize in [IndoML 2025](https://indoml.in/index.php). Congrats Sayan! [(Picture)](https://www.linkedin.com/posts/ai-iitkgp_we-are-happy-to-share-that-sayan-manna-a-activity-7409590918678343680-RVjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweqeoB6cYsrIpV-gIPhhSpwvwI69KvEU4)
   * &#91; 2025.12 &#93; &nbsp; Placements: Harsh to Apple, Sharath S to Google, Aaryan to Amazon, Sayan Ghosh to Samsung, Ram to EY, Divyanshu to Navi. Congrats all!
