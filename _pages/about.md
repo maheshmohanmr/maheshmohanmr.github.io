@@ -28,7 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
-  * &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for bagging the PhD offer from Univ of Washington!
+  * &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for bagging the PhD offer from Univ of Washington, US!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
   *  &#91; 2026.02 &#93; &nbsp;  Prof. Mahesh will be serving as an Organizer of [IndiaAI presummit Workshop](https://ais.cse.iitkgp.ac.in/).
  * &#91; 2026.01 &#93; &nbsp; Congrats Siddharth for securing the IndiaAI Research fellowship for his ongoing research!
