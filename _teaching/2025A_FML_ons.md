@@ -9,7 +9,7 @@ location: "India"
 ---
 Course Overview: <a href="../files/2025A_FML_Moodle_ons.pdf">Moodle Snapshot</a>
 <span style="float:right;">
-       Course Projects (Open-ended):  Rank1<a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>  <a href="https://colab.research.google.com/drive/1af44GQfS6STH4vzQflKOjw6Ewnuj3tgG?usp=sharing">&#91;Rank-2&#93;</a>  <a href="https://colab.research.google.com/drive/16QjLxvbEnptP1JrAPurNaHrf47NRJKuA?usp=sharing">&#91;Rank-3&#93;</a> 
+       Course Projects (Open-ended):  Rank1:<a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>  <a href="https://colab.research.google.com/drive/1af44GQfS6STH4vzQflKOjw6Ewnuj3tgG?usp=sharing">&#91;Rank-2&#93;</a>  <a href="https://colab.research.google.com/drive/16QjLxvbEnptP1JrAPurNaHrf47NRJKuA?usp=sharing">&#91;Rank-3&#93;</a> 
     </span>
 <p>
 Teaching Distribution: Sole Instructor. 
