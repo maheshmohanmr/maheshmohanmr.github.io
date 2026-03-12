@@ -9,7 +9,7 @@ location: "India"
 ---
 Course Overview: <a href="../files/2025A_FML_Moodle_ons.pdf">Moodle Snapshot</a>
 <span style="float:right;">
-       Course Projects:  Rank1:<a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>   Rank2:<a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>  Rank3:<a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>
+       Course Projects:  Rank1:<a href="../files/2025A_first_slide.pdf">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>   Rank2:<a href="../files/2025A_second_slide.pdf">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>  Rank3:<a href="../files/2025A_third_slide.pdf">&#91;Slide&#93;</a><a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Code&#93;</a>
     </span>
 <p>
 Teaching Distribution: Sole Instructor. 
