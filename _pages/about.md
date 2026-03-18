@@ -28,7 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
- * &#91; 2026.03 &#93; &nbsp; Got awarded [ISRO project](https://www.isro.gov.in/) with Prof. Adway Mitra (IIT KGP) and Mr. Dhiroj Behera (Scientist-SE, ISRO). 
+ * &#91; 2026.03 &#93; &nbsp; Got awarded [ISRO project](https://www.isro.gov.in/) (3 yrs) with Prof. Adway Mitra (IIT KGP) and Mr. Dhiroj Behera (Scientist-SE, ISRO). 
   * &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for bagging the PhD offers from Univ of Washington and National Univ Singapore!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
   *  &#91; 2026.02 &#93; &nbsp;  Prof. Mahesh will be serving as an Organizer of [IndiaAI presummit Workshop](https://ais.cse.iitkgp.ac.in/).
