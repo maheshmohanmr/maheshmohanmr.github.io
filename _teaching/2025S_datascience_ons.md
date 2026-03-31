@@ -12,9 +12,6 @@ Course Overview: <a href="../files/Teaching_DS_2025S_ons.pdf">Moodle Snapshot</a
        Course Projects (Open-ended):  <a href="https://colab.research.google.com/drive/1rrTGboJ7aiTUwuVp_wXVbJms6r9OUN3l?usp=sharing">&#91;Rank-1&#93;</a>  <a href="https://colab.research.google.com/drive/1af44GQfS6STH4vzQflKOjw6Ewnuj3tgG?usp=sharing">&#91;Rank-2&#93;</a>  <a href="https://colab.research.google.com/drive/16QjLxvbEnptP1JrAPurNaHrf47NRJKuA?usp=sharing">&#91;Rank-3&#93;</a> 
 </p>
 <p>
-Teaching Distribution:  
-</p>
-<p>
 Logistics: Sole Instructor; Weekly 3 hrs lecture + 1 hr Tutorial; Credits: 4
 </p>
 <p>
