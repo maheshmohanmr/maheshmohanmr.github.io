@@ -28,7 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
- * &#91; 2026.04 &#93; &nbsp; &#x2728; sdaf
+ * &#91; 2026.04 &#93; &nbsp; &#x2728; Paper by Kunal, Chirayu, and Jatin accepted for poster presentation at ICML 2015, Seoul, S. Korea. Congrats!
  * &#91; 2026.03 &#93; &nbsp; Got awarded [ISRO project grant](https://www.isro.gov.in/)  (3 yrs) with Prof. Adway Mitra and Mr. Dhiroj Behera (Scientist-SE, ISRO). 
   * &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for bagging the PhD offers from Univ of Washington and National Univ Singapore!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
