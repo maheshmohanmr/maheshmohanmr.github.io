@@ -94,6 +94,10 @@ details {
 <h2>Current Members</h2>
 <h3>Faculty</h3> 
 <p> <a href="https://maheshmohanmr.github.io">Mahesh Mohan M R</a> received his Ph.D  from the  Indian Institute of Technology, Madras. Thereafter, he  joined the University of Illinois Urbana-Champaign, US in April 2021 and was a postdoctoral researcher till July 2023. He joined the Centre of Excellence in AI, IIT Kharagpur as an Assistant Professor in August 2023. He leads the Signal Processing and Artificial Intelligence (SPAI) group  at IIT-Kharagpur. His research interests include Computer Vision, Signal Processing, and Artificial Intelligence. He serves as a reviewer in various top-tier conferences and journals, and has publications in top tier venues including CVPR, ICCV, ECCV, and TIP. His teaching subjects at IIT Kharagpur include Introduction to Data Science, Machine Learning Foundations and Application, Deep Learning Foundations and Applications, and Linear Algebra for AI and ML.</p>
+<h3>PostDoc</h3>
+  <ol>
+  <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/neha_ons.jpg" alt="NH."></a>  Dr. Damalla Rambabu (Joined April 2026)[Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Debaditya Roy, IIT KGP</a>]   </li> </p>	
+ </ol>
    <h3>Ph.D</h3>
   <ol>
   <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/neha_ons.jpg" alt="NH."></a>  Neha Kumari (Joined July 2024)  </li> </p>	
@@ -123,7 +127,7 @@ details {
                   Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
                  <li>
-                  Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="[https://sites.google.com/view/kiranv?pli=1](https://cse.iitkgp.ac.in/~spp/)"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
+                  Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
                 </li>
                   <li> 
                    Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
