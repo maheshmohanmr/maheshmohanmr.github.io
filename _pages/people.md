@@ -162,7 +162,10 @@ details {
                  <ol>
                      <li> 
                    Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                      </li>                 
+                      </li>        
+                   <li> 
+                   Nikhil Kowshik (IIT Kharagpur,  Joined - Jan 2026) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
+                      </li>     
               </ol>
                                         <heading>Vacancies</heading>
               <p>
