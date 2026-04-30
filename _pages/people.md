@@ -119,11 +119,32 @@ details {
                  <li>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a>  (Joined January 2025)[WP - TIAA]
                     </li>
                    </ol> -->
-  <h3>B-Tech and M-Tech/MSc</h3>
+  <h3>Masters</h3>
                <ol>
                    <li> 
                    Akash Roy  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - Jan 2026) 
-                      </li> 
+                      </li>
+                  <li>
+                  Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
+                </li>
+                 <li>
+                  Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
+                </li>
+                  <li> 
+                   Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                      </li>  
+                  <li> 
+                   Yash Mohan Jadhav  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+                  <li> 
+                   Harsh Satish Kesharwani &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+                    <li> 
+                   Siddharth Singh Kiryal &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
+                      </li>  
+               </ol>
+  <h3>B-Tech and M-Tech/MSc</h3>
+               <ol>
                   <li>
                   Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
