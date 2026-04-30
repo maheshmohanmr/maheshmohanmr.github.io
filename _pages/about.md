@@ -60,11 +60,13 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
   * &#91; 2022.05 &#93; &nbsp; Two journal papers got accepted ([Signal processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) and [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)).
   * &#91; 2021.08 &#93; &nbsp; Invited reviewer for the [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
+  * &#91; 2021.04 &#93; &nbsp; B-Tech student [Nithin GK](https://nithin-gk.github.io) worked with me in IEEE-TIP got PhD offer from John Hopkins Univ, US.
    * &#91; 2021.04 &#93; &nbsp; One paper is accepted in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
   * &#91; 2020.07 &#93; &nbsp; Worked in Virtual Reality for IIT-M Convocation ([Snapshot](https://www.youtube.com/watch?v=xe79RbOzKnw), [Media](https://www.newindianexpress.com/cities/chennai/2020/oct/26/iit-madras-convocation-held-technology-gives-event-a-touch-of-reality-2215003.html), [Appraisal](https://www.youtube.com/watch?v=kPBeXzUG_MA&feature=youtu.be&t=4064)).
   * &#91; 2019.11 &#93; &nbsp; Invited reviewer for the Int'l journal [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding).
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium), Seoul, S. Korea.
-  * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19 	(4.3% acceptance rate).
+  * &#91;	2019.06 &#93; &nbsp; B-Tech student [Sharth Girish](https://sharath-girish.github.io/) worked with me in ICCV-19 got PhD offer from Univ of Maryland, US.
+  * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19, Seoul, S. Korea. 	(4.3% acceptance rate).
   * &#91;	2018.12 &#93; &nbsp; Invited speaker at [ICVGIP-18](https://cvit.iiit.ac.in/icvgip18/), "Light Field Deblurring", Hyderabad, India.
   * &#91;	2018.04 &#93; &nbsp; <q>Two</q> papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
    * &#91;	2017.12 &#93; &nbsp; Invited speaker at [NCVPRIPG-17](http://ncvpripg.iitmandi.ac.in/), "RS Cameras", Himachal Pradesh, India.
