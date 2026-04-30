@@ -119,7 +119,7 @@ details {
                  <li>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a>  (Joined January 2025)[WP - TIAA]
                     </li>
                    </ol> -->
-  <h3>Masters (M-Tech/MSc)</h3>
+  <h3>Masters (MTech/MSc)</h3>
                <ol>
                    <li> 
                    Akash Roy  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - Jan 2026) 
@@ -152,7 +152,7 @@ details {
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
                 </li>
                </ol>
-  <h3>Under Graduate (B-Tech/BSc)</h3>
+  <h3>Under Graduate (BTech/BSc)</h3>
                <ol>
                   <li> 
                    Aashutosh Joshi &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
@@ -197,8 +197,26 @@ details {
   </p>
 </details>
 <details>
+   <summary>
+     <b>Masters (MTech/MSc)</b>
+  </summary>
+  <p>
+    <ol>
+                <li>
+                  Mahim Jain  &#9971; &#9971; [IndoML-2024 travel grant, Placed as AI Researcher in KPIT Tech] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
+                </li>
+                 <li>
+                 Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
+                </li>
+        <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971; 
+                [Chanakya Research Fellowship Award 2024; Placed as Senior Data Scientist in MakeMyTrip]  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024).
+             </li>
+     </ol>
+  </p>
+</details>
+<details>
   <summary>
-     <b>B-Tech and M-Tech/MSc</b> 
+     <b>Under Graduate (BTech/BSc)</b> 
   </summary>
   <p>
      <ol>
@@ -213,12 +231,6 @@ details {
                 </li>
                  <li>
                   Ashmit A Raj  (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - June 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                </li>
-                   <li>
-                  Mahim Jain  &#9971; &#9971; [IndoML-2024 travel grant, Placed as AI Researcher in KPIT Tech] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - June 2024)
-                </li>
-                 <li>
-                 Gourav Pathak &#9971; [IndoML-2024 travel grant] (IIT Kharagpur, Integrated Dual Degree, Artificial Intelligence, Joined - July 2024)
                 </li>
                  <li>
                  Vamshi Krishna &#9971; [Placed as AI Researcher in 64squares] (IIT Kharagpur, B-Tech, Mechanical Engineering, Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
@@ -238,9 +250,6 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, &#9973; Join
                 <li>
                   Jay Godara (IIT Kharagpur, Joint B-Tech M-Tech, Bioscience and Biotechnology, Joined - Mar 2024)
                 </li>
-                 <li> <a href="https://www.linkedin.com/in/amara-datta-dola-6158b01b6/?originalSubdomain=in">Amara Datta</a> &#9971;&#9971; 
-                [Chanakya Research Fellowship Award 2024; Placed as Senior Data Scientist in MakeMyTrip]  (IIT Kharagpur, MSc, Mathematics and Computing, Aug 2023 - May 2024).
-             </li>
                 <li> <a href="https://www.linkedin.com/in/johaan-george/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">Johaan George</a> &#9971;&#9971; [AI Internship in University of Tartu; Placed as Data Scientist in Axis Bank](IIT Kharagpur, Joint B-Tech  M-Tech, Naval Engineering, Jan 2024 - May 2024).
              </li>
               </ol>
