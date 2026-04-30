@@ -119,7 +119,7 @@ details {
                  <li>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a>  (Joined January 2025)[WP - TIAA]
                     </li>
                    </ol> -->
-  <h3>Masters (MTech/MSc)</h3>
+  <h3>Masters (M.Tech/M.Sc.)</h3>
                <ol>
                    <li> 
                    Akash Roy  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - Jan 2026) 
@@ -152,7 +152,7 @@ details {
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
                 </li>
                </ol>
-  <h3>Under Graduate (BTech/BSc)</h3>
+  <h3>Under Graduate (B.Tech/B.Sc.)</h3>
                <ol>
                   <li> 
                    Aashutosh Joshi &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
@@ -198,7 +198,7 @@ details {
 </details>
 <details>
    <summary>
-     <b>Masters (MTech/MSc)</b>
+     <b>Masters (M.Tech/M.Sc.)</b>
   </summary>
   <p>
     <ol>
@@ -216,7 +216,7 @@ details {
 </details>
 <details>
   <summary>
-     <b>Under Graduate (BTech/BSc)</b> 
+     <b>Under Graduate (B.Tech/B.Sc.)</b> 
   </summary>
   <p>
      <ol>
