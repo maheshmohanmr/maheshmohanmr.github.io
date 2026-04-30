@@ -160,7 +160,6 @@ details {
                      <li> 
                    Nipun Bharadwaj &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
                       </li>
-                
                </ol>
   <h3>Interns</h3>
                  <ol>
