@@ -142,6 +142,15 @@ details {
                     <li> 
                    Siddharth Singh Kiryal &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) 
                       </li>  
+                 <li>
+                  Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)  [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                </li>
+                <li>
+                  Divyanshu Vaibhav (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
+                </li>
+                 <li>
+                  Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
+                </li>
                </ol>
   <h3>B-Tech and M-Tech/MSc</h3>
                <ol>
@@ -169,15 +178,7 @@ details {
                      <li> 
                    Nipun Bharadwaj &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur,  B-Tech, Dept of Agriculture, Joined - Oct 2024) 
                       </li>
-                <li>
-                  Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)  [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
-                </li>
-                <li>
-                  Divyanshu Vaibhav (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
-                </li>
-                 <li>
-                  Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
-                </li>
+                
                </ol>
   <h3>Interns</h3>
                  <ol>
