@@ -127,6 +127,9 @@ details {
                   <li>
                   Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
+                  <li>
+                  Aaryan Sameer Javalekar (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
+                </li>
                  <li>
                   Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
                 </li>
