@@ -152,7 +152,7 @@ details {
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
                 </li>
                </ol>
-  <h3>Under Graduates (B-Tech/BSc)</h3>
+  <h3>Under Graduate (B-Tech/BSc)</h3>
                <ol>
                   <li> 
                    Aashutosh Joshi &#9971; [IndoMl-25 Grad Forum Grant] (IIT Kharagpur, B-Tech, Dept of Agriculture,  Joined - Oct 2024) 
