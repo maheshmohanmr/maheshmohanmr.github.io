@@ -100,7 +100,7 @@ details {
  </ol>
    <h3>Ph.D</h3>
   <ol>
-  <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/neha_ons.jpg" alt="NH."></a>  Neha Kumari (Joined July 2024)  </li> </p>	
+  <p><li><a href="https://www.linkedin.com/in/dsffgs/"> <img width=110 src="../images/neha_ons.jpg" alt="NH."></a>  Neha Kumari (Joined July 2024) <br> Line 2 </li> </p>	
   <p><li><a href="https://www.linkedin.com/in/biswamitra-mitra-83532b204/?originalSubdomain=in"> <img width=110 src="../images/biswamitra_ons.jpg" alt="NH."></a>  Biswamitra Mitra (Joined July 2024)  </li> </p>	
   <p><li><a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in"> <img width=110 src="../images/kunal_ons.jpg" alt="NH."></a>  <a href="https://www.linkedin.com/in/kunal-pimparkhede/?originalSubdomain=in">Kunal Pimparkhede</a> (Joined January 2025) [WP - Director at <a href="https://www.tiaa.org/public"> TIAA</a>] <br> &#x2728; ICML-2026 (CORE-A*), Seoul, S. Korea</li> </p>
     <p><li><a href="https://www.linkedin.com/in/anupamkhan/"> <img width=110 src="../images/anupam_ons.jpg" alt="NH."></a>  <a href="https://www.linkedin.com/in/anupamkhan/">Anupam Khan</a> (Joined Jan 2026) [WP - Manager at <a href="https://www.dvc.gov.in/"> DVC</a>][Jointly with <a href="https://niloy-ganguly.github.io/"> Prof. Niloy Ganguly, IIT KGP</a>]  </li> </p>
