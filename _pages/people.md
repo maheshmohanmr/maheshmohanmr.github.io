@@ -265,10 +265,10 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, Jan 2025 - M
   <p>
      <ol>  
         <li> 
-                   Jatin Roy &#x2728; [ICML-26 (CORE-A*)] (VIT Chennai,  April 2025 - August 2025)
+                   <a href="https://www.linkedin.com/in/jatin-roy-7b51a4242/?originalSubdomain=in">Jatin Roy</a> &#x2728; [ICML-26 (CORE-A*)] (VIT Chennai,  April 2025 - August 2025)
                       </li> 
         <li> 
-                   Prakhar Verma &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  June 2024 - May 2025)
+                 <a href="https://www.linkedin.com/in/prakhar-verma-iitkgp/?originalSubdomain=in">Prakhar Verma</a> &#9971; [IndoML-2024 travel grant] (IIT Kharagpur,  June 2024 - May 2025)
                       </li> 
        <li> 
            <a href="https://www.linkedin.com/in/pranit-chaudhary-b414b8286/">Pranit Chaudhary</a> (IIT Kharagpur,  May 2024 - July 2024)
