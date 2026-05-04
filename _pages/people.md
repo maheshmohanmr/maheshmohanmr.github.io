@@ -227,7 +227,7 @@ details {
                   Arjun Singh &#9971; &#9971; [Internship in Intel; IndiaAI Research Fellowship] (IIT Kharagpur, B-Tech, Geology and Geophysics, May 2024 - May 2025) 
                 </li>
                     <li> 
-            Gajarlawar Veer Vilas &#127942;  [Publication in  Sensors-2024] (IIT Kharagpur,  May 2024 - May 2025) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S, Kannur Univ</a>]
+            Gajarlawar Veer Vilas &#9971; [Publication in  Sensors-2024] (IIT Kharagpur,  May 2024 - May 2025) [Jointly with <a href="https://scholar.google.com/citations?user=0RnyeOwAAAAJ&hl=en">Prof. Anjali Devi J S, Kannur Univ</a>]
              </li>
                   <li>
                   Rahul R &#9971; &#9971; [Internship in Adobe; IndiaAI Research Fellowship] (IIT Kharagpur, Joint B-Tech M-Tech, Electrical Engineering, June 2024 - May 2025)
