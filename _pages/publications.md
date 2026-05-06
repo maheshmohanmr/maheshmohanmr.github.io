@@ -178,7 +178,7 @@ author_profile: true
               <br>
               Jiangong Li, Angela R Green-Miller, Xiaodan Hu, Ana Lucic, <strong>Mahesh Mohan M. R.</strong>, Ryan N Dilger, Isabella CFS Condotta, Brian Aldridge, John                M Hart, Narendra Ahuja 
               <br>
-              <em>Computers and Electronics in Agriculture</em>, 2022 (SJR Q1)
+              <em>Computers and Electronics in Agriculture</em>, 2022 (SJR-Q1)
               <br> <a href="../files/CA22_full_ons.pdf">paper</a> 
               <br>
               <p></p>
@@ -211,7 +211,7 @@ author_profile: true
               and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>IEEE Signal Processing Letters</em>, 2022 (SJR Q1)
+              <em>IEEE Signal Processing Letters</em>, 2022 (SJR-Q1)
               <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
               <br>
               <p></p>
