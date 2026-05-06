@@ -74,7 +74,7 @@ author_profile: true
                 <papertitle>Learning the ESG Geometry with Domain Aware Language Models</papertitle>
               </a>
               <br>
-              Kunal Pradeep Pimparkhede, Chirayu Chaurasia, Jatin Roy, Mahesh Mohan M R
+              Kunal Pimparkhede, Chirayu Chaurasia, Jatin Roy, Mahesh Mohan M R
               <br>
               <em>ICML 2026 (CORE-A*) </em> 
               <!-- <br> 
