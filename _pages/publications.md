@@ -56,8 +56,8 @@ author_profile: true
           <tr onmouseout="icml2026_stop()" onmouseover="icml2026_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='icml2026_image'><img src='../files/ICML2026_img2_ons.JPG'></div>
-                <img src='../files/ICML2026_img1_ons.JPG'>
+                <div class="two" id='icml2026_image'><img src='../files/ICML2026_img2_ons.jpg'></div>
+                <img src='../files/ICML2026_img1_ons.jpg'>
               </div>
               <script type="text/javascript">
                 function icml2026_start() {
