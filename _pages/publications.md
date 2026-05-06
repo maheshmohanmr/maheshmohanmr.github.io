@@ -244,7 +244,7 @@ author_profile: true
               G K Nithin, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>IEEE Transactions on Image Processing  </em>, 2021 (SJR Q1)  
+              <em>IEEE Transactions on Image Processing  </em>, 2021 (SJR-Q1)  
               <br> <a href="../files/tip_ons.pdf">paper</a> /
               <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
