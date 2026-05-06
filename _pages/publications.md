@@ -52,6 +52,39 @@ author_profile: true
        </table>
          <table style="width:100%;border: 0px solid black;;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
            <!-- Om Nama Sivaya -->
+           <!-- ICML 2026 ons -->
+          <tr onmouseout="icml2026_stop()" onmouseover="icml2026_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='icml2026_image'><img src='../files/ICML2026_img2_ons.JPG'></div>
+                <img src='../files/ICML2026_img1_ons.JPG'>
+              </div>
+              <script type="text/javascript">
+                function icml2026_start() {
+                  document.getElementById('icml2026_image').style.opacity = "1";
+                }
+                function icml2026_stop() {
+                  document.getElementById('icml2026_image').style.opacity = "0";
+                }
+                icml2026_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Learning the ESG Geometry with Domain Aware Language Models</papertitle>
+              </a>
+              <br>
+              Kunal Pradeep Pimparkhede, Chirayu Chaurasia, Jatin Roy, Mahesh Mohan M R
+              <br>
+              <em>ICML 2026 (CORE-A*) </em> 
+              <!-- <br> 
+              <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
+              <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
+              <br> -->
+              <p></p>
+              <p>an Learning joint temporal embeddings with semantic distillation from multimodal time series </p>
+            </td>
+          </tr>
               <!-- Indoml 2024 ons -->
           <tr onmouseout="indoml2024_stop()" onmouseover="indoml2024_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
