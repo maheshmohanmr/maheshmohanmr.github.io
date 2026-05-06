@@ -82,7 +82,7 @@ author_profile: true
               <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
               <br> -->
               <p></p>
-              <p>Learning joint temporal embeddings with semantic distillation from multimodal time series </p>
+              <p>Learning joint temporal embeddings with semantic distillation from multimodal data </p>
             </td>
           </tr>
               <!-- Indoml 2024 ons -->
