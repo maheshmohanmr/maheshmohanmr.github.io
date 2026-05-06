@@ -76,7 +76,7 @@ author_profile: true
               <br>
               Kunal Pimparkhede, Chirayu Chaurasia, Jatin Roy, Mahesh Mohan M R
               <br>
-              <em>ICML 2026 (CORE-A*) </em> 
+              <em>ICML </em>  2026 (CORE-A*)
               <!-- <br> 
               <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
               <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
@@ -178,7 +178,7 @@ author_profile: true
               <br>
               Jiangong Li, Angela R Green-Miller, Xiaodan Hu, Ana Lucic, <strong>Mahesh Mohan M. R.</strong>, Ryan N Dilger, Isabella CFS Condotta, Brian Aldridge, John                M Hart, Narendra Ahuja 
               <br>
-              <em>Computers and Electronics in Agriculture, 2022</em>
+              <em>Computers and Electronics in Agriculture</em>, 2022 (SJR Q1)
               <br> <a href="../files/CA22_full_ons.pdf">paper</a> 
               <br>
               <p></p>
@@ -211,7 +211,7 @@ author_profile: true
               and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>IEEE Signal Processing Letters, 2022</em>
+              <em>IEEE Signal Processing Letters</em>, 2022 (SJR Q1)
               <br> <a href="../files/SPL2022_full_ons.pdf">paper</a> 
               <br>
               <p></p>
@@ -244,7 +244,7 @@ author_profile: true
               G K Nithin, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>IEEE Transactions on Image Processing </em>, 2021 
+              <em>IEEE Transactions on Image Processing  </em>, 2021 (SJR Q1)  
               <br> <a href="../files/tip_ons.pdf">paper</a> /
               <a href="../files/tip_ons_bib.txt">bib</a> 
               <br>
@@ -312,7 +312,7 @@ author_profile: true
               <a href="https://www.cs.umd.edu/people/sgirish/">Sharath Girish</a>, and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-              <em>ICCV</em>, 2019 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <em>ICCV</em>, 2019 (CORE-A*) &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
               <br> <a href="../files/Mohan_Unconstrained_DL_Cameras_ICCV_2019_paper_merged_ons.pdf">paper</a> /
               <a href="../files/Mohan_Unconstrained_ICCV_2019_talk.pdf">slides</a> / 
               <a href="../files/Mahesh_Unconstrained_ICCV2019_poster.pdf">poster</a> /
@@ -348,7 +348,7 @@ author_profile: true
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-               <em>CVPR</em>, 2018
+               <em>CVPR</em>, 2018  (CORE-A*)
               <br>
               <a href="../files/Mohan_Divide_and_Conquer_CVPR_2018_paper_merged_ons.pdf">paper</a>/
               <a href="https://drive.google.com/file/d/1SbIOWWI4Hvbwe7dvh0m5QYbubDCai1dT/view">slides</a> / 
@@ -387,7 +387,7 @@ author_profile: true
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
- <em>CVPR</em>, 2018
+ <em>CVPR</em>, 2018 (CORE-A*)
               <br>
               <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_paper_merged_ons.pdf">paper</a> / 
               <a href="../files/Vasu_Occlusion-Aware_Rolling_Shutter_CVPR_2018_poster.pdf">poster</a> /
@@ -425,7 +425,7 @@ author_profile: true
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>, and
               <a href="https://www.linkedin.com/in/guna-seetharaman-b4886310/">Guna Seetharaman</a>              
               <br>
-               <em>ICCV</em>, 2017
+               <em>ICCV</em>, 2017 (CORE-A*)
 <br>
               <a href="../files/R._Going_Unconstrained_With_ICCV_2017_paper_merged_ons.pdf">paper</a> /
               <a href="https://drive.google.com/file/d/1y7Eb3jBU756K3mi84gv0DDREvQYGLDs8/view">slides</a> / 
@@ -464,7 +464,7 @@ author_profile: true
                and 
               <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a>
               <br>
-               <em>ECCV</em>, 2016
+               <em>ECCV</em>, 2016 (CORE-A*)
               <br>
               <a href="../files/eccv_paper_merged_ons.pdf">paper</a> /
                <a href="../files/ecc_poster.pdf">poster</a> /
