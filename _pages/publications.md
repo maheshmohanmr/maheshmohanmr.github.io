@@ -76,7 +76,7 @@ author_profile: true
               <br>
               Kunal Pimparkhede, Chirayu Chaurasia, Jatin Roy, Mahesh Mohan M R
               <br>
-              <em>ICML </em>  2026 <span style="background-color: #ffcc00;">(CORE-A*)</span>
+              <em>ICML </em>  2026 <span style="background-color: #ffd700;">(CORE-A*)</span>
               <!-- <br> 
               <a href="../files/Indoml2024_poster_ons.pdf">poster</a> /
               <a href="../files/Indoml2024_slide1_ons.pdf">slide 1</a> / <a href="../files/Indoml2024_slide2_ons.pdf">slide 2</a> 
