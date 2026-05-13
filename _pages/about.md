@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ * &#91; 2026.05 &#93; &nbsp; Congrats Sayan Manna, Divyanshu, and Ram for securing the IndiaAI Research fellowship!
   * &#91; 2026.05 &#93; &nbsp; &#x2728; Paper by Kunal, Chirayu, and Jatin accepted at ICML 2026, Seoul, S. Korea (CORE-A*). Congrats!
  * &#91; 2026.04 &#93; &nbsp; Got awarded [ANRF Early Career Research Grant](https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New)  (3 yrs). 
  * &#91; 2026.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2026](https://indoml.in/index.php). 
