@@ -125,13 +125,13 @@ details {
                    Akash Roy  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - Jan 2026) 
                       </li>
                   <li>
-                  Ram Saini (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
+                  Ram Saini &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
                   <li>
                   Aaryan Sameer Javalekar (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
                  <li>
-                  Sayan Manna &#127942;  [Poster Award in IndoML-2025] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
+                  Sayan Manna &#127942; &#9971; [Poster Award in IndoML-2025; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
                 </li>
                   <li> 
                    Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
@@ -149,7 +149,7 @@ details {
                   Sharath S &#9971; &#9971; [Internship in Google; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Electrical Engineering + AI, Joined - Mar 2024)  [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                 </li>
                 <li>
-                  Divyanshu Vaibhav (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
+                  Divyanshu Vaibhav &#9971; [IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Bioscience and Biotechnology + AI, Joined - Mar 2024)
                 </li>
                  <li>
                   Sayan Ghosh &#9971; &#9971; [International Internship at AWL Japan; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Chemical Engineering + AI, Joined - May 2024)
