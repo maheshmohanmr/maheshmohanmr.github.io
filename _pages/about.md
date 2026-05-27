@@ -28,6 +28,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
+ * &#91; 2026.05 &#93; &nbsp; Congrats Tushti Takur for the PhD offer from the University of California, Riverside, US!
   * &#91; 2026.05 &#93; &nbsp; Recognized with [ICML 2026](https://icml.cc/) Gold Reviewer Award. Thanks to SPAI group for constructive inputs!
  * &#91; 2026.05 &#93; &nbsp; Congrats Sayan Manna, Divyanshu, and Ram for securing the IndiaAI Research fellowships!
   * &#91; 2026.05 &#93; &nbsp; &#x2728; Paper by Kunal, Chirayu, and Jatin accepted at ICML 2026, Seoul, S. Korea (CORE-A*). Congrats!
