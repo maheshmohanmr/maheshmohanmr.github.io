@@ -131,7 +131,7 @@ details {
                   Aaryan Sameer Javalekar (IIT Kharagpur, IDDP, Aerospace Engineering 	 + AI, Joined - July 2025)
                 </li>
                  <li>
-                  Sayan Manna &#127942; &#9971; [Poster Award in IndoML-2025; IndiaAI Research Fellowship] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
+                  Sayan Manna &#127942; &#9971; &#9971; [Poster Award in IndoML-2025; IndiaAI Research Fellowship; PhD to  National Univ Singapore] (IIT Kharagpur, IDDP, Metallurgical and Materials Engineering 	 + AI, Joined - July 2025) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
                 </li>
                   <li> 
                    Jaya Prakash Naidu Lenka  (IIT Kharagpur, M-Tech, Dept of AI,  Joined - July 2025) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
@@ -167,7 +167,7 @@ details {
   <h3>Interns</h3>
                  <ol>
                      <li> 
-                   Tushti Thakur (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                   Tushti Thakur &#9971; [PhD to University of California, Riverside, US](Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                       </li>        
                    <li> 
                    Nikhil Kowshik (IIT Kharagpur,  Joined - Jan 2026) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
