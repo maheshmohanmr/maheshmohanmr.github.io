@@ -167,7 +167,7 @@ details {
   <h3>Interns</h3>
                  <ol>
                      <li> 
-                   Tushti Thakur &#9971; [PhD to University of California, Riverside, US](Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
+                   Tushti Thakur &#9971; [PhD to University of California, Riverside, US] (Jadavpur University,  Joined - July 2024) [Jointly with <a href="https://www.researchgate.net/profile/Sumith-Sreedhar">Dr. Sumith Sreedhar, Mahindra</a> and <a href="https://sites.google.com/view/kiranv?pli=1"> Prof. Kiran Vijayan, IIT KGP</a>]
                       </li>        
                    <li> 
                    Nikhil Kowshik (IIT Kharagpur,  Joined - Jan 2026) [Jointly with <a href="https://cse.iitkgp.ac.in/~spp/"> Prof. Sudebkumar Prashanth Pal, IIT KGP</a>]
