@@ -28,14 +28,14 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   
 
  <strong>News<strong>:
- * &#91; 2026.05 &#93; &nbsp; Congrats Tushti Takur for the PhD offer from the University of California, Riverside, US!
+ * &#91; 2026.05 &#93; &nbsp; &#127891; Congrats Tushti Takur for the PhD offer from the University of California, Riverside, US!
   * &#91; 2026.05 &#93; &nbsp; Recognized with [ICML 2026](https://icml.cc/) Gold Reviewer Award. Thanks to SPAI group for constructive inputs!
  * &#91; 2026.05 &#93; &nbsp; Congrats Sayan Manna, Divyanshu, and Ram for securing the IndiaAI Research fellowships!
   * &#91; 2026.05 &#93; &nbsp; &#x2728; Paper by Kunal, Chirayu, and Jatin accepted at ICML 2026, Seoul, S. Korea (CORE-A*). Congrats!
  * &#91; 2026.04 &#93; &nbsp; Got awarded [ANRF Early Career Research Grant](https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New)  (3 yrs). 
  * &#91; 2026.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2026](https://indoml.in/index.php). 
  * &#91; 2026.03 &#93; &nbsp; Got awarded [ISRO project grant](https://www.isro.gov.in/)  (3 yrs) with Prof. Adway Mitra and Mr. Dhiroj Behera (Scientist-SE, ISRO). 
-  * &#91; 2026.02 &#93; &nbsp; Congrats Sayan Manna for the PhD offers from Univ of Washington, National Univ Singapore, and Oxford!
+  * &#91; 2026.02 &#93; &nbsp; &#127891; Congrats Sayan Manna for the PhD offers from Univ of Washington, National Univ Singapore, and Oxford!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
   *  &#91; 2026.02 &#93; &nbsp;  Prof. Mahesh will be serving as an Organizer of [IndiaAI presummit Workshop](https://ais.cse.iitkgp.ac.in/).
  * &#91; 2026.01 &#93; &nbsp; Congrats Siddharth for securing the IndiaAI Research fellowship for his ongoing research!
