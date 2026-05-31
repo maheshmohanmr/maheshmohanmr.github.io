@@ -35,7 +35,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  * &#91; 2026.04 &#93; &nbsp; Got awarded [ANRF Early Career Research Grant](https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New)  (3 yrs). 
  * &#91; 2026.04 &#93; &nbsp; Prof. Mahesh will be serving as  Datathon Chair for [IndoML 2026](https://indoml.in/index.php). 
  * &#91; 2026.03 &#93; &nbsp; Got awarded [ISRO project grant](https://www.isro.gov.in/)  (3 yrs) with Prof. Adway Mitra and Mr. Dhiroj Behera (Scientist-SE, ISRO). 
-  * &#91; 2026.02 &#93; &nbsp; &#127891; Congrats Sayan Manna for the PhD offers from Univ of Washington, National Univ Singapore, and Oxford!
+  * &#91; 2026.02 &#93; &nbsp; &#127891; Congrats Sayan M for the PhD offers from Univ of Washington, National Univ Singapore, and Oxford!
   * &#91; 2026.02 &#93; &nbsp; Congrats Harsh for securing the IndiaAI Research fellowship for his ongoing research!
   *  &#91; 2026.02 &#93; &nbsp;  Prof. Mahesh will be serving as an Organizer of [IndiaAI presummit Workshop](https://ais.cse.iitkgp.ac.in/).
  * &#91; 2026.01 &#93; &nbsp; Congrats Siddharth for securing the IndiaAI Research fellowship for his ongoing research!
