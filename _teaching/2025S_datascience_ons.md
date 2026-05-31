@@ -17,8 +17,8 @@ Logistics: Sole Instructor; Weekly 3 hrs lecture + 1 hr Tutorial; Credits: 4
 <p>
 Students: 49 (Core subject for B-Tech in AI, First Year)
 </p>
-<!-- <p>
+<p>
 Student Feedback: 4.02/5 <a href="../files/DS_2025S_ons.JPG">(IIT-KGP ERP Snapshot)</a>
-</p> -->
+</p>
 
 
