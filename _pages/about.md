@@ -62,7 +62,7 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
  * &#91; 2024.06 &#93; &nbsp; Amara joined MakeMyTrip as a Senior Data Scientist. Best Wishes Amara!
  * &#91; 2024.04 &#93; &nbsp;  Congrats Amara for receiving the prestigious [UG Chanakya Fellowship](https://ai4icps.in/technology-1) award! 
   * &#91; 2022.08 &#93; &nbsp; Presented two posters on [AIFARMS](https://aifarms.illinois.edu/) technical conference on AI for agriculture.
-  * &#91; 2022.05 &#93; &nbsp; Two journal papers got accepted ([Signal processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) and [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)).
+  * &#91; 2022.05 &#93; &nbsp; &#x2728;&#x2728; Two journal papers got accepted ([Signal processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97) and [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)).
   * &#91; 2021.08 &#93; &nbsp; Invited reviewer for the [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
   * &#91; 2021.04 &#93; &nbsp; &#127891; [Nithin GK](https://nithin-gk.github.io) who worked with me in IEEE-TIP got PhD offer from John Hopkins Univ, US. Congrats!
    * &#91; 2021.04 &#93; &nbsp; One paper is accepted in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
@@ -70,12 +70,12 @@ I grew up in Kerala, India, a place adorned with [lush hues of Nature](https://w
   * &#91; 2019.11 &#93; &nbsp; Invited reviewer for the Int'l journal [Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding).
   * &#91; 2019.07 &#93; &nbsp; Selected for [ICCV-19 Doctoral Consortium](http://iccv2019.thecvf.com/program/doctoral_consortium), Seoul, S. Korea.
   * &#91;	2019.06 &#93; &nbsp; &#127891; [Sharth Girish](https://sharath-girish.github.io/) who worked with me in ICCV-19 got PhD offer from Univ of Maryland, US. Congrats!
-  * &#91;	2019.06 &#93; &nbsp; One paper is accepted as <q>Oral</q> in ICCV-19, Seoul, S. Korea. 	(4.3% acceptance rate).
+  * &#91;	2019.06 &#93; &nbsp; &#x2728; One paper is accepted as <q>Oral</q> in ICCV-19, Seoul, S. Korea. 	(4.3% acceptance rate).
   * &#91;	2018.12 &#93; &nbsp; Invited speaker at [ICVGIP-18](https://cvit.iiit.ac.in/icvgip18/), "Light Field Deblurring", Hyderabad, India.
-  * &#91;	2018.04 &#93; &nbsp; <q>Two</q> papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
+  * &#91;	2018.04 &#93; &nbsp; &#x2728;&#x2728; <q>Two</q> papers are accepted in [CVPR-18](https://www.google.com/search?q=cvpr+2018&ie=utf-8&oe=utf-8&client=firefox-b-e) (29% acceptance rate).
    * &#91;	2017.12 &#93; &nbsp; Invited speaker at [NCVPRIPG-17](http://ncvpripg.iitmandi.ac.in/), "RS Cameras", Himachal Pradesh, India.
   * &#91;	2017.07 &#93; &nbsp; Awarded Microsoft & ACM  grants  to attend ICCV-17, Venice, Italy.
-  * &#91;	2016.07 &#93; &nbsp; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
+  * &#91;	2016.07 &#93; &nbsp; &#x2728;&#x2728; Two papers are accepted in [ECCV-16](http://www.eccv2016.org/) and [ICCV-17](http://iccv2017.thecvf.com/) 	(~28 % acceptance rate).
   * &#91; 2019.07 &#93; &nbsp; Awarded Google  grant to attend [ICCV-19](http://iccv2019.thecvf.com/), Seoul, S. Korea.
 
 <html>
