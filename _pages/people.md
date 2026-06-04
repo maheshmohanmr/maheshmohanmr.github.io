@@ -314,7 +314,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, Jan 2025 - M
 </details>
 <li> 
 IndoML Poster Presentation Award: Third prize by Sayan Manna <br>
-<img src="../images/kunal_ons.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+<img src="../images/sayan_manna_ons.jpg" alt="HTML5 Icon" width="1000">
   </li>
 <h2>SPAI Group's Internal Resources</h2>
 Accessible to SPAI Group (current members and alumni).
