@@ -312,6 +312,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, Jan 2025 - M
         </ol>
   </p>
 </details>
+<img src="../images/kunal_ons.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <h2>SPAI Group's Internal Resources</h2>
 Accessible to SPAI Group (current members and alumni).
  <input id='password' type='text'  />
