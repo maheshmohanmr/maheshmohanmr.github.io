@@ -702,7 +702,7 @@ author_profile: true
             </td>
             </tr> -->
                     <tr> -->
-           <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
+           <!-- <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
 looking for, please write to me to get a copy.<br>
 <b>Copyright notice</b>: Copies of the papers are provided here for 
@@ -720,21 +720,9 @@ in last names</a></b>.
 <center>
 <i>Not everything that can be counted counts, and not everything that counts can be counted. -- Albert Einstein</i>
 </center>
- </tr>-->        
+ </tr>-->         -->
   
- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-            <td style="padding:20px;border:0px;border-bottom: 1px solid #ddd;width:100%;vertical-align:middle">
-              <heading>SPAI Group's Funding</heading> <br>
-             Our research is generously supported by <br> 
-               <img src="../images/SPAI_establish26_ons.png" alt="support" style="width:100%">
-                 <br> 
-            <!--  <br> 
-              with a conviction that <q><i>Public money ought to be touched with the most scrupulous conscientiousness of honor. It is not the produce of riches only, but of the hard earnings of labor and poverty. It is drawn even from the bitterness of want and misery. Not a beggar passes, or perishes in the streets, whose mite is not in that mass.</i></q> -- Thomas Paine, French Revolutionary and Philospher.-->
-                          </td>
-           
-          </tr> 
-</tbody>
+
     
      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
