@@ -551,7 +551,7 @@ author_profile: true
          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;border:0px;border-bottom: 0px solid #ddd;width:100%;vertical-align:middle">
-              <heading>Miscellaneous</heading>
+              <!-- <heading>Miscellaneous</heading>
                 </td>
           </tr> 
 </tbody> 
@@ -629,7 +629,7 @@ author_profile: true
             </td>
           </tr> 
            </tbody>
-           </table>
+           </table> -->
            <!-- New paper ONS -->
           <!-- <tr onmouseout="dpzlearn_stop()" onmouseover="dpzlearn_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
