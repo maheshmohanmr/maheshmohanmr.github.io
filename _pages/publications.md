@@ -701,7 +701,7 @@ author_profile: true
               <p>Training a neural network on light stage scans and environment maps produces an effective relighting method.</p>
             </td>
             </tr> -->
-                   <!--    <tr>
+                    <tr>
            <b>Dissemination</b>: All published papers are available online. Click on the title of the paper 
 for the details. If you are unable to download a paper listed here, that you are 
 looking for, please write to me to get a copy.<br>
