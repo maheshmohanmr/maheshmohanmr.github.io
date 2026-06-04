@@ -321,7 +321,42 @@ author_profile: true
               <p></p>
               <p>Motion deblurring for dual-lens cameras possess an <q>ill-posedness</q>, which calls for a <q>prior</q> for depth-consistent deblurring. </p>
             </td>
-          </tr>      
+          </tr>    
+              <!-- Om Nama Sivaya -->
+             <!-- New paper ONS -->
+          <tr onmouseout="kla_stop()" onmouseover="kla_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='kla_image'><img src='../images/kl_18_op1_ons_sqr.png'></div>
+                <img src='../images/kl_18_ip1_ons_sqr.png'>              </div>
+              <script type="text/javascript">
+                function kla_start() {
+                  document.getElementById('kla_image').style.opacity = "1";
+                }
+                function kla_stop() {
+                  document.getElementById('kla_image').style.opacity = "0";
+                }
+                kla_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Noise-aware Detail Enhancement in Scanning Electron Microscope imagery.</papertitle>
+              </a>
+              <br>
+               <strong>Mahesh Mohan M. R.</strong>,
+              <a href="http://www.ee.iitm.ac.in/~raju/">A. N. Rajagopalan </a> and
+              <a href="https://www.zoominfo.com/p/Raj-Kuppa/-2062444008">Raj Kuppa</a>,
+              <br>
+              <em><a href="https://www.kla-tencor.com/"> KLA-Tencor</a>'s Neoterix</em>, 2018 &nbsp; <font color="green"><strong>(in use at KLA-Tencor)</strong></font>
+              <br>
+              <!-- ONS -->
+              <a href="https://drive.google.com/file/d/156KZ-iQiy8kqAjzVGHiDwHao3CesX5eL/view">abstract</a> / (rest is proprietary of <a href="https://www.kla-tencor.com/"> KLA-T</a>.)
+              <br>
+              <p></p>
+              <p> A fully-automatic denoising based on a <q>convex prior on SEM images</q>, which eradicate (difficult to infer or possibly erroneous) noise models.  </p>
+            </td>
+          </tr> 
            <!-- New paper ONS -->
           <tr onmouseout="divide_stop()" onmouseover="divide_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
@@ -474,6 +509,42 @@ author_profile: true
               <p>Deep Learning is used to obtain the attributes of object motion and camera motion, which is then employed for segmenting moving object(s). </p>
             </td>
           </tr>      
+             <!-- New paper ONS -->
+          <tr onmouseout="gec_stop()" onmouseover="gec_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='gec_image'><img src='../images/icccc_13_op_ons_sqr.png'></div>
+                <img src='../images/icccc_13_ip_ons_sqr.png'>
+              </div>
+              <script type="text/javascript">
+                function gec_start() {
+                  document.getElementById('gec_image').style.opacity = "1";
+                }
+                function gec_stop() {
+                  document.getElementById('gec_image').style.opacity = "0";
+                }
+                gec_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>A novel method of Medical Image Denoising using Bilateral and NLM filtering.</papertitle>
+              </a>
+              <br>
+               <strong>Mahesh Mohan M. R.</strong> and
+              <a href="http://gectcr.ac.in/about-us/principals-profile/">Sheeba V. S.</a>,
+              <br>
+              <em>ICACC</em>, 2013 &nbsp; <font color="green"><strong>(Oral Presentation)</strong></font>
+              <br>
+              <a href="../files/ICACC_paper.pdf">paper</a> /
+               <a href="../files/ONS_thesis_GECT.pdf"> technical report</a> /
+               <a href="../files/ICACC_slides.pdf">slides</a> /
+               <a href="../files/ICACC_bib.txt">bib</a> 
+              <br>
+              <p></p>
+              <p> Wavelet thresholding (Visushrink) is extended to Contourlet transform, in order to enhance the performance of bilateral and NLM filtering. </p> 
+            </td>
+          </tr>
            </tbody>
            </table>
     <!-- Miscellaneous --> 
