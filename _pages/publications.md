@@ -110,7 +110,7 @@ Manifold</papertitle>
               <br>
               Sayan Manna, Mahesh Mohan M. R.
               <br>
-              <em>INDOML 2025 </em> 
+              <em>INDOML 2025 </em> <font color="green"><strong>(Third Poster Prize)</strong></font>
               <br> 
               <a href="../files/Indoml2025_paper_ons.pdf">paper </a> /
               <a href="../files/Indoml2025_poster_ons.pdf">poster</a>
