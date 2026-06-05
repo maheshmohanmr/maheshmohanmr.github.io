@@ -85,6 +85,41 @@ author_profile: true
               <p>Learning joint temporal embeddings with semantic distillation from multimodal data </p>
             </td>
           </tr>
+              <!-- Indoml 2025 ons -->
+          <tr onmouseout="indoml2025_stop()" onmouseover="indoml2025_start()">
+            <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <div class="one">
+                <div class="two" id='indoml2025_image'><img src='../files/Indoml2025_img2_ons.JPG'></div>
+                <img src='../files/Indoml2025_img1_ons.JPG'>
+              </div>
+              <script type="text/javascript">
+                function indoml2025_start() {
+                  document.getElementById('indoml2025_image').style.opacity = "1";
+                }
+                function indoml2025_stop() {
+                  document.getElementById('indoml2025_image').style.opacity = "0";
+                }
+                indoml2025_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:71%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
+              <a href="TODO">
+                <papertitle>Quantum Circuit Design using Complex valued Neural Network in Stiefel
+Manifold</papertitle>
+              </a>
+              <br>
+              Sayan Manna, Mahesh Mohan M. R.
+              <br>
+              <em>INDOML 2025 </em> 
+              <br> 
+              <a href="../files/Indoml2025_poster_ons.pdf">paper</a> /
+              <a href="../files/Indoml2025_slide1_ons.pdf">poster 1</a>
+              <br>
+              <p></p>
+              <p>A machine learning approach
+to create the unknown quantum circuit </p>
+            </td>
+          </tr>
               <!-- Indoml 2024 ons -->
           <tr onmouseout="indoml2024_stop()" onmouseover="indoml2024_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
