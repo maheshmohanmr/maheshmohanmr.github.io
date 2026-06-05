@@ -89,8 +89,8 @@ author_profile: true
           <tr onmouseout="indoml2025_stop()" onmouseover="indoml2025_start()">
             <td style="padding:20px;width:29%;vertical-align:middle;border:0px;border-bottom: 1px solid #ddd;">
               <div class="one">
-                <div class="two" id='indoml2025_image'><img src='../files/Indoml2025_img2_ons.png'></div>
-                <img src='../files/Indoml2025_img1_ons.png'>
+                <div class="two" id='indoml2025_image'><img src='../files/IndoML2025_img2_ons.png'></div>
+                <img src='../files/IndoML2025_img1_ons.png'>
               </div>
               <script type="text/javascript">
                 function indoml2025_start() {
