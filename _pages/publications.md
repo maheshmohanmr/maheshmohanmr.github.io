@@ -112,8 +112,8 @@ Manifold</papertitle>
               <br>
               <em>INDOML 2025 </em> 
               <br> 
-              <a href="../files/Indoml2025_poster_ons.pdf">paper</a> /
-              <a href="../files/Indoml2025_slide1_ons.pdf">poster 1</a>
+              <a href="../files/Indoml2025_paper_ons.pdf">paper</a> /
+              <a href="../files/Indoml2025_poster_ons.pdf">poster</a>
               <br>
               <p></p>
               <p>A machine learning approach
