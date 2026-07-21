@@ -316,7 +316,7 @@ Aditya Ashok (IIT Kharagpur, IDDP, Dept of Naval Architecture + AI, Jan 2025 - M
 <br>
 <li> 
 ICML Poster Presentation: Seoul, South Korea (July 2026) <br>
-<img src="../images/ICML_26_ons.jpeg" alt="HTML5 Icon" width="1000">
+<img src="../images/ICML26_ons.gif" alt="HTML5 Icon" width="1000">
   </li>
 <li> 
 IndoML Poster Presentation Award: Third prize by Sayan Manna (December 2025) <br>
